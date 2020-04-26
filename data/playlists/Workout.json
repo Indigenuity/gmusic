@@ -1,1 +1,1847 @@
-{"kind": "sj#playlist", "id": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "creationTimestamp": "1441031760064731", "lastModifiedTimestamp": "1542758766677217", "recentTimestamp": "1500417996556000", "deleted": false, "name": "Workout", "type": "USER_GENERATED", "shareToken": "AMaBXykD1YKbM3x8aLnNMmlUMemDVagIYBlsANynSaAM2tM3wXy_ThLFXMS1T2An6clel7kN9oYWOAd5Dcni7bWnWHHA1UgS8A==", "ownerName": "JD Clark", "description": "", "accessControlled": false, "tracks": [{"kind": "sj#playlistEntry", "id": "2ececddf-1783-3368-a099-2e5d84d51539", "clientId": "cabc7a03-7e95-4222-b7e1-410769384942", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01168714949875433919", "trackId": "7cd9d9e0-677b-3584-8749-600b04d7316f", "creationTimestamp": "1441031760400980", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "cc600b96-e474-3bb3-b664-254148c1acc4", "clientId": "97225082-7489-4959-969a-cf32564d6755", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01184508395144020863", "trackId": "7392f98c-ea59-3760-956a-f79c2f6ea87c", "creationTimestamp": "1441031760400980", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "f0606dd6-0e90-3404-bea7-8f18dec69c21", "clientId": "1fcaf7ee-00f9-48f9-a282-3d27aca624e3", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01200301840412607807", "trackId": "4df70d7b-fcd4-344b-ad6e-f5435c991be0", "creationTimestamp": "1441032236780707", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "76f266c6-3c75-3d78-83cb-1fcb22b79557", "clientId": "9a2aee9a-718c-4f49-b7f0-054773609bf0", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01231888730949781695", "trackId": "d54d16a9-85b7-3fdb-a80f-58850abb68e7", "creationTimestamp": "1444746876552682", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "6a92d356-88e9-342f-b32b-85bcf04c48b6", "clientId": "d6920067-3353-4a95-bc60-8a616ba77308", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01247682176218368639", "trackId": "6f8266b9-69a0-31d2-842d-3d07a016e47f", "creationTimestamp": "1444747874654081", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "fb907d6f-3b00-3ab2-83a3-14ff7ad01428", "clientId": "71bba6a3-8cfe-4ff7-b3d0-d1254d5102dd", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01263475621486955583", "trackId": "5d04f572-e2ec-3517-854c-84d09d0a5a30", "creationTimestamp": "1445524668261268", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "8e2d3e0a-425c-3ece-84e6-4a8ba1083e3b", "clientId": "2ba83f71-eabc-4ac7-9be6-3a0f4b5ec4a2", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01279269066755542527", "trackId": "89dfef5d-d518-3613-b9f6-b9e51364bfc2", "creationTimestamp": "1445524668261268", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "b360d336-2445-3e94-9240-0982b3163341", "clientId": "11c839df-418c-4ad2-92cf-998d94de6537", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01295062512024129471", "trackId": "c7c9db36-4b6d-325b-b361-1beb2b81a26b", "creationTimestamp": "1445524668261268", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "ad38fbce-b777-38fc-9eea-cfbd7cc86e20", "clientId": "05c533b5-add2-4dc4-8290-882191fe4911", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01358236293098477247", "trackId": "6075321c-663e-3a6f-8082-327a55efbb55", "creationTimestamp": "1445960765397086", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "e044a150-c4df-3796-b097-20236596d9a8", "clientId": "a3a14629-6620-4e3a-b945-e8b9e2e76850", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01374029738367064191", "trackId": "5a4053a9-1758-34e9-aab1-ce1b61a681dd", "creationTimestamp": "1446166600711535", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "64a9bced-d006-38e3-9110-a42364bdcb1f", "clientId": "16e379bb-7fa0-4ae4-95bb-7678baae8483", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01389823183635651135", "trackId": "064f1703-b306-3e4e-9bda-9d9352886b6f", "creationTimestamp": "1448982398698155", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "93dcfeed-3d01-33c4-aa5e-4fbda5279f5e", "clientId": "bbc5a1cc-9105-477a-a95e-e39bec58fb0b", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01452996964709998911", "trackId": "Tcclwnm6wt7j4yn3duli7czhe3q", "creationTimestamp": "1461082787429518", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Party Rock Anthem (feat. Lauren Bennett & GoonRock)", "artist": "LMFAO", "composer": "", "album": "Sorry For Party Rocking (Deluxe Version)", "albumArtist": "LMFAO", "year": 2011, "trackNumber": 3, "genre": "Pop", "durationMillis": "262000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/2ysI8EwqcUNVlrqKgaK4-VUC4cpaH7Rr2wVgn-5f4RM2nzh6uhs8sDr9S6aLFBHmZ1X3z7GvpnI", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/UKjz8X5ah-TBbzTIoTvt8Hh9iWWa4RaVZqlV2FIfFuXbsJkB277sDgXY1kA31wCpaWj7xHUgqsw", "aspectRatio": "2", "autogen": false}], "playCount": 2, "discNumber": 1, "estimatedSize": "10488722", "trackType": "7", "storeId": "Tcclwnm6wt7j4yn3duli7czhe3q", "albumId": "Blpcst62g55fjy75fs2r6d7usdu", "artistId": ["Aal5hzopne3kw6qwxlts3mlhn2y", "Aukjxnxx7t525xo4s53bo5tsldi", "Abzvcx5mhohrs6xu2frem5lxqqi"], "nid": "cclwnm6wt7j4yn3duli7czhe3q", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "1", "primaryVideo": {"kind": "sj#video", "id": "bTH-asC-H6Y", "thumbnails": [{"url": "https://i.ytimg.com/vi/bTH-asC-H6Y/mqdefault.jpg", "width": 320, "height": 180}]}}}, {"kind": "sj#playlistEntry", "id": "b995409a-52c6-3acd-901b-d67e22ee3dec", "clientId": "80876036-ddd4-4905-b012-1f2a6a861e0b", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01468790409978585855", "trackId": "Tzx3dx7ubi4z5irx4erresp5ffu", "creationTimestamp": "1461083101823700", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Runaway Baby", "artist": "Bruno Mars", "composer": "", "album": "Doo-Wops & Hooligans", "albumArtist": "Bruno Mars", "year": 2010, "trackNumber": 4, "genre": "'10s Pop", "durationMillis": "147000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh4.ggpht.com/5ozuIJna_1W-4LGrUoaGCKtod1tIl0WRCHbr1mDJ8prlFpeV1KcZlcL2kSdguzGrH_TzEJCFsaE", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/p_awLVdtVtxG9cw3BtelvZAMgEHJ6thFb2xScF1goKqtf_FiW07YBgLlufzcMad12gk11u74tA", "aspectRatio": "2", "autogen": false}], "playCount": 5, "discNumber": 1, "estimatedSize": "5912059", "trackType": "7", "storeId": "Tzx3dx7ubi4z5irx4erresp5ffu", "albumId": "Bg2k67vfc2atsxanlojnrzddasa", "artistId": ["A75kqwzpoke43xhbjxrbloyylwq"], "nid": "zx3dx7ubi4z5irx4erresp5ffu", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "56fc8294-50fc-38ad-9635-fbf802adaf74", "clientId": "24a6b1d0-2a68-45b3-9646-7e243caa0fe4", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01484583855247172799", "trackId": "Texqikg3opxxmwb5ao6ptj2of5e", "creationTimestamp": "1462551470878653", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "You're Gonna Go Far, Kid", "artist": "The Offspring", "composer": "The Offspring", "album": "Rise And Fall, Rage And Grace", "albumArtist": "The Offspring", "year": 2008, "trackNumber": 3, "genre": "Rock", "durationMillis": "177000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/fpsuJRuI36qmhbwg4UVhSoKovD6gbbOn_3CioqlCQrHfydmTVnzHIcQA-HxSwIDPLMEwQImrmw", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/a7K1ZwPiw79WA1l8NdFmVCUaPIN6bql3eUOcXWcE9x2J7awd7MIQbtt0SAaExgAjqVsJAx6Z", "aspectRatio": "2", "autogen": false}], "playCount": 6, "discNumber": 1, "estimatedSize": "7115792", "trackType": "7", "storeId": "Texqikg3opxxmwb5ao6ptj2of5e", "albumId": "Blj4t7qniuz5u3bp5cgpa4lrvhe", "artistId": ["A4y42cfr4b6m3wxzjrqxxsdl3fe"], "nid": "exqikg3opxxmwb5ao6ptj2of5e", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "1"}}, {"kind": "sj#playlistEntry", "id": "6e3021d1-f9f6-370c-9dc6-25d8dd9a144a", "clientId": "296e3f74-2aa2-41c9-9aa7-8e1f5fecfb8c", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01516170745784346687", "trackId": "T4is4jchmuwgqkrmzzb76u2j77e", "creationTimestamp": "1466521956615154", "lastModifiedTimestamp": "1511089625615087", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Seeing Whats Next", "artist": "Hollywood Principle", "composer": "", "album": "Rocket League (Official Game Soundtrack)", "albumArtist": "Various Artists", "year": 2015, "trackNumber": 10, "genre": "Dance/Electronic", "durationMillis": "199000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/Pjebs8DAr8KlAEjnDKlnOykMsMxcfsigDlKMFYMAkmiMvRZlWSfawfzVxwSevJxGzLqSGa6TFw", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/6jZYBbpMkZIWFfKetQ_sSfypNXdXWTyAKeFXpa3kEeRjYaxVeUZVbFmReqbjY1apTmD4gcowBQ", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/PCTPjyuRiN3b_cP4cGjTisvR9BLfRtn321ONWk7cgHOlOOKO6a4Qyy1MRFSTlZNExYhaSl1_EX8", "aspectRatio": "1", "autogen": true}], "playCount": 1, "discNumber": 1, "estimatedSize": "7973653", "trackType": "7", "storeId": "T4is4jchmuwgqkrmzzb76u2j77e", "albumId": "Bucvnee4qfe55gadci4ebk6sy5e", "artistId": ["Axswnh27tjrcgpqnmelaz33n5cq"], "nid": "4is4jchmuwgqkrmzzb76u2j77e", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "bc94011d-2862-3c79-a46f-f555db1ae4c5", "clientId": "c0c11bd3-b054-49f4-92cb-19a278534aea", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01531964191052933631", "trackId": "096fb6ad-025b-3d78-be3b-b414fc93e74d", "creationTimestamp": "1466522696529299", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "d8982ec3-331c-39e3-b5ef-288bea1cf87b", "clientId": "0f8e9a7d-0d8c-483c-b7ea-21431f434184", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01547757636321520575", "trackId": "8ac57664-6eb8-3061-9e3b-c89039a6e6a4", "creationTimestamp": "1466523176175924", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "e3b85098-abcf-3660-b0e3-ef4e6a945962", "clientId": "b738dcdf-43e2-4fdd-acf1-9cf48971bd76", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01563551081590107519", "trackId": "Th4ur2eamd5hcym6qg3vlus34we", "creationTimestamp": "1466523562112756", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Boss Rush", "artist": "MDK & Neowing", "composer": "", "album": "Rise", "albumArtist": "MDK", "year": 2014, "trackNumber": 9, "genre": "Dance/Electronic", "durationMillis": "220000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.ggpht.com/XoUlgD9q_JMoRF7Ajv5JYSCxR3vag3rI4OGqhOYYhg6yrRR2FHFao6Wj3YX2w-GXg9Rj0-TB", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/de8mTx9_lA8T7JMtPgcHQm1CUkxtnzH28KZJPLehsGeRPENqXCiysuQ0mxGjShnYQ4hxbTmJ", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/60cZh0T4TJXh7Fi_4QFJrvltOpOsNEKiRWSEWGWmezk6mI8fOoAvqo2rz8dzLYaWTSWXeDJv1Q", "aspectRatio": "1", "autogen": true}], "playCount": 4, "discNumber": 1, "estimatedSize": "8830459", "trackType": "7", "storeId": "Th4ur2eamd5hcym6qg3vlus34we", "albumId": "Bb57sk4iz47m2cfohkvxpzvdywq", "artistId": ["Ajwj56haold7nyc64e3szkib6be"], "nid": "h4ur2eamd5hcym6qg3vlus34we", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "5f681301-1ede-3b77-97f3-1c60cbc29bbc", "clientId": "e5f86095-71d5-44a9-8fa5-c226c5773373", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01579344526858694463", "trackId": "Tjuxpbgbbwengwqdkqj44fn242y", "creationTimestamp": "1466523828131288", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Fairy Tail Main Theme (dj-Jo Remix)", "artist": "dj-Jo", "composer": "", "album": "Fairy Tail Main Theme (dj-Jo Remix)", "albumArtist": "dj-Jo", "year": 2014, "trackNumber": 1, "genre": "Pop", "durationMillis": "278000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh4.ggpht.com/_MKCr3e1IURFjRHmgs1wk61uPAzO5MC2dwaNEWm66vTKw5K2euWBevA_uL3Bh6Cfvq6QXIIZ", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/Zn7iVD5Ks9kwN17xpoTC8s-GMN-jmKuwT4syQQWmsh3FEKnsZ2hpwoTlQbV6SC5GqNmwarkQhw", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh4.ggpht.com/_MKCr3e1IURFjRHmgs1wk61uPAzO5MC2dwaNEWm66vTKw5K2euWBevA_uL3Bh6Cfvq6QXIIZ", "aspectRatio": "1", "autogen": true}], "playCount": 7, "discNumber": 1, "estimatedSize": "11138639", "trackType": "7", "storeId": "Tjuxpbgbbwengwqdkqj44fn242y", "albumId": "Bo2bwrk5ds7j6lhfk7sqraphebm", "artistId": ["Atdgkl7d3tvkkg2z6z3vqqdt72u"], "nid": "juxpbgbbwengwqdkqj44fn242y", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "00ecf384-cdc9-3852-94d1-46545d12234b", "clientId": "f9b17fce-ea73-4cee-bb1e-12aec091ac0e", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01595137972127281407", "trackId": "T54avccza4brbi465lpdutladuu", "creationTimestamp": "1466523913749221", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Bit Rush", "artist": "League of Legends", "composer": "", "album": "Bit Rush", "albumArtist": "League of Legends", "year": 2015, "trackNumber": 1, "genre": "Dance/Electronic", "durationMillis": "151000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/oZTFwmEaJvctElY5ufJD1TCd8nojmq_yWZQ1jFOB5qOc19wsaLZGAcW9oXlKUu9t41qnA3I2QiY", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/guWPAJMoZlcM083uE862TUv2TYZDXZdr_wbGPDh9uXuUBOSciufMf8lIHBewLgXjpZ5CZVX2Ew", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/frwyEJtVpTEJhuYvK3_I70FmsH9qfu-Ir5AmmuyrgvDMxz0AGtyZQ8wnRglaTR2JlJo948QQGBU", "aspectRatio": "1", "autogen": true}], "playCount": 15, "discNumber": 1, "estimatedSize": "6072984", "trackType": "7", "storeId": "T54avccza4brbi465lpdutladuu", "albumId": "Btrq6g3pgymfnvaplotc2p4hezy", "artistId": ["Asqos5yxup3kxnumrp6dvchnfqe"], "nid": "54avccza4brbi465lpdutladuu", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "1ec41ffa-6dfa-3a16-810a-88fa97e0da5c", "clientId": "b06d2f46-9f55-46b8-96cc-f5189f176068", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01610931417395868351", "trackId": "Tfeidz2avfcp3tnjz3usf3kpcb4", "creationTimestamp": "1466524468352709", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Frontier", "artist": "Doctor Vox", "composer": "", "album": "Level Up", "albumArtist": "Doctor Vox", "year": 2015, "trackNumber": 4, "genre": "Dance/Electronic", "durationMillis": "323000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh4.ggpht.com/e-r90wmKk8o3c0vxlTZUzr51u7VNEAYOppg9ON9Pq7ZnlulE6j32JdAvnyxyozUJrgqcgnMT-A", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/9WMWnnAuwq-X1E82dGiB5cSou-Mi1zLeJ7C5RyR1TakjazK9PePTmo6GAqtdhjglO5OeaB1g", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh4.ggpht.com/e-r90wmKk8o3c0vxlTZUzr51u7VNEAYOppg9ON9Pq7ZnlulE6j32JdAvnyxyozUJrgqcgnMT-A", "aspectRatio": "1", "autogen": true}], "playCount": 5, "discNumber": 1, "estimatedSize": "12928549", "trackType": "7", "storeId": "Tfeidz2avfcp3tnjz3usf3kpcb4", "albumId": "Bwwjjfob54vjhru5fpzfgtmoptm", "artistId": ["A7pfea6bztgbpzwr6uisgrqq4vq"], "nid": "feidz2avfcp3tnjz3usf3kpcb4", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "4a037e3a-c448-3c2d-8474-ea46246705b4", "clientId": "b8a03929-4a3c-41e5-8bea-4d41650dd98f", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01626724862664455295", "trackId": "5afa2f5e-d9e4-3555-9e9a-5671759dce3f", "creationTimestamp": "1467732344692605", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "a5dddf6b-462a-3ef0-8429-421bd78f664f", "clientId": "9fe8f500-4d73-49d0-a036-89fec93ed4d2", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01674105198470216127", "trackId": "e38fdde5-0b4a-3d32-bd52-6be5cdde5745", "creationTimestamp": "1467733488181316", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "20dcd578-b280-3430-9779-972cce5f85ca", "clientId": "db5c1770-a828-47f9-aac7-0ea0031203f1", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01689898643738803071", "trackId": "Tb3i4nz3zajpjf64qviexd4cjfa", "creationTimestamp": "1469028392217962", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Valhalla", "artist": "MDK & Evan King", "composer": "", "album": "Rise", "albumArtist": "MDK", "year": 2014, "trackNumber": 12, "genre": "Dance/Electronic", "durationMillis": "224000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.ggpht.com/XoUlgD9q_JMoRF7Ajv5JYSCxR3vag3rI4OGqhOYYhg6yrRR2FHFao6Wj3YX2w-GXg9Rj0-TB", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/de8mTx9_lA8T7JMtPgcHQm1CUkxtnzH28KZJPLehsGeRPENqXCiysuQ0mxGjShnYQ4hxbTmJ", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/60cZh0T4TJXh7Fi_4QFJrvltOpOsNEKiRWSEWGWmezk6mI8fOoAvqo2rz8dzLYaWTSWXeDJv1Q", "aspectRatio": "1", "autogen": true}], "playCount": 3, "discNumber": 1, "estimatedSize": "8989284", "trackType": "7", "storeId": "Tb3i4nz3zajpjf64qviexd4cjfa", "albumId": "Bb57sk4iz47m2cfohkvxpzvdywq", "artistId": ["Ajwj56haold7nyc64e3szkib6be"], "nid": "b3i4nz3zajpjf64qviexd4cjfa", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "047d9497-6636-39d9-8fd8-6a07a98b043b", "clientId": "590dc9e2-23a8-47db-b85d-094e398ea080", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01705692089007390015", "trackId": "Ttklz7v64kkwqnn77wwflxop24u", "creationTimestamp": "1469028547477251", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Mixed Fortunes", "artist": "Shurk", "composer": "Shurk", "album": "Cosmic Casino", "albumArtist": "Shurk", "year": 2015, "trackNumber": 2, "genre": "Dance/Electronic", "durationMillis": "176000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh6.ggpht.com/CGnAJBccQkOTy9Ex_pvaPsEnJHzy0sHg2dOxf6KIk0LN5oQ6bQAPHYACF8rpejCwTkeoM9fBVg", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/H0rPXJt8lj-LWGadcwi9MYNTZvTEN2QNDeDjIqLAPc2gHgLR_k0J5XZHJFclRKpDwuOuLVaG", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/gSvXn87aOYQWpjbtjinRvOi8O6zM6wKH5SaHmXAHVmPDDf3-GR8NotK-5n3NxZF4zuhJj6Lf", "aspectRatio": "1", "autogen": true}], "playCount": 6, "discNumber": 1, "estimatedSize": "7076076", "trackType": "7", "storeId": "Ttklz7v64kkwqnn77wwflxop24u", "albumId": "Bi2nyvlck6hbowfa2pq6wte5qdi", "artistId": ["Ajbqqx72g4jssprgns77k7d4awq"], "nid": "tklz7v64kkwqnn77wwflxop24u", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "66a08d80-f920-3dfd-8f6c-333cb79afe27", "clientId": "1a581d1c-6828-46af-9f39-14a9066a34c7", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01721485534275976959", "trackId": "Tyomzjlfppv7tsvgjuhaydmg2bi", "creationTimestamp": "1469028742985008", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Fade", "artist": "Janji", "composer": "", "album": "Fade", "albumArtist": "Janji", "year": 2015, "trackNumber": 1, "genre": "Dance/Electronic", "durationMillis": "195000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/sw5qJ0HCXAPO7DfFgyJ-W2ZwuvS-qrXhKQNmiR9k3leQ6pwfPJhCzkFhgBdLVqsjrhbajyIJsQ", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/UToOwSTaoldyUnPMT66AAGK_j-RY1Bt28SYzhBuxxq3P3icaT3pXt7gQewTKj24j2SAKRCdWcg", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/4bRx9vJAibAyjJkYWxax47-zgahRFu5ZXAgCbiF1dZgeMpSE9_3CDI0t7LU1vDXRpjbwcpHKWQ", "aspectRatio": "1", "autogen": true}], "playCount": 2, "discNumber": 1, "estimatedSize": "7803335", "trackType": "7", "storeId": "Tyomzjlfppv7tsvgjuhaydmg2bi", "albumId": "Beybre7nyifoxfupzeb4qwrr3la", "artistId": ["Azgkautjwg765tpg27juhw7l6xy"], "nid": "yomzjlfppv7tsvgjuhaydmg2bi", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "8df64a94-998f-3952-8ea3-6231e50b6ceb", "clientId": "cce010a8-c270-4ab8-b938-8a8b461aacb4", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01737278979544563903", "trackId": "d5ee60d0-096a-3803-b723-b05f9f64597f", "creationTimestamp": "1469225623500849", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "654cfc50-9c30-3ee9-98a9-98954d057bd6", "clientId": "bf1f640e-a483-4d35-a56b-471db6e526f4", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01753072424813150847", "trackId": "30c1c6f0-3704-36c7-80ab-164a2b838683", "creationTimestamp": "1469379952472673", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "bfeb920f-e92a-3317-9512-7b46b9968c44", "clientId": "1b1882d2-97af-4773-bf90-b148c7f3f009", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01768865870081737791", "trackId": "1669730c-2b43-3e1d-a5bf-c71d1b7a553f", "creationTimestamp": "1469631861189057", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "3d5bfbe0-058e-384f-9dc2-20aeca6abbd2", "clientId": "747e2bd2-480c-450a-8bd1-d0cf549b211f", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01784659315350324735", "trackId": "c99e8925-48ac-3199-9374-7589056916a8", "creationTimestamp": "1469801403388628", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "6b8266eb-c851-3b49-9f14-15b8c6bb849a", "clientId": "c4b6d98f-371b-4515-be3c-bb70a7f49e83", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01800452760618911679", "trackId": "T7nasge37gpwuhs2fnvz6a6d3ry", "creationTimestamp": "1470327028025067", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Forgiven", "artist": "Ahrix", "composer": "", "album": "The Beginning", "albumArtist": "Ahrix", "year": 2016, "trackNumber": 7, "genre": "Dance/Electronic", "durationMillis": "187000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/wB3wkBKYR7uy1dghjwNCIyPq1A_cLbrOUmj1nc5J0d9EwVZ0KwY_uKiQJgYvDbuR_aqEzL79aVA", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/1x-k7v2dtG4lSx3KDvmRySX11fA60xTUmCQD5vO_BNsMD8ooW10kHSHJOShlif7zP3T_n2lt", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/wB3wkBKYR7uy1dghjwNCIyPq1A_cLbrOUmj1nc5J0d9EwVZ0KwY_uKiQJgYvDbuR_aqEzL79aVA", "aspectRatio": "1", "autogen": true}], "playCount": 6, "discNumber": 1, "estimatedSize": "7492990", "trackType": "7", "storeId": "T7nasge37gpwuhs2fnvz6a6d3ry", "albumId": "Bpkzfx4u2pzoym5eivzileig4oe", "artistId": ["A5a4lzdfznu7jwwwlpimecju5ey"], "nid": "7nasge37gpwuhs2fnvz6a6d3ry", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "a9061454-4146-3073-af43-786b0da65c51", "clientId": "0110834a-a210-4826-b41b-d29fb8a4031e", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01816246205887498623", "trackId": "Tt3otr2klrqlddfbrvbxuveksbe", "creationTimestamp": "1470327260437951", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Welcome to Planet Urf", "artist": "League of Legends", "composer": "", "album": "Welcome to Planet Urf", "albumArtist": "League of Legends", "year": 2015, "trackNumber": 1, "genre": "Dance/Electronic", "durationMillis": "134000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/Wbv99gTEtuP_IVjnEY1cBRo7gFgd52FR1fS7mIfOQiLOMpm47KpoDFrd50OfBe0tLRaau5fNWg", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/guWPAJMoZlcM083uE862TUv2TYZDXZdr_wbGPDh9uXuUBOSciufMf8lIHBewLgXjpZ5CZVX2Ew", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/frwyEJtVpTEJhuYvK3_I70FmsH9qfu-Ir5AmmuyrgvDMxz0AGtyZQ8wnRglaTR2JlJo948QQGBU", "aspectRatio": "1", "autogen": true}], "playCount": 7, "discNumber": 1, "estimatedSize": "5400069", "trackType": "7", "storeId": "Tt3otr2klrqlddfbrvbxuveksbe", "albumId": "B7dbkg3tx2arkgayg6pnskyxfkq", "artistId": ["Asqos5yxup3kxnumrp6dvchnfqe"], "nid": "t3otr2klrqlddfbrvbxuveksbe", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "4b412f8e-fe72-3e96-81d7-5df28fdaccd4", "clientId": "201e71a5-1637-4d48-8a4b-a2051bf049bd", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01832039651156085567", "trackId": "2c519dbe-8d73-3902-9bcd-985094dea709", "creationTimestamp": "1470327845968742", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "ed52eb7b-f963-34f5-8e93-2685bd234e37", "clientId": "4a1c9fd1-b457-4c4a-8325-31018f6c9404", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "01863626541693259455", "trackId": "c9dcde08-d45d-30de-8015-d56ae5b47b8e", "creationTimestamp": "1470925277704697", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "569f80b7-63e9-3157-99b9-87e88c39d872", "clientId": "ac587582-1be0-4c54-bfc2-231d47ce60b7", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "02037354439647715839", "trackId": "Tqf5fsfnbayxc6zogsjvqrrsn4y", "creationTimestamp": "1471272886902658", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Mars - The Bringer of War", "artist": "London Symphony Orchestra", "composer": "Gustav Holst", "album": "The Planets.", "albumArtist": "Philharmonia Orchestra", "year": 2012, "trackNumber": 1, "genre": "Classical", "durationMillis": "461000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh4.ggpht.com/LW_d3TyhAXGM8tTfm665SSZBUvw2lTcXR8cwRd7nnQM_hdlo6M9BXwnWLgry5CNSKTC4PWueLA", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/Cy190DaMRMLq3fiFFyWklViDfD8nJRYBssb5dLlrv7wNTgQvydQVyEhCnC7L59TAHN59EUX8vng", "aspectRatio": "2", "autogen": false}], "playCount": 1, "discNumber": 1, "estimatedSize": "18447700", "trackType": "7", "storeId": "Tqf5fsfnbayxc6zogsjvqrrsn4y", "albumId": "Bkbcovq3jwkbqn5byhdglnahntu", "artistId": ["A327uxghdqvkpffb4gism36pegi", "Afjvqi7lzoksllbilksdpksdnqy", "Anc5gfh6biv767s3sxn7uyms2q4", "Ahhog663euix266al366z6wx4km"], "nid": "qf5fsfnbayxc6zogsjvqrrsn4y", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "93bf7f51-a8c9-3fce-a331-f3f6204813f1", "clientId": "3c6173f2-35d3-4a57-b9bc-22fcb0f38afd", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "02053147884916302783", "trackId": "296a8986-2d70-39b6-a642-d49e247c2a28", "creationTimestamp": "1471539007978753", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "608521c6-8337-3458-b661-bedff5e0ced7", "clientId": "8e836e29-31ec-4306-a3d5-07ba620d0603", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "02084734775453476671", "trackId": "T3ozpzcau3yc6aa4m2auayxrheq", "creationTimestamp": "1477073790712078", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Trolls in the Dark (Instrumental)", "artist": "Rhapsody", "composer": "", "album": "Dawn of Victory", "albumArtist": "Rhapsody", "year": 2000, "trackNumber": 8, "genre": "Metal", "durationMillis": "152000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/89ZTnBjKHQCdI167etvIlXwZVarWKb6FJLU0LfvEZTphtVqeXX7Ncffl2BJSjyAP1wN5MDho", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/OrsBBmfz75ZCCv-yqSxJuTw3DxzWgOu6Xk3I2zmGXS3dX47AhSp69ZLP9bWiNUptBOcaELAUKg", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/5W7q1CHiwAs524aeMfKyjW37-78dta4_cwmJMomVF29YX__l7nvyyT6EqaHFI6sBWlpsaNhH", "aspectRatio": "1", "autogen": true}], "playCount": 5, "discNumber": 1, "estimatedSize": "6090747", "trackType": "7", "storeId": "T3ozpzcau3yc6aa4m2auayxrheq", "albumId": "Beym54gwpm6ikqeyvikyzsbjghu", "artistId": ["Afq7cqe7vycgkmdj6yufprx25ku"], "nid": "3ozpzcau3yc6aa4m2auayxrheq", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "77899311-67a1-3430-a969-acd100494ce0", "clientId": "b869be04-4c3f-4c61-be43-1bf23a451897", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "02100528220722063615", "trackId": "Ta7hopxvcaicv44gaothmmsbmna", "creationTimestamp": "1484092212847461", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Counting Bodies Like Sheep To The Rhythm Of The War Drums", "artist": "A Perfect Circle", "composer": "", "album": "eMOTIVe", "albumArtist": "A Perfect Circle", "year": 2004, "trackNumber": 10, "genre": "'00s Alternative", "durationMillis": "336000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/8A0QN3S9OHif91HwMlSCuKKSB0skclJFQClIi7BNdPotXs2gotMnSEblAn4VmgrAFpdg-Ua1cA", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/oFWa2oKEdBPaVFwCAPFqzr2lxMv8kI1suwzBExMz_5G5Xi0ieDR_efFjUu9xlHqT1UEM72LlrA", "aspectRatio": "2", "autogen": false}], "playCount": 6, "discNumber": 1, "estimatedSize": "13460412", "trackType": "7", "storeId": "Ta7hopxvcaicv44gaothmmsbmna", "albumId": "Bb42ewilxlhalzlgj5nqeo5fuwu", "artistId": ["Ayl4n7dtqvlkgwz2kzoprzo4hhe"], "nid": "a7hopxvcaicv44gaothmmsbmna", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "1", "primaryVideo": {"kind": "sj#video", "id": "giaZnIr-faM", "thumbnails": [{"url": "https://i.ytimg.com/vi/giaZnIr-faM/mqdefault.jpg", "width": 320, "height": 180}]}}}, {"kind": "sj#playlistEntry", "id": "7d883b0b-9dee-36a8-87b5-a5916f6403fe", "clientId": "fa1cae6d-4791-4b6c-857b-d2ddcfab973a", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "02116321665990650559", "trackId": "To3ds4mkz54lnrfafwuyynvf4nu", "creationTimestamp": "1485205505724093", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "White Witch", "artist": "Savatage", "composer": "", "album": "Hall Of The Mountain King", "albumArtist": "Savatage", "year": 1987, "trackNumber": 8, "genre": "Progressive Metal", "durationMillis": "201000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.ggpht.com/zzKeP1fzEyDhzc4CMk64Ts3HwYdOgzR3dBvCS8nBs9L6F0nIFpp9hAzadGfdA6mcWUSdTR2j0A", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/ag0SfikLoWbv2FWOtVsCxSylQq2VrdyWKCRr5EzX3TCBHGWjlhaG3t1TxzruVCZPrv4hxHuLFC0", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/ka1C7VnB2i4Re66qlwHbiUzPc_ZzQfQTI5AHFASVUHcS_iaKex37-dQv3T1AZYYLeBjr2oPCLw", "aspectRatio": "1", "autogen": true}], "playCount": 1, "discNumber": 1, "estimatedSize": "8050965", "trackType": "7", "storeId": "To3ds4mkz54lnrfafwuyynvf4nu", "albumId": "Bnlxv2xilwmqpazqwvdl43cicoy", "artistId": ["A3xmimaittj6x3igitbq4vt5yxi"], "nid": "o3ds4mkz54lnrfafwuyynvf4nu", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "da5c7566-b27b-3522-a9ae-3a0292e6b810", "clientId": "f43195ee-cce0-4d5f-88a6-15daff1d6c00", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "02132115111259237503", "trackId": "Ts6tqyqmklmektohjj7yo6efjau", "creationTimestamp": "1485205512935582", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Hall of the Mountain King", "artist": "Savatage", "composer": "", "album": "Hall Of The Mountain King", "albumArtist": "Savatage", "year": 1987, "trackNumber": 6, "genre": "Progressive Metal", "durationMillis": "333000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.ggpht.com/zzKeP1fzEyDhzc4CMk64Ts3HwYdOgzR3dBvCS8nBs9L6F0nIFpp9hAzadGfdA6mcWUSdTR2j0A", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/ag0SfikLoWbv2FWOtVsCxSylQq2VrdyWKCRr5EzX3TCBHGWjlhaG3t1TxzruVCZPrv4hxHuLFC0", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/ka1C7VnB2i4Re66qlwHbiUzPc_ZzQfQTI5AHFASVUHcS_iaKex37-dQv3T1AZYYLeBjr2oPCLw", "aspectRatio": "1", "autogen": true}], "playCount": 5, "discNumber": 1, "estimatedSize": "13354868", "trackType": "7", "storeId": "Ts6tqyqmklmektohjj7yo6efjau", "albumId": "Bnlxv2xilwmqpazqwvdl43cicoy", "artistId": ["A3xmimaittj6x3igitbq4vt5yxi"], "nid": "s6tqyqmklmektohjj7yo6efjau", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "6937c5e8-84a2-348f-b6c7-b6d41727ac83", "clientId": "b09b1406-a6cd-4c0a-9882-7ca09f913c7e", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "02147908556527824447", "trackId": "T2dkekg3zl5soefqhyjebu7b4m4", "creationTimestamp": "1499207255364778", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Starbolt", "artist": "Slime Girls", "composer": "", "album": "Vacation Wasteland", "albumArtist": "Slime Girls", "year": 2012, "trackNumber": 7, "genre": "Dance/Electronic", "durationMillis": "175000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh6.ggpht.com/UXeSq2QdoXSqi1OOxlpVfvBE7TROBCWpkdDkOu5hNsCOmYojpaTKDyYZiqkVKckTW_zNsvliw_k", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/A_83-Tjm12Kkw7RA9uIGwixZU6Yr3DJyz5nfgke6xMS3Z0AryJSVulOhN---sv34WG5hEcFQlw", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh6.ggpht.com/UXeSq2QdoXSqi1OOxlpVfvBE7TROBCWpkdDkOu5hNsCOmYojpaTKDyYZiqkVKckTW_zNsvliw_k", "aspectRatio": "1", "autogen": true}], "playCount": 64, "discNumber": 1, "estimatedSize": "7029055", "trackType": "7", "storeId": "T2dkekg3zl5soefqhyjebu7b4m4", "albumId": "Bhqo3xcipyffog5nwtdlpkgqw5y", "artistId": ["Atvilktxugll5p26j55o6wozpa4"], "nid": "2dkekg3zl5soefqhyjebu7b4m4", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "cf426a07-555b-37a0-97a5-84dfd16657f8", "clientId": "d0a6e6f0-ce1c-4ed1-96a2-0ea5ca4e50a5", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "02163702001796411391", "trackId": "Tr7laeee3qztlxutgbjtffhjpwm", "creationTimestamp": "1506998326337468", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Cat Hacks (Bonus Track)", "artist": "Lemon Demon", "composer": "", "album": "Spirit Phone", "albumArtist": "Lemon Demon", "year": 2016, "trackNumber": 18, "genre": "Pop", "durationMillis": "186000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/85KSgjqywRo3EItXShPtqtHR_HxuWgy76C21blcwQUcx21sAQKYh0ZBEu2UlUv-NsgVf8mKfDA", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/lbdunb1nfHkJiZYim3jFcz6i9EpGw1fSV6dGSY2j0dq2nFpkUp1uCrcfc5ggFau5hrhbN0xUIQ", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/85KSgjqywRo3EItXShPtqtHR_HxuWgy76C21blcwQUcx21sAQKYh0ZBEu2UlUv-NsgVf8mKfDA", "aspectRatio": "1", "autogen": true}], "playCount": 3, "discNumber": 1, "estimatedSize": "7473137", "trackType": "7", "storeId": "Tr7laeee3qztlxutgbjtffhjpwm", "albumId": "Bfzd4lqiogd64zyic2pqzaeocgm", "artistId": ["Avknjyd2aqgcmnh6nmdf5wkqo7u"], "nid": "r7laeee3qztlxutgbjtffhjpwm", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "f5b89c35-d0cb-336e-9b3b-85c637e005c3", "clientId": "783896e9-ecf3-4680-9691-5d3d7c5c4102", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "02179495447064998335", "trackId": "bff31783-de38-3141-8260-014184509f8a", "creationTimestamp": "1509020931097620", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "232191c7-694a-320d-b6ce-6b3aee635ec4", "clientId": "4afce81f-6eec-4042-9447-b36265aab93a", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "02195288892333585279", "trackId": "Tanovgcm2r5pgizijjd7x24kg6i", "creationTimestamp": "1509020931097620", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "mOBSCENE", "artist": "Marilyn Manson", "composer": "", "album": "The Golden Age Of Grotesque", "albumArtist": "Marilyn Manson", "year": 2003, "trackNumber": 3, "genre": "Alt Metal", "durationMillis": "205000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/IOZJ431abnm4xoXPx6iNSk2grKl_sRxL2thyFkOXTB8esIiMPzDeTdiTM2Q1TmxlsT2MxbnLQA", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/GlTKtKiH5EzbCpWfT3hPNbXlVtTRticsNWudFXfxAuA_baBjqA_L1ab892pjAVeYTuw3Xu8iUhQ", "aspectRatio": "2", "autogen": false}], "playCount": 2, "discNumber": 1, "estimatedSize": "8231743", "trackType": "7", "storeId": "Tanovgcm2r5pgizijjd7x24kg6i", "albumId": "B7xymysijmekqimmvmlg5n2tzou", "artistId": ["Adapeia5dne7enfavka2x2u3j2m"], "nid": "anovgcm2r5pgizijjd7x24kg6i", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "1"}}, {"kind": "sj#playlistEntry", "id": "721ccdee-a057-3982-b316-55ba6425e1ca", "clientId": "d3ad368c-9497-470c-9a40-d4339fbc556d", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "02211082337602172223", "trackId": "Ttp7jxsimjyiuu2ieloeyvcjhoy", "creationTimestamp": "1509020931097620", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Rebellion (Instrumental)", "artist": "Linkin Park", "composer": "", "album": "The Hunting Party: Acapellas + Instrumentals", "albumArtist": "Linkin Park", "year": 2014, "trackNumber": 18, "genre": "Metal", "durationMillis": "225000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.ggpht.com/GAp7F_Vsz4t-Qokch6zBleSZQ1bNkQpbdlPIybj2xooEaqtUpFM7ox49dxT4lFwQ1GeSlKua", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/WOg_XejO-LNNyRLSEjA4dmfL-18MrNoA5a-ETdAQ9rWJDU1C6jLyi2oy20W36pGxlfkhCzmH-Q", "aspectRatio": "2", "autogen": false}], "playCount": 1, "discNumber": 1, "estimatedSize": "9008092", "trackType": "7", "storeId": "Ttp7jxsimjyiuu2ieloeyvcjhoy", "albumId": "Bffgfsh2a6rs4nnvnezq5r4bmgu", "artistId": ["Ac524cs4icx4xnekce4qkegkrce"], "nid": "tp7jxsimjyiuu2ieloeyvcjhoy", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "d09087da-35ed-34b7-81fd-0733d2f6c4ca", "clientId": "062211b4-267e-4285-9b51-b9b1dbd0e0f5", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "02226875782870759167", "trackId": "T7abyk3xws7ogixkztvelkefv7i", "creationTimestamp": "1509368783889423", "lastModifiedTimestamp": "1509711561756997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Nightbringers", "artist": "The Black Dahlia Murder", "composer": "", "album": "Nightbringers", "albumArtist": "The Black Dahlia Murder", "year": 2017, "trackNumber": 4, "genre": "Metal", "durationMillis": "215000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/1Io9ZdexSwtCosdlLvyv4pifGc0fLYusXqk2avvAe8RDMFr1BnuRLzz2sR7s0CQjTBIkolqLUQ", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/KQOymYJUe_3IHh7Hx-BQG57kNlQtnMZGYuyr-bwOS5ZvNqAm18Cl_GMBiKXTQaJOMOet0NSEgQ", "aspectRatio": "2", "autogen": false}], "playCount": 1, "discNumber": 1, "estimatedSize": "8630894", "trackType": "7", "storeId": "T7abyk3xws7ogixkztvelkefv7i", "albumId": "Bnbw2yk4y24u4c4aetaat5b4rcu", "artistId": ["Axfgd5hewd3n3v5hpjvrtlw4oym"], "nid": "7abyk3xws7ogixkztvelkefv7i", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "2a5e4719-ceb9-3bbf-aceb-965c08f1a838", "clientId": "54648cee-c0c7-4fa0-a63e-a26cc6d20b54", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "02258462673407933055", "trackId": "Tatpqqbjjyo2w62lj55cpjcjtha", "creationTimestamp": "1509711561771902", "lastModifiedTimestamp": "1509711561771902", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Drunken Lullabies", "artist": "Flogging Molly", "composer": "", "album": "Drunken Lullabies", "albumArtist": "Flogging Molly", "year": 2002, "trackNumber": 1, "genre": "Punk", "durationMillis": "230000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/1XPFqWPYDs-KwoeAJIu9tOTllh0kHFUXDeTWCVB6M65Bj4sXviise1y0vhy6xnoteQJCR_Nz2LI", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/h-uSYJfjbNMh1HRwRUWWCadZwng5RDhKnwzMiu11JZceodf6OiZ2XzccXqyjYvuGAlStu-Bz1Q", "aspectRatio": "2", "autogen": false}], "playCount": 1, "discNumber": 1, "estimatedSize": "9228575", "trackType": "7", "storeId": "Tatpqqbjjyo2w62lj55cpjcjtha", "albumId": "B4cbds75bbydmy7ej2gacq7ckma", "artistId": ["Avgdtqj52kzvrirr5jx2t7f7gve"], "nid": "atpqqbjjyo2w62lj55cpjcjtha", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2", "primaryVideo": {"kind": "sj#video", "id": "89NjEeHku8o", "thumbnails": [{"url": "https://i.ytimg.com/vi/89NjEeHku8o/mqdefault.jpg", "width": 320, "height": 180}]}}}, {"kind": "sj#playlistEntry", "id": "12f445e5-5b26-332c-abb9-fac257774735", "clientId": "4524463d-e47f-4c0a-98c1-2dcaa3ea1b7d", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "02274256118676519999", "trackId": "Tlb7fm23noze6ccr4v43zy7zho4", "creationTimestamp": "1509711561771902", "lastModifiedTimestamp": "1509711561771902", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "What's Left of the Flag", "artist": "Flogging Molly", "composer": "", "album": "Drunken Lullabies", "albumArtist": "Flogging Molly", "year": 2002, "trackNumber": 2, "genre": "Punk", "durationMillis": "219000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/1XPFqWPYDs-KwoeAJIu9tOTllh0kHFUXDeTWCVB6M65Bj4sXviise1y0vhy6xnoteQJCR_Nz2LI", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/h-uSYJfjbNMh1HRwRUWWCadZwng5RDhKnwzMiu11JZceodf6OiZ2XzccXqyjYvuGAlStu-Bz1Q", "aspectRatio": "2", "autogen": false}], "playCount": 1, "discNumber": 1, "estimatedSize": "8761506", "trackType": "7", "storeId": "Tlb7fm23noze6ccr4v43zy7zho4", "albumId": "B4cbds75bbydmy7ej2gacq7ckma", "artistId": ["Avgdtqj52kzvrirr5jx2t7f7gve"], "nid": "lb7fm23noze6ccr4v43zy7zho4", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2", "primaryVideo": {"kind": "sj#video", "id": "Trkx9xLb5X8", "thumbnails": [{"url": "https://i.ytimg.com/vi/Trkx9xLb5X8/mqdefault.jpg", "width": 320, "height": 180}]}}}, {"kind": "sj#playlistEntry", "id": "33ceed47-dfce-3af1-8e2a-b209f273de40", "clientId": "d4636406-8bf4-4480-bcbd-4a6dece93ff8", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "02297946286579400446", "trackId": "Tuwaem6qgef6siizuulxixa2pwa", "creationTimestamp": "1516058444031489", "lastModifiedTimestamp": "1516058444031489", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Music", "artist": "Mystery Skulls", "composer": "", "album": "One of Us", "albumArtist": "Mystery Skulls", "year": 2017, "trackNumber": 10, "genre": "Dance/Electronic", "durationMillis": "202000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/IWDtVha_R7JfiRiXLOlryxz-G2cYnldDGtp3HSK0nu3kvdbnpfR17MX_kiwWffvAgqlAdc0d", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/iBmK-MxFH5gZT2QRYkha3FNm1H5GgkGMLRLLs9T91yOJ2AKxgHnv9DYATMzoBYu6k2wq4eJn3A", "aspectRatio": "2", "autogen": false}], "playCount": 3, "discNumber": 1, "estimatedSize": "8106355", "trackType": "7", "storeId": "Tuwaem6qgef6siizuulxixa2pwa", "albumId": "Bwon4lkww35uafwlcxzxtoou76e", "artistId": ["Awo4dopzcjylvmilbwfb73cmt4y"], "nid": "uwaem6qgef6siizuulxixa2pwa", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "7a90044e-532e-33a1-ac91-8584747d4a1c", "clientId": "b9b5e964-0e8d-45c6-b5e3-bba7f36f47c5", "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f", "absolutePosition": "02301894647896547197", "trackId": "2fe75189-83dc-39bd-a906-20d85110c14c", "creationTimestamp": "1516546191722765", "lastModifiedTimestamp": "1516546191722765", "deleted": false, "source": "1"}]}
+{
+  "kind": "sj#playlist",
+  "id": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+  "creationTimestamp": "1441031760064731",
+  "lastModifiedTimestamp": "1542758766677217",
+  "recentTimestamp": "1500417996556000",
+  "deleted": false,
+  "name": "Workout",
+  "type": "USER_GENERATED",
+  "shareToken": "AMaBXykD1YKbM3x8aLnNMmlUMemDVagIYBlsANynSaAM2tM3wXy_ThLFXMS1T2An6clel7kN9oYWOAd5Dcni7bWnWHHA1UgS8A==",
+  "ownerName": "JD Clark",
+  "description": "",
+  "accessControlled": false,
+  "tracks": [
+    {
+      "kind": "sj#playlistEntry",
+      "id": "2ececddf-1783-3368-a099-2e5d84d51539",
+      "clientId": "cabc7a03-7e95-4222-b7e1-410769384942",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01168714949875433919",
+      "trackId": "7cd9d9e0-677b-3584-8749-600b04d7316f",
+      "creationTimestamp": "1441031760400980",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "cc600b96-e474-3bb3-b664-254148c1acc4",
+      "clientId": "97225082-7489-4959-969a-cf32564d6755",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01184508395144020863",
+      "trackId": "7392f98c-ea59-3760-956a-f79c2f6ea87c",
+      "creationTimestamp": "1441031760400980",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "f0606dd6-0e90-3404-bea7-8f18dec69c21",
+      "clientId": "1fcaf7ee-00f9-48f9-a282-3d27aca624e3",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01200301840412607807",
+      "trackId": "4df70d7b-fcd4-344b-ad6e-f5435c991be0",
+      "creationTimestamp": "1441032236780707",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "76f266c6-3c75-3d78-83cb-1fcb22b79557",
+      "clientId": "9a2aee9a-718c-4f49-b7f0-054773609bf0",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01231888730949781695",
+      "trackId": "d54d16a9-85b7-3fdb-a80f-58850abb68e7",
+      "creationTimestamp": "1444746876552682",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "6a92d356-88e9-342f-b32b-85bcf04c48b6",
+      "clientId": "d6920067-3353-4a95-bc60-8a616ba77308",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01247682176218368639",
+      "trackId": "6f8266b9-69a0-31d2-842d-3d07a016e47f",
+      "creationTimestamp": "1444747874654081",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "fb907d6f-3b00-3ab2-83a3-14ff7ad01428",
+      "clientId": "71bba6a3-8cfe-4ff7-b3d0-d1254d5102dd",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01263475621486955583",
+      "trackId": "5d04f572-e2ec-3517-854c-84d09d0a5a30",
+      "creationTimestamp": "1445524668261268",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "8e2d3e0a-425c-3ece-84e6-4a8ba1083e3b",
+      "clientId": "2ba83f71-eabc-4ac7-9be6-3a0f4b5ec4a2",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01279269066755542527",
+      "trackId": "89dfef5d-d518-3613-b9f6-b9e51364bfc2",
+      "creationTimestamp": "1445524668261268",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "b360d336-2445-3e94-9240-0982b3163341",
+      "clientId": "11c839df-418c-4ad2-92cf-998d94de6537",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01295062512024129471",
+      "trackId": "c7c9db36-4b6d-325b-b361-1beb2b81a26b",
+      "creationTimestamp": "1445524668261268",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "ad38fbce-b777-38fc-9eea-cfbd7cc86e20",
+      "clientId": "05c533b5-add2-4dc4-8290-882191fe4911",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01358236293098477247",
+      "trackId": "6075321c-663e-3a6f-8082-327a55efbb55",
+      "creationTimestamp": "1445960765397086",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "e044a150-c4df-3796-b097-20236596d9a8",
+      "clientId": "a3a14629-6620-4e3a-b945-e8b9e2e76850",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01374029738367064191",
+      "trackId": "5a4053a9-1758-34e9-aab1-ce1b61a681dd",
+      "creationTimestamp": "1446166600711535",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "64a9bced-d006-38e3-9110-a42364bdcb1f",
+      "clientId": "16e379bb-7fa0-4ae4-95bb-7678baae8483",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01389823183635651135",
+      "trackId": "064f1703-b306-3e4e-9bda-9d9352886b6f",
+      "creationTimestamp": "1448982398698155",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "93dcfeed-3d01-33c4-aa5e-4fbda5279f5e",
+      "clientId": "bbc5a1cc-9105-477a-a95e-e39bec58fb0b",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01452996964709998911",
+      "trackId": "Tcclwnm6wt7j4yn3duli7czhe3q",
+      "creationTimestamp": "1461082787429518",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Party Rock Anthem (feat. Lauren Bennett & GoonRock)",
+        "artist": "LMFAO",
+        "composer": "",
+        "album": "Sorry For Party Rocking (Deluxe Version)",
+        "albumArtist": "LMFAO",
+        "year": 2011,
+        "trackNumber": 3,
+        "genre": "Pop",
+        "durationMillis": "262000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/2ysI8EwqcUNVlrqKgaK4-VUC4cpaH7Rr2wVgn-5f4RM2nzh6uhs8sDr9S6aLFBHmZ1X3z7GvpnI",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/UKjz8X5ah-TBbzTIoTvt8Hh9iWWa4RaVZqlV2FIfFuXbsJkB277sDgXY1kA31wCpaWj7xHUgqsw",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 2,
+        "discNumber": 1,
+        "estimatedSize": "10488722",
+        "trackType": "7",
+        "storeId": "Tcclwnm6wt7j4yn3duli7czhe3q",
+        "albumId": "Blpcst62g55fjy75fs2r6d7usdu",
+        "artistId": [
+          "Aal5hzopne3kw6qwxlts3mlhn2y",
+          "Aukjxnxx7t525xo4s53bo5tsldi",
+          "Abzvcx5mhohrs6xu2frem5lxqqi"
+        ],
+        "nid": "cclwnm6wt7j4yn3duli7czhe3q",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "1",
+        "primaryVideo": {
+          "kind": "sj#video",
+          "id": "bTH-asC-H6Y",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/bTH-asC-H6Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            }
+          ]
+        }
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "b995409a-52c6-3acd-901b-d67e22ee3dec",
+      "clientId": "80876036-ddd4-4905-b012-1f2a6a861e0b",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01468790409978585855",
+      "trackId": "Tzx3dx7ubi4z5irx4erresp5ffu",
+      "creationTimestamp": "1461083101823700",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Runaway Baby",
+        "artist": "Bruno Mars",
+        "composer": "",
+        "album": "Doo-Wops & Hooligans",
+        "albumArtist": "Bruno Mars",
+        "year": 2010,
+        "trackNumber": 4,
+        "genre": "'10s Pop",
+        "durationMillis": "147000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh4.ggpht.com/5ozuIJna_1W-4LGrUoaGCKtod1tIl0WRCHbr1mDJ8prlFpeV1KcZlcL2kSdguzGrH_TzEJCFsaE",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/p_awLVdtVtxG9cw3BtelvZAMgEHJ6thFb2xScF1goKqtf_FiW07YBgLlufzcMad12gk11u74tA",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 5,
+        "discNumber": 1,
+        "estimatedSize": "5912059",
+        "trackType": "7",
+        "storeId": "Tzx3dx7ubi4z5irx4erresp5ffu",
+        "albumId": "Bg2k67vfc2atsxanlojnrzddasa",
+        "artistId": [
+          "A75kqwzpoke43xhbjxrbloyylwq"
+        ],
+        "nid": "zx3dx7ubi4z5irx4erresp5ffu",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "56fc8294-50fc-38ad-9635-fbf802adaf74",
+      "clientId": "24a6b1d0-2a68-45b3-9646-7e243caa0fe4",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01484583855247172799",
+      "trackId": "Texqikg3opxxmwb5ao6ptj2of5e",
+      "creationTimestamp": "1462551470878653",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "You're Gonna Go Far, Kid",
+        "artist": "The Offspring",
+        "composer": "The Offspring",
+        "album": "Rise And Fall, Rage And Grace",
+        "albumArtist": "The Offspring",
+        "year": 2008,
+        "trackNumber": 3,
+        "genre": "Rock",
+        "durationMillis": "177000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/fpsuJRuI36qmhbwg4UVhSoKovD6gbbOn_3CioqlCQrHfydmTVnzHIcQA-HxSwIDPLMEwQImrmw",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/a7K1ZwPiw79WA1l8NdFmVCUaPIN6bql3eUOcXWcE9x2J7awd7MIQbtt0SAaExgAjqVsJAx6Z",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 6,
+        "discNumber": 1,
+        "estimatedSize": "7115792",
+        "trackType": "7",
+        "storeId": "Texqikg3opxxmwb5ao6ptj2of5e",
+        "albumId": "Blj4t7qniuz5u3bp5cgpa4lrvhe",
+        "artistId": [
+          "A4y42cfr4b6m3wxzjrqxxsdl3fe"
+        ],
+        "nid": "exqikg3opxxmwb5ao6ptj2of5e",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "1"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "6e3021d1-f9f6-370c-9dc6-25d8dd9a144a",
+      "clientId": "296e3f74-2aa2-41c9-9aa7-8e1f5fecfb8c",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01516170745784346687",
+      "trackId": "T4is4jchmuwgqkrmzzb76u2j77e",
+      "creationTimestamp": "1466521956615154",
+      "lastModifiedTimestamp": "1511089625615087",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Seeing Whats Next",
+        "artist": "Hollywood Principle",
+        "composer": "",
+        "album": "Rocket League (Official Game Soundtrack)",
+        "albumArtist": "Various Artists",
+        "year": 2015,
+        "trackNumber": 10,
+        "genre": "Dance/Electronic",
+        "durationMillis": "199000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/Pjebs8DAr8KlAEjnDKlnOykMsMxcfsigDlKMFYMAkmiMvRZlWSfawfzVxwSevJxGzLqSGa6TFw",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/6jZYBbpMkZIWFfKetQ_sSfypNXdXWTyAKeFXpa3kEeRjYaxVeUZVbFmReqbjY1apTmD4gcowBQ",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/PCTPjyuRiN3b_cP4cGjTisvR9BLfRtn321ONWk7cgHOlOOKO6a4Qyy1MRFSTlZNExYhaSl1_EX8",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 1,
+        "discNumber": 1,
+        "estimatedSize": "7973653",
+        "trackType": "7",
+        "storeId": "T4is4jchmuwgqkrmzzb76u2j77e",
+        "albumId": "Bucvnee4qfe55gadci4ebk6sy5e",
+        "artistId": [
+          "Axswnh27tjrcgpqnmelaz33n5cq"
+        ],
+        "nid": "4is4jchmuwgqkrmzzb76u2j77e",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "bc94011d-2862-3c79-a46f-f555db1ae4c5",
+      "clientId": "c0c11bd3-b054-49f4-92cb-19a278534aea",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01531964191052933631",
+      "trackId": "096fb6ad-025b-3d78-be3b-b414fc93e74d",
+      "creationTimestamp": "1466522696529299",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "d8982ec3-331c-39e3-b5ef-288bea1cf87b",
+      "clientId": "0f8e9a7d-0d8c-483c-b7ea-21431f434184",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01547757636321520575",
+      "trackId": "8ac57664-6eb8-3061-9e3b-c89039a6e6a4",
+      "creationTimestamp": "1466523176175924",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "e3b85098-abcf-3660-b0e3-ef4e6a945962",
+      "clientId": "b738dcdf-43e2-4fdd-acf1-9cf48971bd76",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01563551081590107519",
+      "trackId": "Th4ur2eamd5hcym6qg3vlus34we",
+      "creationTimestamp": "1466523562112756",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Boss Rush",
+        "artist": "MDK & Neowing",
+        "composer": "",
+        "album": "Rise",
+        "albumArtist": "MDK",
+        "year": 2014,
+        "trackNumber": 9,
+        "genre": "Dance/Electronic",
+        "durationMillis": "220000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.ggpht.com/XoUlgD9q_JMoRF7Ajv5JYSCxR3vag3rI4OGqhOYYhg6yrRR2FHFao6Wj3YX2w-GXg9Rj0-TB",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/de8mTx9_lA8T7JMtPgcHQm1CUkxtnzH28KZJPLehsGeRPENqXCiysuQ0mxGjShnYQ4hxbTmJ",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/60cZh0T4TJXh7Fi_4QFJrvltOpOsNEKiRWSEWGWmezk6mI8fOoAvqo2rz8dzLYaWTSWXeDJv1Q",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 4,
+        "discNumber": 1,
+        "estimatedSize": "8830459",
+        "trackType": "7",
+        "storeId": "Th4ur2eamd5hcym6qg3vlus34we",
+        "albumId": "Bb57sk4iz47m2cfohkvxpzvdywq",
+        "artistId": [
+          "Ajwj56haold7nyc64e3szkib6be"
+        ],
+        "nid": "h4ur2eamd5hcym6qg3vlus34we",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "5f681301-1ede-3b77-97f3-1c60cbc29bbc",
+      "clientId": "e5f86095-71d5-44a9-8fa5-c226c5773373",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01579344526858694463",
+      "trackId": "Tjuxpbgbbwengwqdkqj44fn242y",
+      "creationTimestamp": "1466523828131288",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Fairy Tail Main Theme (dj-Jo Remix)",
+        "artist": "dj-Jo",
+        "composer": "",
+        "album": "Fairy Tail Main Theme (dj-Jo Remix)",
+        "albumArtist": "dj-Jo",
+        "year": 2014,
+        "trackNumber": 1,
+        "genre": "Pop",
+        "durationMillis": "278000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh4.ggpht.com/_MKCr3e1IURFjRHmgs1wk61uPAzO5MC2dwaNEWm66vTKw5K2euWBevA_uL3Bh6Cfvq6QXIIZ",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/Zn7iVD5Ks9kwN17xpoTC8s-GMN-jmKuwT4syQQWmsh3FEKnsZ2hpwoTlQbV6SC5GqNmwarkQhw",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh4.ggpht.com/_MKCr3e1IURFjRHmgs1wk61uPAzO5MC2dwaNEWm66vTKw5K2euWBevA_uL3Bh6Cfvq6QXIIZ",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 7,
+        "discNumber": 1,
+        "estimatedSize": "11138639",
+        "trackType": "7",
+        "storeId": "Tjuxpbgbbwengwqdkqj44fn242y",
+        "albumId": "Bo2bwrk5ds7j6lhfk7sqraphebm",
+        "artistId": [
+          "Atdgkl7d3tvkkg2z6z3vqqdt72u"
+        ],
+        "nid": "juxpbgbbwengwqdkqj44fn242y",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "00ecf384-cdc9-3852-94d1-46545d12234b",
+      "clientId": "f9b17fce-ea73-4cee-bb1e-12aec091ac0e",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01595137972127281407",
+      "trackId": "T54avccza4brbi465lpdutladuu",
+      "creationTimestamp": "1466523913749221",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Bit Rush",
+        "artist": "League of Legends",
+        "composer": "",
+        "album": "Bit Rush",
+        "albumArtist": "League of Legends",
+        "year": 2015,
+        "trackNumber": 1,
+        "genre": "Dance/Electronic",
+        "durationMillis": "151000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/oZTFwmEaJvctElY5ufJD1TCd8nojmq_yWZQ1jFOB5qOc19wsaLZGAcW9oXlKUu9t41qnA3I2QiY",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/guWPAJMoZlcM083uE862TUv2TYZDXZdr_wbGPDh9uXuUBOSciufMf8lIHBewLgXjpZ5CZVX2Ew",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/frwyEJtVpTEJhuYvK3_I70FmsH9qfu-Ir5AmmuyrgvDMxz0AGtyZQ8wnRglaTR2JlJo948QQGBU",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 15,
+        "discNumber": 1,
+        "estimatedSize": "6072984",
+        "trackType": "7",
+        "storeId": "T54avccza4brbi465lpdutladuu",
+        "albumId": "Btrq6g3pgymfnvaplotc2p4hezy",
+        "artistId": [
+          "Asqos5yxup3kxnumrp6dvchnfqe"
+        ],
+        "nid": "54avccza4brbi465lpdutladuu",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "1ec41ffa-6dfa-3a16-810a-88fa97e0da5c",
+      "clientId": "b06d2f46-9f55-46b8-96cc-f5189f176068",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01610931417395868351",
+      "trackId": "Tfeidz2avfcp3tnjz3usf3kpcb4",
+      "creationTimestamp": "1466524468352709",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Frontier",
+        "artist": "Doctor Vox",
+        "composer": "",
+        "album": "Level Up",
+        "albumArtist": "Doctor Vox",
+        "year": 2015,
+        "trackNumber": 4,
+        "genre": "Dance/Electronic",
+        "durationMillis": "323000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh4.ggpht.com/e-r90wmKk8o3c0vxlTZUzr51u7VNEAYOppg9ON9Pq7ZnlulE6j32JdAvnyxyozUJrgqcgnMT-A",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/9WMWnnAuwq-X1E82dGiB5cSou-Mi1zLeJ7C5RyR1TakjazK9PePTmo6GAqtdhjglO5OeaB1g",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh4.ggpht.com/e-r90wmKk8o3c0vxlTZUzr51u7VNEAYOppg9ON9Pq7ZnlulE6j32JdAvnyxyozUJrgqcgnMT-A",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 5,
+        "discNumber": 1,
+        "estimatedSize": "12928549",
+        "trackType": "7",
+        "storeId": "Tfeidz2avfcp3tnjz3usf3kpcb4",
+        "albumId": "Bwwjjfob54vjhru5fpzfgtmoptm",
+        "artistId": [
+          "A7pfea6bztgbpzwr6uisgrqq4vq"
+        ],
+        "nid": "feidz2avfcp3tnjz3usf3kpcb4",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "4a037e3a-c448-3c2d-8474-ea46246705b4",
+      "clientId": "b8a03929-4a3c-41e5-8bea-4d41650dd98f",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01626724862664455295",
+      "trackId": "5afa2f5e-d9e4-3555-9e9a-5671759dce3f",
+      "creationTimestamp": "1467732344692605",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "a5dddf6b-462a-3ef0-8429-421bd78f664f",
+      "clientId": "9fe8f500-4d73-49d0-a036-89fec93ed4d2",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01674105198470216127",
+      "trackId": "e38fdde5-0b4a-3d32-bd52-6be5cdde5745",
+      "creationTimestamp": "1467733488181316",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "20dcd578-b280-3430-9779-972cce5f85ca",
+      "clientId": "db5c1770-a828-47f9-aac7-0ea0031203f1",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01689898643738803071",
+      "trackId": "Tb3i4nz3zajpjf64qviexd4cjfa",
+      "creationTimestamp": "1469028392217962",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Valhalla",
+        "artist": "MDK & Evan King",
+        "composer": "",
+        "album": "Rise",
+        "albumArtist": "MDK",
+        "year": 2014,
+        "trackNumber": 12,
+        "genre": "Dance/Electronic",
+        "durationMillis": "224000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.ggpht.com/XoUlgD9q_JMoRF7Ajv5JYSCxR3vag3rI4OGqhOYYhg6yrRR2FHFao6Wj3YX2w-GXg9Rj0-TB",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/de8mTx9_lA8T7JMtPgcHQm1CUkxtnzH28KZJPLehsGeRPENqXCiysuQ0mxGjShnYQ4hxbTmJ",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/60cZh0T4TJXh7Fi_4QFJrvltOpOsNEKiRWSEWGWmezk6mI8fOoAvqo2rz8dzLYaWTSWXeDJv1Q",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 3,
+        "discNumber": 1,
+        "estimatedSize": "8989284",
+        "trackType": "7",
+        "storeId": "Tb3i4nz3zajpjf64qviexd4cjfa",
+        "albumId": "Bb57sk4iz47m2cfohkvxpzvdywq",
+        "artistId": [
+          "Ajwj56haold7nyc64e3szkib6be"
+        ],
+        "nid": "b3i4nz3zajpjf64qviexd4cjfa",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "047d9497-6636-39d9-8fd8-6a07a98b043b",
+      "clientId": "590dc9e2-23a8-47db-b85d-094e398ea080",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01705692089007390015",
+      "trackId": "Ttklz7v64kkwqnn77wwflxop24u",
+      "creationTimestamp": "1469028547477251",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Mixed Fortunes",
+        "artist": "Shurk",
+        "composer": "Shurk",
+        "album": "Cosmic Casino",
+        "albumArtist": "Shurk",
+        "year": 2015,
+        "trackNumber": 2,
+        "genre": "Dance/Electronic",
+        "durationMillis": "176000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh6.ggpht.com/CGnAJBccQkOTy9Ex_pvaPsEnJHzy0sHg2dOxf6KIk0LN5oQ6bQAPHYACF8rpejCwTkeoM9fBVg",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/H0rPXJt8lj-LWGadcwi9MYNTZvTEN2QNDeDjIqLAPc2gHgLR_k0J5XZHJFclRKpDwuOuLVaG",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/gSvXn87aOYQWpjbtjinRvOi8O6zM6wKH5SaHmXAHVmPDDf3-GR8NotK-5n3NxZF4zuhJj6Lf",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 6,
+        "discNumber": 1,
+        "estimatedSize": "7076076",
+        "trackType": "7",
+        "storeId": "Ttklz7v64kkwqnn77wwflxop24u",
+        "albumId": "Bi2nyvlck6hbowfa2pq6wte5qdi",
+        "artistId": [
+          "Ajbqqx72g4jssprgns77k7d4awq"
+        ],
+        "nid": "tklz7v64kkwqnn77wwflxop24u",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "66a08d80-f920-3dfd-8f6c-333cb79afe27",
+      "clientId": "1a581d1c-6828-46af-9f39-14a9066a34c7",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01721485534275976959",
+      "trackId": "Tyomzjlfppv7tsvgjuhaydmg2bi",
+      "creationTimestamp": "1469028742985008",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Fade",
+        "artist": "Janji",
+        "composer": "",
+        "album": "Fade",
+        "albumArtist": "Janji",
+        "year": 2015,
+        "trackNumber": 1,
+        "genre": "Dance/Electronic",
+        "durationMillis": "195000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/sw5qJ0HCXAPO7DfFgyJ-W2ZwuvS-qrXhKQNmiR9k3leQ6pwfPJhCzkFhgBdLVqsjrhbajyIJsQ",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/UToOwSTaoldyUnPMT66AAGK_j-RY1Bt28SYzhBuxxq3P3icaT3pXt7gQewTKj24j2SAKRCdWcg",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/4bRx9vJAibAyjJkYWxax47-zgahRFu5ZXAgCbiF1dZgeMpSE9_3CDI0t7LU1vDXRpjbwcpHKWQ",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 2,
+        "discNumber": 1,
+        "estimatedSize": "7803335",
+        "trackType": "7",
+        "storeId": "Tyomzjlfppv7tsvgjuhaydmg2bi",
+        "albumId": "Beybre7nyifoxfupzeb4qwrr3la",
+        "artistId": [
+          "Azgkautjwg765tpg27juhw7l6xy"
+        ],
+        "nid": "yomzjlfppv7tsvgjuhaydmg2bi",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "8df64a94-998f-3952-8ea3-6231e50b6ceb",
+      "clientId": "cce010a8-c270-4ab8-b938-8a8b461aacb4",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01737278979544563903",
+      "trackId": "d5ee60d0-096a-3803-b723-b05f9f64597f",
+      "creationTimestamp": "1469225623500849",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "654cfc50-9c30-3ee9-98a9-98954d057bd6",
+      "clientId": "bf1f640e-a483-4d35-a56b-471db6e526f4",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01753072424813150847",
+      "trackId": "30c1c6f0-3704-36c7-80ab-164a2b838683",
+      "creationTimestamp": "1469379952472673",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "bfeb920f-e92a-3317-9512-7b46b9968c44",
+      "clientId": "1b1882d2-97af-4773-bf90-b148c7f3f009",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01768865870081737791",
+      "trackId": "1669730c-2b43-3e1d-a5bf-c71d1b7a553f",
+      "creationTimestamp": "1469631861189057",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "3d5bfbe0-058e-384f-9dc2-20aeca6abbd2",
+      "clientId": "747e2bd2-480c-450a-8bd1-d0cf549b211f",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01784659315350324735",
+      "trackId": "c99e8925-48ac-3199-9374-7589056916a8",
+      "creationTimestamp": "1469801403388628",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "6b8266eb-c851-3b49-9f14-15b8c6bb849a",
+      "clientId": "c4b6d98f-371b-4515-be3c-bb70a7f49e83",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01800452760618911679",
+      "trackId": "T7nasge37gpwuhs2fnvz6a6d3ry",
+      "creationTimestamp": "1470327028025067",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Forgiven",
+        "artist": "Ahrix",
+        "composer": "",
+        "album": "The Beginning",
+        "albumArtist": "Ahrix",
+        "year": 2016,
+        "trackNumber": 7,
+        "genre": "Dance/Electronic",
+        "durationMillis": "187000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/wB3wkBKYR7uy1dghjwNCIyPq1A_cLbrOUmj1nc5J0d9EwVZ0KwY_uKiQJgYvDbuR_aqEzL79aVA",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/1x-k7v2dtG4lSx3KDvmRySX11fA60xTUmCQD5vO_BNsMD8ooW10kHSHJOShlif7zP3T_n2lt",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/wB3wkBKYR7uy1dghjwNCIyPq1A_cLbrOUmj1nc5J0d9EwVZ0KwY_uKiQJgYvDbuR_aqEzL79aVA",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 6,
+        "discNumber": 1,
+        "estimatedSize": "7492990",
+        "trackType": "7",
+        "storeId": "T7nasge37gpwuhs2fnvz6a6d3ry",
+        "albumId": "Bpkzfx4u2pzoym5eivzileig4oe",
+        "artistId": [
+          "A5a4lzdfznu7jwwwlpimecju5ey"
+        ],
+        "nid": "7nasge37gpwuhs2fnvz6a6d3ry",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "a9061454-4146-3073-af43-786b0da65c51",
+      "clientId": "0110834a-a210-4826-b41b-d29fb8a4031e",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01816246205887498623",
+      "trackId": "Tt3otr2klrqlddfbrvbxuveksbe",
+      "creationTimestamp": "1470327260437951",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Welcome to Planet Urf",
+        "artist": "League of Legends",
+        "composer": "",
+        "album": "Welcome to Planet Urf",
+        "albumArtist": "League of Legends",
+        "year": 2015,
+        "trackNumber": 1,
+        "genre": "Dance/Electronic",
+        "durationMillis": "134000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/Wbv99gTEtuP_IVjnEY1cBRo7gFgd52FR1fS7mIfOQiLOMpm47KpoDFrd50OfBe0tLRaau5fNWg",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/guWPAJMoZlcM083uE862TUv2TYZDXZdr_wbGPDh9uXuUBOSciufMf8lIHBewLgXjpZ5CZVX2Ew",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/frwyEJtVpTEJhuYvK3_I70FmsH9qfu-Ir5AmmuyrgvDMxz0AGtyZQ8wnRglaTR2JlJo948QQGBU",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 7,
+        "discNumber": 1,
+        "estimatedSize": "5400069",
+        "trackType": "7",
+        "storeId": "Tt3otr2klrqlddfbrvbxuveksbe",
+        "albumId": "B7dbkg3tx2arkgayg6pnskyxfkq",
+        "artistId": [
+          "Asqos5yxup3kxnumrp6dvchnfqe"
+        ],
+        "nid": "t3otr2klrqlddfbrvbxuveksbe",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "4b412f8e-fe72-3e96-81d7-5df28fdaccd4",
+      "clientId": "201e71a5-1637-4d48-8a4b-a2051bf049bd",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01832039651156085567",
+      "trackId": "2c519dbe-8d73-3902-9bcd-985094dea709",
+      "creationTimestamp": "1470327845968742",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "ed52eb7b-f963-34f5-8e93-2685bd234e37",
+      "clientId": "4a1c9fd1-b457-4c4a-8325-31018f6c9404",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "01863626541693259455",
+      "trackId": "c9dcde08-d45d-30de-8015-d56ae5b47b8e",
+      "creationTimestamp": "1470925277704697",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "569f80b7-63e9-3157-99b9-87e88c39d872",
+      "clientId": "ac587582-1be0-4c54-bfc2-231d47ce60b7",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "02037354439647715839",
+      "trackId": "Tqf5fsfnbayxc6zogsjvqrrsn4y",
+      "creationTimestamp": "1471272886902658",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Mars - The Bringer of War",
+        "artist": "London Symphony Orchestra",
+        "composer": "Gustav Holst",
+        "album": "The Planets.",
+        "albumArtist": "Philharmonia Orchestra",
+        "year": 2012,
+        "trackNumber": 1,
+        "genre": "Classical",
+        "durationMillis": "461000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh4.ggpht.com/LW_d3TyhAXGM8tTfm665SSZBUvw2lTcXR8cwRd7nnQM_hdlo6M9BXwnWLgry5CNSKTC4PWueLA",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/Cy190DaMRMLq3fiFFyWklViDfD8nJRYBssb5dLlrv7wNTgQvydQVyEhCnC7L59TAHN59EUX8vng",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 1,
+        "discNumber": 1,
+        "estimatedSize": "18447700",
+        "trackType": "7",
+        "storeId": "Tqf5fsfnbayxc6zogsjvqrrsn4y",
+        "albumId": "Bkbcovq3jwkbqn5byhdglnahntu",
+        "artistId": [
+          "A327uxghdqvkpffb4gism36pegi",
+          "Afjvqi7lzoksllbilksdpksdnqy",
+          "Anc5gfh6biv767s3sxn7uyms2q4",
+          "Ahhog663euix266al366z6wx4km"
+        ],
+        "nid": "qf5fsfnbayxc6zogsjvqrrsn4y",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "93bf7f51-a8c9-3fce-a331-f3f6204813f1",
+      "clientId": "3c6173f2-35d3-4a57-b9bc-22fcb0f38afd",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "02053147884916302783",
+      "trackId": "296a8986-2d70-39b6-a642-d49e247c2a28",
+      "creationTimestamp": "1471539007978753",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "608521c6-8337-3458-b661-bedff5e0ced7",
+      "clientId": "8e836e29-31ec-4306-a3d5-07ba620d0603",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "02084734775453476671",
+      "trackId": "T3ozpzcau3yc6aa4m2auayxrheq",
+      "creationTimestamp": "1477073790712078",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Trolls in the Dark (Instrumental)",
+        "artist": "Rhapsody",
+        "composer": "",
+        "album": "Dawn of Victory",
+        "albumArtist": "Rhapsody",
+        "year": 2000,
+        "trackNumber": 8,
+        "genre": "Metal",
+        "durationMillis": "152000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/89ZTnBjKHQCdI167etvIlXwZVarWKb6FJLU0LfvEZTphtVqeXX7Ncffl2BJSjyAP1wN5MDho",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/OrsBBmfz75ZCCv-yqSxJuTw3DxzWgOu6Xk3I2zmGXS3dX47AhSp69ZLP9bWiNUptBOcaELAUKg",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/5W7q1CHiwAs524aeMfKyjW37-78dta4_cwmJMomVF29YX__l7nvyyT6EqaHFI6sBWlpsaNhH",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 5,
+        "discNumber": 1,
+        "estimatedSize": "6090747",
+        "trackType": "7",
+        "storeId": "T3ozpzcau3yc6aa4m2auayxrheq",
+        "albumId": "Beym54gwpm6ikqeyvikyzsbjghu",
+        "artistId": [
+          "Afq7cqe7vycgkmdj6yufprx25ku"
+        ],
+        "nid": "3ozpzcau3yc6aa4m2auayxrheq",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "77899311-67a1-3430-a969-acd100494ce0",
+      "clientId": "b869be04-4c3f-4c61-be43-1bf23a451897",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "02100528220722063615",
+      "trackId": "Ta7hopxvcaicv44gaothmmsbmna",
+      "creationTimestamp": "1484092212847461",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Counting Bodies Like Sheep To The Rhythm Of The War Drums",
+        "artist": "A Perfect Circle",
+        "composer": "",
+        "album": "eMOTIVe",
+        "albumArtist": "A Perfect Circle",
+        "year": 2004,
+        "trackNumber": 10,
+        "genre": "'00s Alternative",
+        "durationMillis": "336000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/8A0QN3S9OHif91HwMlSCuKKSB0skclJFQClIi7BNdPotXs2gotMnSEblAn4VmgrAFpdg-Ua1cA",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/oFWa2oKEdBPaVFwCAPFqzr2lxMv8kI1suwzBExMz_5G5Xi0ieDR_efFjUu9xlHqT1UEM72LlrA",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 6,
+        "discNumber": 1,
+        "estimatedSize": "13460412",
+        "trackType": "7",
+        "storeId": "Ta7hopxvcaicv44gaothmmsbmna",
+        "albumId": "Bb42ewilxlhalzlgj5nqeo5fuwu",
+        "artistId": [
+          "Ayl4n7dtqvlkgwz2kzoprzo4hhe"
+        ],
+        "nid": "a7hopxvcaicv44gaothmmsbmna",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "1",
+        "primaryVideo": {
+          "kind": "sj#video",
+          "id": "giaZnIr-faM",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/giaZnIr-faM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            }
+          ]
+        }
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "7d883b0b-9dee-36a8-87b5-a5916f6403fe",
+      "clientId": "fa1cae6d-4791-4b6c-857b-d2ddcfab973a",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "02116321665990650559",
+      "trackId": "To3ds4mkz54lnrfafwuyynvf4nu",
+      "creationTimestamp": "1485205505724093",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "White Witch",
+        "artist": "Savatage",
+        "composer": "",
+        "album": "Hall Of The Mountain King",
+        "albumArtist": "Savatage",
+        "year": 1987,
+        "trackNumber": 8,
+        "genre": "Progressive Metal",
+        "durationMillis": "201000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.ggpht.com/zzKeP1fzEyDhzc4CMk64Ts3HwYdOgzR3dBvCS8nBs9L6F0nIFpp9hAzadGfdA6mcWUSdTR2j0A",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/ag0SfikLoWbv2FWOtVsCxSylQq2VrdyWKCRr5EzX3TCBHGWjlhaG3t1TxzruVCZPrv4hxHuLFC0",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/ka1C7VnB2i4Re66qlwHbiUzPc_ZzQfQTI5AHFASVUHcS_iaKex37-dQv3T1AZYYLeBjr2oPCLw",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 1,
+        "discNumber": 1,
+        "estimatedSize": "8050965",
+        "trackType": "7",
+        "storeId": "To3ds4mkz54lnrfafwuyynvf4nu",
+        "albumId": "Bnlxv2xilwmqpazqwvdl43cicoy",
+        "artistId": [
+          "A3xmimaittj6x3igitbq4vt5yxi"
+        ],
+        "nid": "o3ds4mkz54lnrfafwuyynvf4nu",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "da5c7566-b27b-3522-a9ae-3a0292e6b810",
+      "clientId": "f43195ee-cce0-4d5f-88a6-15daff1d6c00",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "02132115111259237503",
+      "trackId": "Ts6tqyqmklmektohjj7yo6efjau",
+      "creationTimestamp": "1485205512935582",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Hall of the Mountain King",
+        "artist": "Savatage",
+        "composer": "",
+        "album": "Hall Of The Mountain King",
+        "albumArtist": "Savatage",
+        "year": 1987,
+        "trackNumber": 6,
+        "genre": "Progressive Metal",
+        "durationMillis": "333000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.ggpht.com/zzKeP1fzEyDhzc4CMk64Ts3HwYdOgzR3dBvCS8nBs9L6F0nIFpp9hAzadGfdA6mcWUSdTR2j0A",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/ag0SfikLoWbv2FWOtVsCxSylQq2VrdyWKCRr5EzX3TCBHGWjlhaG3t1TxzruVCZPrv4hxHuLFC0",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/ka1C7VnB2i4Re66qlwHbiUzPc_ZzQfQTI5AHFASVUHcS_iaKex37-dQv3T1AZYYLeBjr2oPCLw",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 5,
+        "discNumber": 1,
+        "estimatedSize": "13354868",
+        "trackType": "7",
+        "storeId": "Ts6tqyqmklmektohjj7yo6efjau",
+        "albumId": "Bnlxv2xilwmqpazqwvdl43cicoy",
+        "artistId": [
+          "A3xmimaittj6x3igitbq4vt5yxi"
+        ],
+        "nid": "s6tqyqmklmektohjj7yo6efjau",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "6937c5e8-84a2-348f-b6c7-b6d41727ac83",
+      "clientId": "b09b1406-a6cd-4c0a-9882-7ca09f913c7e",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "02147908556527824447",
+      "trackId": "T2dkekg3zl5soefqhyjebu7b4m4",
+      "creationTimestamp": "1499207255364778",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Starbolt",
+        "artist": "Slime Girls",
+        "composer": "",
+        "album": "Vacation Wasteland",
+        "albumArtist": "Slime Girls",
+        "year": 2012,
+        "trackNumber": 7,
+        "genre": "Dance/Electronic",
+        "durationMillis": "175000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh6.ggpht.com/UXeSq2QdoXSqi1OOxlpVfvBE7TROBCWpkdDkOu5hNsCOmYojpaTKDyYZiqkVKckTW_zNsvliw_k",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/A_83-Tjm12Kkw7RA9uIGwixZU6Yr3DJyz5nfgke6xMS3Z0AryJSVulOhN---sv34WG5hEcFQlw",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh6.ggpht.com/UXeSq2QdoXSqi1OOxlpVfvBE7TROBCWpkdDkOu5hNsCOmYojpaTKDyYZiqkVKckTW_zNsvliw_k",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 64,
+        "discNumber": 1,
+        "estimatedSize": "7029055",
+        "trackType": "7",
+        "storeId": "T2dkekg3zl5soefqhyjebu7b4m4",
+        "albumId": "Bhqo3xcipyffog5nwtdlpkgqw5y",
+        "artistId": [
+          "Atvilktxugll5p26j55o6wozpa4"
+        ],
+        "nid": "2dkekg3zl5soefqhyjebu7b4m4",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "cf426a07-555b-37a0-97a5-84dfd16657f8",
+      "clientId": "d0a6e6f0-ce1c-4ed1-96a2-0ea5ca4e50a5",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "02163702001796411391",
+      "trackId": "Tr7laeee3qztlxutgbjtffhjpwm",
+      "creationTimestamp": "1506998326337468",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Cat Hacks (Bonus Track)",
+        "artist": "Lemon Demon",
+        "composer": "",
+        "album": "Spirit Phone",
+        "albumArtist": "Lemon Demon",
+        "year": 2016,
+        "trackNumber": 18,
+        "genre": "Pop",
+        "durationMillis": "186000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/85KSgjqywRo3EItXShPtqtHR_HxuWgy76C21blcwQUcx21sAQKYh0ZBEu2UlUv-NsgVf8mKfDA",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/lbdunb1nfHkJiZYim3jFcz6i9EpGw1fSV6dGSY2j0dq2nFpkUp1uCrcfc5ggFau5hrhbN0xUIQ",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/85KSgjqywRo3EItXShPtqtHR_HxuWgy76C21blcwQUcx21sAQKYh0ZBEu2UlUv-NsgVf8mKfDA",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 3,
+        "discNumber": 1,
+        "estimatedSize": "7473137",
+        "trackType": "7",
+        "storeId": "Tr7laeee3qztlxutgbjtffhjpwm",
+        "albumId": "Bfzd4lqiogd64zyic2pqzaeocgm",
+        "artistId": [
+          "Avknjyd2aqgcmnh6nmdf5wkqo7u"
+        ],
+        "nid": "r7laeee3qztlxutgbjtffhjpwm",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "f5b89c35-d0cb-336e-9b3b-85c637e005c3",
+      "clientId": "783896e9-ecf3-4680-9691-5d3d7c5c4102",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "02179495447064998335",
+      "trackId": "bff31783-de38-3141-8260-014184509f8a",
+      "creationTimestamp": "1509020931097620",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "232191c7-694a-320d-b6ce-6b3aee635ec4",
+      "clientId": "4afce81f-6eec-4042-9447-b36265aab93a",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "02195288892333585279",
+      "trackId": "Tanovgcm2r5pgizijjd7x24kg6i",
+      "creationTimestamp": "1509020931097620",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "mOBSCENE",
+        "artist": "Marilyn Manson",
+        "composer": "",
+        "album": "The Golden Age Of Grotesque",
+        "albumArtist": "Marilyn Manson",
+        "year": 2003,
+        "trackNumber": 3,
+        "genre": "Alt Metal",
+        "durationMillis": "205000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/IOZJ431abnm4xoXPx6iNSk2grKl_sRxL2thyFkOXTB8esIiMPzDeTdiTM2Q1TmxlsT2MxbnLQA",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/GlTKtKiH5EzbCpWfT3hPNbXlVtTRticsNWudFXfxAuA_baBjqA_L1ab892pjAVeYTuw3Xu8iUhQ",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 2,
+        "discNumber": 1,
+        "estimatedSize": "8231743",
+        "trackType": "7",
+        "storeId": "Tanovgcm2r5pgizijjd7x24kg6i",
+        "albumId": "B7xymysijmekqimmvmlg5n2tzou",
+        "artistId": [
+          "Adapeia5dne7enfavka2x2u3j2m"
+        ],
+        "nid": "anovgcm2r5pgizijjd7x24kg6i",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "1"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "721ccdee-a057-3982-b316-55ba6425e1ca",
+      "clientId": "d3ad368c-9497-470c-9a40-d4339fbc556d",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "02211082337602172223",
+      "trackId": "Ttp7jxsimjyiuu2ieloeyvcjhoy",
+      "creationTimestamp": "1509020931097620",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Rebellion (Instrumental)",
+        "artist": "Linkin Park",
+        "composer": "",
+        "album": "The Hunting Party: Acapellas + Instrumentals",
+        "albumArtist": "Linkin Park",
+        "year": 2014,
+        "trackNumber": 18,
+        "genre": "Metal",
+        "durationMillis": "225000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.ggpht.com/GAp7F_Vsz4t-Qokch6zBleSZQ1bNkQpbdlPIybj2xooEaqtUpFM7ox49dxT4lFwQ1GeSlKua",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/WOg_XejO-LNNyRLSEjA4dmfL-18MrNoA5a-ETdAQ9rWJDU1C6jLyi2oy20W36pGxlfkhCzmH-Q",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 1,
+        "discNumber": 1,
+        "estimatedSize": "9008092",
+        "trackType": "7",
+        "storeId": "Ttp7jxsimjyiuu2ieloeyvcjhoy",
+        "albumId": "Bffgfsh2a6rs4nnvnezq5r4bmgu",
+        "artistId": [
+          "Ac524cs4icx4xnekce4qkegkrce"
+        ],
+        "nid": "tp7jxsimjyiuu2ieloeyvcjhoy",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "d09087da-35ed-34b7-81fd-0733d2f6c4ca",
+      "clientId": "062211b4-267e-4285-9b51-b9b1dbd0e0f5",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "02226875782870759167",
+      "trackId": "T7abyk3xws7ogixkztvelkefv7i",
+      "creationTimestamp": "1509368783889423",
+      "lastModifiedTimestamp": "1509711561756997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Nightbringers",
+        "artist": "The Black Dahlia Murder",
+        "composer": "",
+        "album": "Nightbringers",
+        "albumArtist": "The Black Dahlia Murder",
+        "year": 2017,
+        "trackNumber": 4,
+        "genre": "Metal",
+        "durationMillis": "215000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/1Io9ZdexSwtCosdlLvyv4pifGc0fLYusXqk2avvAe8RDMFr1BnuRLzz2sR7s0CQjTBIkolqLUQ",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/KQOymYJUe_3IHh7Hx-BQG57kNlQtnMZGYuyr-bwOS5ZvNqAm18Cl_GMBiKXTQaJOMOet0NSEgQ",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 1,
+        "discNumber": 1,
+        "estimatedSize": "8630894",
+        "trackType": "7",
+        "storeId": "T7abyk3xws7ogixkztvelkefv7i",
+        "albumId": "Bnbw2yk4y24u4c4aetaat5b4rcu",
+        "artistId": [
+          "Axfgd5hewd3n3v5hpjvrtlw4oym"
+        ],
+        "nid": "7abyk3xws7ogixkztvelkefv7i",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "2a5e4719-ceb9-3bbf-aceb-965c08f1a838",
+      "clientId": "54648cee-c0c7-4fa0-a63e-a26cc6d20b54",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "02258462673407933055",
+      "trackId": "Tatpqqbjjyo2w62lj55cpjcjtha",
+      "creationTimestamp": "1509711561771902",
+      "lastModifiedTimestamp": "1509711561771902",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Drunken Lullabies",
+        "artist": "Flogging Molly",
+        "composer": "",
+        "album": "Drunken Lullabies",
+        "albumArtist": "Flogging Molly",
+        "year": 2002,
+        "trackNumber": 1,
+        "genre": "Punk",
+        "durationMillis": "230000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/1XPFqWPYDs-KwoeAJIu9tOTllh0kHFUXDeTWCVB6M65Bj4sXviise1y0vhy6xnoteQJCR_Nz2LI",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/h-uSYJfjbNMh1HRwRUWWCadZwng5RDhKnwzMiu11JZceodf6OiZ2XzccXqyjYvuGAlStu-Bz1Q",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 1,
+        "discNumber": 1,
+        "estimatedSize": "9228575",
+        "trackType": "7",
+        "storeId": "Tatpqqbjjyo2w62lj55cpjcjtha",
+        "albumId": "B4cbds75bbydmy7ej2gacq7ckma",
+        "artistId": [
+          "Avgdtqj52kzvrirr5jx2t7f7gve"
+        ],
+        "nid": "atpqqbjjyo2w62lj55cpjcjtha",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2",
+        "primaryVideo": {
+          "kind": "sj#video",
+          "id": "89NjEeHku8o",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/89NjEeHku8o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            }
+          ]
+        }
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "12f445e5-5b26-332c-abb9-fac257774735",
+      "clientId": "4524463d-e47f-4c0a-98c1-2dcaa3ea1b7d",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "02274256118676519999",
+      "trackId": "Tlb7fm23noze6ccr4v43zy7zho4",
+      "creationTimestamp": "1509711561771902",
+      "lastModifiedTimestamp": "1509711561771902",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "What's Left of the Flag",
+        "artist": "Flogging Molly",
+        "composer": "",
+        "album": "Drunken Lullabies",
+        "albumArtist": "Flogging Molly",
+        "year": 2002,
+        "trackNumber": 2,
+        "genre": "Punk",
+        "durationMillis": "219000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/1XPFqWPYDs-KwoeAJIu9tOTllh0kHFUXDeTWCVB6M65Bj4sXviise1y0vhy6xnoteQJCR_Nz2LI",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/h-uSYJfjbNMh1HRwRUWWCadZwng5RDhKnwzMiu11JZceodf6OiZ2XzccXqyjYvuGAlStu-Bz1Q",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 1,
+        "discNumber": 1,
+        "estimatedSize": "8761506",
+        "trackType": "7",
+        "storeId": "Tlb7fm23noze6ccr4v43zy7zho4",
+        "albumId": "B4cbds75bbydmy7ej2gacq7ckma",
+        "artistId": [
+          "Avgdtqj52kzvrirr5jx2t7f7gve"
+        ],
+        "nid": "lb7fm23noze6ccr4v43zy7zho4",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2",
+        "primaryVideo": {
+          "kind": "sj#video",
+          "id": "Trkx9xLb5X8",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/Trkx9xLb5X8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            }
+          ]
+        }
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "33ceed47-dfce-3af1-8e2a-b209f273de40",
+      "clientId": "d4636406-8bf4-4480-bcbd-4a6dece93ff8",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "02297946286579400446",
+      "trackId": "Tuwaem6qgef6siizuulxixa2pwa",
+      "creationTimestamp": "1516058444031489",
+      "lastModifiedTimestamp": "1516058444031489",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Music",
+        "artist": "Mystery Skulls",
+        "composer": "",
+        "album": "One of Us",
+        "albumArtist": "Mystery Skulls",
+        "year": 2017,
+        "trackNumber": 10,
+        "genre": "Dance/Electronic",
+        "durationMillis": "202000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/IWDtVha_R7JfiRiXLOlryxz-G2cYnldDGtp3HSK0nu3kvdbnpfR17MX_kiwWffvAgqlAdc0d",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/iBmK-MxFH5gZT2QRYkha3FNm1H5GgkGMLRLLs9T91yOJ2AKxgHnv9DYATMzoBYu6k2wq4eJn3A",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 3,
+        "discNumber": 1,
+        "estimatedSize": "8106355",
+        "trackType": "7",
+        "storeId": "Tuwaem6qgef6siizuulxixa2pwa",
+        "albumId": "Bwon4lkww35uafwlcxzxtoou76e",
+        "artistId": [
+          "Awo4dopzcjylvmilbwfb73cmt4y"
+        ],
+        "nid": "uwaem6qgef6siizuulxixa2pwa",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "7a90044e-532e-33a1-ac91-8584747d4a1c",
+      "clientId": "b9b5e964-0e8d-45c6-b5e3-bba7f36f47c5",
+      "playlistId": "5005cbfe-bb47-4dfc-ab39-f4bff060501f",
+      "absolutePosition": "02301894647896547197",
+      "trackId": "2fe75189-83dc-39bd-a906-20d85110c14c",
+      "creationTimestamp": "1516546191722765",
+      "lastModifiedTimestamp": "1516546191722765",
+      "deleted": false,
+      "source": "1"
+    }
+  ]
+}

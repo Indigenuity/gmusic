@@ -1,1 +1,75 @@
-{"kind": "sj#playlist", "id": "d13c428e-66b7-41a9-89b7-af79565a7448", "creationTimestamp": "1541898725336287", "lastModifiedTimestamp": "1541898725999028", "recentTimestamp": "1541898725115000", "deleted": false, "name": "for later", "type": "USER_GENERATED", "shareToken": "AMaBXyk98aGieIEsnN579B3T51tl9o6sLiVDNtxu-xjpka7ruV6-n_AYB4rQ4KJJ3PKm1sYdzA7kIxTKkyTSmQgSzTl7esEXyg==", "ownerName": "JD Clark", "accessControlled": false, "tracks": [{"kind": "sj#playlistEntry", "id": "3b20f912-f4fd-3a20-b6aa-e9ace83dd22f", "clientId": "427c4761-c934-48a1-aef7-9ca38f8779d8", "playlistId": "d13c428e-66b7-41a9-89b7-af79565a7448", "absolutePosition": "01729382256910270462", "trackId": "Tzcoeat4olxp3bxkpygvfzkix5y", "creationTimestamp": "1541898725630619", "lastModifiedTimestamp": "1541898725630619", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "The Nothing Changes", "artist": "The Kilimanjaro Darkjazz Ensemble", "composer": "", "album": "The Kilimanjaro Darkjazz Ensemble", "albumArtist": "The Kilimanjaro Darkjazz Ensemble", "year": 2006, "trackNumber": 1, "genre": "Goth/Industrial", "durationMillis": "297000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/XowLUABn6BI20kTlej6GRu9m0BaELUbh5tFuo6DzVbVbrh2tw_StUR82UI3rkEXeKfuDpokhsQ", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/hG_Oyz4Ot-0G4m-c-l4QcZW1kFosrsdhZPZVEivgjyKEoU_nMsuAdil60ZusO8wuNnxnuiexAg", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh6.ggpht.com/I8O_uS8ozAE-fzFz8ZnT2MtbHwAGuyt4fbZPHN-CHOR0D0oYpKwW1DNiTbvTglo5STupDf_s", "aspectRatio": "1", "autogen": true}], "playCount": 2, "discNumber": 1, "estimatedSize": "11906649", "trackType": "7", "storeId": "Tzcoeat4olxp3bxkpygvfzkix5y", "albumId": "Balkaocekqke5den2xjtpouas3y", "artistId": ["Aw6f6jlqthpevpjohmampevgnhm"], "nid": "zcoeat4olxp3bxkpygvfzkix5y", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}]}
+{
+  "kind": "sj#playlist",
+  "id": "d13c428e-66b7-41a9-89b7-af79565a7448",
+  "creationTimestamp": "1541898725336287",
+  "lastModifiedTimestamp": "1541898725999028",
+  "recentTimestamp": "1541898725115000",
+  "deleted": false,
+  "name": "for later",
+  "type": "USER_GENERATED",
+  "shareToken": "AMaBXyk98aGieIEsnN579B3T51tl9o6sLiVDNtxu-xjpka7ruV6-n_AYB4rQ4KJJ3PKm1sYdzA7kIxTKkyTSmQgSzTl7esEXyg==",
+  "ownerName": "JD Clark",
+  "accessControlled": false,
+  "tracks": [
+    {
+      "kind": "sj#playlistEntry",
+      "id": "3b20f912-f4fd-3a20-b6aa-e9ace83dd22f",
+      "clientId": "427c4761-c934-48a1-aef7-9ca38f8779d8",
+      "playlistId": "d13c428e-66b7-41a9-89b7-af79565a7448",
+      "absolutePosition": "01729382256910270462",
+      "trackId": "Tzcoeat4olxp3bxkpygvfzkix5y",
+      "creationTimestamp": "1541898725630619",
+      "lastModifiedTimestamp": "1541898725630619",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "The Nothing Changes",
+        "artist": "The Kilimanjaro Darkjazz Ensemble",
+        "composer": "",
+        "album": "The Kilimanjaro Darkjazz Ensemble",
+        "albumArtist": "The Kilimanjaro Darkjazz Ensemble",
+        "year": 2006,
+        "trackNumber": 1,
+        "genre": "Goth/Industrial",
+        "durationMillis": "297000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/XowLUABn6BI20kTlej6GRu9m0BaELUbh5tFuo6DzVbVbrh2tw_StUR82UI3rkEXeKfuDpokhsQ",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/hG_Oyz4Ot-0G4m-c-l4QcZW1kFosrsdhZPZVEivgjyKEoU_nMsuAdil60ZusO8wuNnxnuiexAg",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh6.ggpht.com/I8O_uS8ozAE-fzFz8ZnT2MtbHwAGuyt4fbZPHN-CHOR0D0oYpKwW1DNiTbvTglo5STupDf_s",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 2,
+        "discNumber": 1,
+        "estimatedSize": "11906649",
+        "trackType": "7",
+        "storeId": "Tzcoeat4olxp3bxkpygvfzkix5y",
+        "albumId": "Balkaocekqke5den2xjtpouas3y",
+        "artistId": [
+          "Aw6f6jlqthpevpjohmampevgnhm"
+        ],
+        "nid": "zcoeat4olxp3bxkpygvfzkix5y",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    }
+  ]
+}

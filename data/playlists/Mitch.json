@@ -1,1 +1,80 @@
-{"kind": "sj#playlist", "id": "1bed4cf4-b3ac-4717-adda-7d6c7eb41a98", "creationTimestamp": "1457468570366010", "lastModifiedTimestamp": "1457468570658212", "recentTimestamp": "1457468570312000", "deleted": false, "name": "Mitch", "type": "USER_GENERATED", "shareToken": "AMaBXyk5kft7MUMTqUUAKtqCwME0OHuI3JqmfdXyOK5JFVta_mTg_gSir4f45EcR4woYEkekEo8AvBZxjAwtJ-Xjmz3iLuM42A==", "ownerName": "JD Clark", "accessControlled": false, "tracks": [{"kind": "sj#playlistEntry", "id": "15f0c0e9-217e-344e-bc09-5dfbb8fdba5c", "clientId": "03e1a895-adb6-40f4-9b3b-1dd3a380f41c", "playlistId": "1bed4cf4-b3ac-4717-adda-7d6c7eb41a98", "absolutePosition": "01729382256910270462", "trackId": "Tvvbk6jaj67gqnv5mhygl4lw4oy", "creationTimestamp": "1457468570485219", "lastModifiedTimestamp": "1457468570485219", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Friday I'm in Love", "artist": "The Cure", "composer": "", "album": "Wish", "albumArtist": "The Cure", "year": 1992, "trackNumber": 7, "genre": "New Wave/Post-Punk", "durationMillis": "214000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh6.ggpht.com/izAk_rJa6b2RJEpnlFjlLvmQCdTnaKJLoNr7SlEP_HWzxAHRqvt_VoG0u0a7HK79k9UDR6XYsQ", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/I32B8UFMGKApiBj7NTaGI7EaFa_onnc0DeCVtWtLj-pMR2rJAup8TLVVYSBL764cbT02NDmAqyE", "aspectRatio": "2", "autogen": false}], "playCount": 1, "discNumber": 1, "estimatedSize": "8578639", "trackType": "7", "storeId": "Tvvbk6jaj67gqnv5mhygl4lw4oy", "albumId": "B2xzrixctsqituquzezfop65rju", "artistId": ["Abq5jbkzi3bjqebk4aqu6s4cgli"], "nid": "vvbk6jaj67gqnv5mhygl4lw4oy", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2", "primaryVideo": {"kind": "sj#video", "id": "0thnAQKadpo", "thumbnails": [{"url": "https://i.ytimg.com/vi/0thnAQKadpo/mqdefault.jpg", "width": 320, "height": 180}]}}}]}
+{
+  "kind": "sj#playlist",
+  "id": "1bed4cf4-b3ac-4717-adda-7d6c7eb41a98",
+  "creationTimestamp": "1457468570366010",
+  "lastModifiedTimestamp": "1457468570658212",
+  "recentTimestamp": "1457468570312000",
+  "deleted": false,
+  "name": "Mitch",
+  "type": "USER_GENERATED",
+  "shareToken": "AMaBXyk5kft7MUMTqUUAKtqCwME0OHuI3JqmfdXyOK5JFVta_mTg_gSir4f45EcR4woYEkekEo8AvBZxjAwtJ-Xjmz3iLuM42A==",
+  "ownerName": "JD Clark",
+  "accessControlled": false,
+  "tracks": [
+    {
+      "kind": "sj#playlistEntry",
+      "id": "15f0c0e9-217e-344e-bc09-5dfbb8fdba5c",
+      "clientId": "03e1a895-adb6-40f4-9b3b-1dd3a380f41c",
+      "playlistId": "1bed4cf4-b3ac-4717-adda-7d6c7eb41a98",
+      "absolutePosition": "01729382256910270462",
+      "trackId": "Tvvbk6jaj67gqnv5mhygl4lw4oy",
+      "creationTimestamp": "1457468570485219",
+      "lastModifiedTimestamp": "1457468570485219",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Friday I'm in Love",
+        "artist": "The Cure",
+        "composer": "",
+        "album": "Wish",
+        "albumArtist": "The Cure",
+        "year": 1992,
+        "trackNumber": 7,
+        "genre": "New Wave/Post-Punk",
+        "durationMillis": "214000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh6.ggpht.com/izAk_rJa6b2RJEpnlFjlLvmQCdTnaKJLoNr7SlEP_HWzxAHRqvt_VoG0u0a7HK79k9UDR6XYsQ",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/I32B8UFMGKApiBj7NTaGI7EaFa_onnc0DeCVtWtLj-pMR2rJAup8TLVVYSBL764cbT02NDmAqyE",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 1,
+        "discNumber": 1,
+        "estimatedSize": "8578639",
+        "trackType": "7",
+        "storeId": "Tvvbk6jaj67gqnv5mhygl4lw4oy",
+        "albumId": "B2xzrixctsqituquzezfop65rju",
+        "artistId": [
+          "Abq5jbkzi3bjqebk4aqu6s4cgli"
+        ],
+        "nid": "vvbk6jaj67gqnv5mhygl4lw4oy",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2",
+        "primaryVideo": {
+          "kind": "sj#video",
+          "id": "0thnAQKadpo",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/0thnAQKadpo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

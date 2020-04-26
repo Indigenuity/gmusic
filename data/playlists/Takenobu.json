@@ -1,1 +1,61 @@
-{"kind": "sj#playlist", "id": "4b1bdb30-e3c3-42e5-8b5d-96ac1ec8eec8", "creationTimestamp": "1586288864241492", "lastModifiedTimestamp": "1586288864524633", "recentTimestamp": "1586288864119000", "deleted": false, "name": "Takenobu", "type": "USER_GENERATED", "shareToken": "AMaBXynuJOFXZFH5dATQMoQr5LeIG-aQYM-thYZ0MdGRSu3u6T25pFwSlDSNzydr8AbLRTeCqeUHEqWlEcl3LVGuW7P-9N_pNQ==", "ownerName": "JD Clark", "accessControlled": false, "tracks": [{"kind": "sj#playlistEntry", "id": "4817f3c8-dd77-3f0a-a845-e158af299a55", "clientId": "6c870b5f-e7f0-47a4-a764-535969ba5573", "playlistId": "4b1bdb30-e3c3-42e5-8b5d-96ac1ec8eec8", "absolutePosition": "01729382256910270462", "trackId": "Tbkrrdxwr7cibah2qqg3akkl7p4", "creationTimestamp": "1586288864391065", "lastModifiedTimestamp": "1586288864391065", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Zion Squirrel", "artist": "Alyssa Rodriguez", "composer": "Alyssa Rodriguez", "album": "Chicory", "albumArtist": "Alyssa Rodriguez", "year": 2020, "trackNumber": 2, "genre": "Folk", "durationMillis": "192000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/2TI1knJM5ehomCGkGkcYUB-w2TWW-LaFK1h_95LdCLht45Yxl41MFGI0pRQvQyE7_ypHNCfbHA", "aspectRatio": "1", "autogen": false}], "playCount": 2, "discNumber": 1, "estimatedSize": "7689441", "trackType": "7", "storeId": "Tbkrrdxwr7cibah2qqg3akkl7p4", "albumId": "Bybzxoofe3oibod5mkwi6kdzawm", "artistId": ["Akrv5dt52s2zdejmpoyplbgfisy"], "nid": "bkrrdxwr7cibah2qqg3akkl7p4", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}]}
+{
+  "kind": "sj#playlist",
+  "id": "4b1bdb30-e3c3-42e5-8b5d-96ac1ec8eec8",
+  "creationTimestamp": "1586288864241492",
+  "lastModifiedTimestamp": "1586288864524633",
+  "recentTimestamp": "1586288864119000",
+  "deleted": false,
+  "name": "Takenobu",
+  "type": "USER_GENERATED",
+  "shareToken": "AMaBXynuJOFXZFH5dATQMoQr5LeIG-aQYM-thYZ0MdGRSu3u6T25pFwSlDSNzydr8AbLRTeCqeUHEqWlEcl3LVGuW7P-9N_pNQ==",
+  "ownerName": "JD Clark",
+  "accessControlled": false,
+  "tracks": [
+    {
+      "kind": "sj#playlistEntry",
+      "id": "4817f3c8-dd77-3f0a-a845-e158af299a55",
+      "clientId": "6c870b5f-e7f0-47a4-a764-535969ba5573",
+      "playlistId": "4b1bdb30-e3c3-42e5-8b5d-96ac1ec8eec8",
+      "absolutePosition": "01729382256910270462",
+      "trackId": "Tbkrrdxwr7cibah2qqg3akkl7p4",
+      "creationTimestamp": "1586288864391065",
+      "lastModifiedTimestamp": "1586288864391065",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Zion Squirrel",
+        "artist": "Alyssa Rodriguez",
+        "composer": "Alyssa Rodriguez",
+        "album": "Chicory",
+        "albumArtist": "Alyssa Rodriguez",
+        "year": 2020,
+        "trackNumber": 2,
+        "genre": "Folk",
+        "durationMillis": "192000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/2TI1knJM5ehomCGkGkcYUB-w2TWW-LaFK1h_95LdCLht45Yxl41MFGI0pRQvQyE7_ypHNCfbHA",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "playCount": 2,
+        "discNumber": 1,
+        "estimatedSize": "7689441",
+        "trackType": "7",
+        "storeId": "Tbkrrdxwr7cibah2qqg3akkl7p4",
+        "albumId": "Bybzxoofe3oibod5mkwi6kdzawm",
+        "artistId": [
+          "Akrv5dt52s2zdejmpoyplbgfisy"
+        ],
+        "nid": "bkrrdxwr7cibah2qqg3akkl7p4",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    }
+  ]
+}

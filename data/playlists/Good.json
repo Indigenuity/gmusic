@@ -1,1 +1,149 @@
-{"kind": "sj#playlist", "id": "7ca2d6ec-f407-412f-bd8f-63490ae192b7", "creationTimestamp": "1434580967109685", "lastModifiedTimestamp": "1457466613045048", "recentTimestamp": "1434580967064000", "deleted": false, "name": "Good", "type": "USER_GENERATED", "shareToken": "AMaBXymgv5WODX4h9u7vHi5B9cGIvsTo_-vfdWZC6QKst4_d8EgAp1PcmwuisFzKLmsn6UcY150usWpFiesjjN4OaexTmrdI9Q==", "ownerName": "JD Clark", "accessControlled": false, "tracks": [{"kind": "sj#playlistEntry", "id": "afa1917a-7cc6-3ce0-a1c7-0ab33ef43bf6", "clientId": "1a63be07-89c3-42c3-95c8-d06010eec43d", "playlistId": "7ca2d6ec-f407-412f-bd8f-63490ae192b7", "absolutePosition": "01729382256910270462", "trackId": "Tzg57k53javffxwibqmoeomkbhq", "creationTimestamp": "1434580967331978", "lastModifiedTimestamp": "1464289015649482", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "10lb Moustache", "artist": "Man Man", "composer": "Man Man", "album": "Man Man EP", "albumArtist": "Man Man", "year": 2004, "trackNumber": 2, "genre": "Rock", "durationMillis": "218000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/_gapSsPrh8WkmVz7PqTcaygWt-1RKCp883v9V-W2U_jhKHC8Nkp_0jbgRqY53fZiqUWLXi3MX9w", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/BEr3rV3I8wYiZ7WS0GPlecOiA7eMvYxobhMEHrTmVjW4-jJNiwI1ysGAzF4kBj3yYtXXonH1", "aspectRatio": "2", "autogen": false}], "playCount": 23, "discNumber": 1, "rating": "5", "estimatedSize": "8732249", "trackType": "7", "storeId": "Tzg57k53javffxwibqmoeomkbhq", "albumId": "B6fkichd33qa7fhygkutmo2udfm", "artistId": ["Av6ucwx2pwlox6pyzuewtngbpie"], "nid": "zg57k53javffxwibqmoeomkbhq", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2", "lastRatingChangeTimestamp": "1436890969225000"}}, {"kind": "sj#playlistEntry", "id": "1e435913-ea33-33c6-a013-1c86b49869c2", "clientId": "037d7b61-a3a0-4d4a-be2e-f06d80bc3cbd", "playlistId": "7ca2d6ec-f407-412f-bd8f-63490ae192b7", "absolutePosition": "02017612633061982205", "trackId": "T2wjijd6b5qalerjrll5jglesqy", "creationTimestamp": "1434581032459493", "lastModifiedTimestamp": "1434581032459493", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Engwish Bwudd", "artist": "Man Man", "composer": "Man Man", "album": "Six Demon Bag", "albumArtist": "Man Man", "year": 2006, "trackNumber": 2, "genre": "Rock", "durationMillis": "213000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/QYyk4w7a59PCaJHXWeCVP-sPoeECjUvtBsbJ5DJp3vqQD8bBStD7q_RYSBniRKBNKMKf-scafw", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/BEr3rV3I8wYiZ7WS0GPlecOiA7eMvYxobhMEHrTmVjW4-jJNiwI1ysGAzF4kBj3yYtXXonH1", "aspectRatio": "2", "autogen": false}], "playCount": 22, "discNumber": 1, "estimatedSize": "8558796", "trackType": "7", "storeId": "T2wjijd6b5qalerjrll5jglesqy", "albumId": "Bcystajpapcthj7rlt6sa2r6fxa", "artistId": ["Av6ucwx2pwlox6pyzuewtngbpie"], "nid": "2wjijd6b5qalerjrll5jglesqy", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "bd586f3d-6df1-3dc8-91e5-847d25af5bef", "clientId": "2abbf51c-e62e-4ba6-8827-ee2962f83fc5", "playlistId": "7ca2d6ec-f407-412f-bd8f-63490ae192b7", "absolutePosition": "02161727821137838077", "trackId": "f51d3ac5-3dc6-38f1-b3d7-b04e30e77185", "creationTimestamp": "1438120457823407", "lastModifiedTimestamp": "1438120457823407", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "906e0284-050e-3685-b7cf-82c0c7803649", "clientId": "e831c6ff-ed73-47ab-ab81-ec33893d2329", "playlistId": "7ca2d6ec-f407-412f-bd8f-63490ae192b7", "absolutePosition": "02233785415175766013", "trackId": "2495f20e-c57a-373e-966d-55f50799dc83", "creationTimestamp": "1438123430703337", "lastModifiedTimestamp": "1438123430703337", "deleted": false, "source": "1"}]}
+{
+  "kind": "sj#playlist",
+  "id": "7ca2d6ec-f407-412f-bd8f-63490ae192b7",
+  "creationTimestamp": "1434580967109685",
+  "lastModifiedTimestamp": "1457466613045048",
+  "recentTimestamp": "1434580967064000",
+  "deleted": false,
+  "name": "Good",
+  "type": "USER_GENERATED",
+  "shareToken": "AMaBXymgv5WODX4h9u7vHi5B9cGIvsTo_-vfdWZC6QKst4_d8EgAp1PcmwuisFzKLmsn6UcY150usWpFiesjjN4OaexTmrdI9Q==",
+  "ownerName": "JD Clark",
+  "accessControlled": false,
+  "tracks": [
+    {
+      "kind": "sj#playlistEntry",
+      "id": "afa1917a-7cc6-3ce0-a1c7-0ab33ef43bf6",
+      "clientId": "1a63be07-89c3-42c3-95c8-d06010eec43d",
+      "playlistId": "7ca2d6ec-f407-412f-bd8f-63490ae192b7",
+      "absolutePosition": "01729382256910270462",
+      "trackId": "Tzg57k53javffxwibqmoeomkbhq",
+      "creationTimestamp": "1434580967331978",
+      "lastModifiedTimestamp": "1464289015649482",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "10lb Moustache",
+        "artist": "Man Man",
+        "composer": "Man Man",
+        "album": "Man Man EP",
+        "albumArtist": "Man Man",
+        "year": 2004,
+        "trackNumber": 2,
+        "genre": "Rock",
+        "durationMillis": "218000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/_gapSsPrh8WkmVz7PqTcaygWt-1RKCp883v9V-W2U_jhKHC8Nkp_0jbgRqY53fZiqUWLXi3MX9w",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/BEr3rV3I8wYiZ7WS0GPlecOiA7eMvYxobhMEHrTmVjW4-jJNiwI1ysGAzF4kBj3yYtXXonH1",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 23,
+        "discNumber": 1,
+        "rating": "5",
+        "estimatedSize": "8732249",
+        "trackType": "7",
+        "storeId": "Tzg57k53javffxwibqmoeomkbhq",
+        "albumId": "B6fkichd33qa7fhygkutmo2udfm",
+        "artistId": [
+          "Av6ucwx2pwlox6pyzuewtngbpie"
+        ],
+        "nid": "zg57k53javffxwibqmoeomkbhq",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2",
+        "lastRatingChangeTimestamp": "1436890969225000"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "1e435913-ea33-33c6-a013-1c86b49869c2",
+      "clientId": "037d7b61-a3a0-4d4a-be2e-f06d80bc3cbd",
+      "playlistId": "7ca2d6ec-f407-412f-bd8f-63490ae192b7",
+      "absolutePosition": "02017612633061982205",
+      "trackId": "T2wjijd6b5qalerjrll5jglesqy",
+      "creationTimestamp": "1434581032459493",
+      "lastModifiedTimestamp": "1434581032459493",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Engwish Bwudd",
+        "artist": "Man Man",
+        "composer": "Man Man",
+        "album": "Six Demon Bag",
+        "albumArtist": "Man Man",
+        "year": 2006,
+        "trackNumber": 2,
+        "genre": "Rock",
+        "durationMillis": "213000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/QYyk4w7a59PCaJHXWeCVP-sPoeECjUvtBsbJ5DJp3vqQD8bBStD7q_RYSBniRKBNKMKf-scafw",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/BEr3rV3I8wYiZ7WS0GPlecOiA7eMvYxobhMEHrTmVjW4-jJNiwI1ysGAzF4kBj3yYtXXonH1",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 22,
+        "discNumber": 1,
+        "estimatedSize": "8558796",
+        "trackType": "7",
+        "storeId": "T2wjijd6b5qalerjrll5jglesqy",
+        "albumId": "Bcystajpapcthj7rlt6sa2r6fxa",
+        "artistId": [
+          "Av6ucwx2pwlox6pyzuewtngbpie"
+        ],
+        "nid": "2wjijd6b5qalerjrll5jglesqy",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "bd586f3d-6df1-3dc8-91e5-847d25af5bef",
+      "clientId": "2abbf51c-e62e-4ba6-8827-ee2962f83fc5",
+      "playlistId": "7ca2d6ec-f407-412f-bd8f-63490ae192b7",
+      "absolutePosition": "02161727821137838077",
+      "trackId": "f51d3ac5-3dc6-38f1-b3d7-b04e30e77185",
+      "creationTimestamp": "1438120457823407",
+      "lastModifiedTimestamp": "1438120457823407",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "906e0284-050e-3685-b7cf-82c0c7803649",
+      "clientId": "e831c6ff-ed73-47ab-ab81-ec33893d2329",
+      "playlistId": "7ca2d6ec-f407-412f-bd8f-63490ae192b7",
+      "absolutePosition": "02233785415175766013",
+      "trackId": "2495f20e-c57a-373e-966d-55f50799dc83",
+      "creationTimestamp": "1438123430703337",
+      "lastModifiedTimestamp": "1438123430703337",
+      "deleted": false,
+      "source": "1"
+    }
+  ]
+}

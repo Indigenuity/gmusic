@@ -1,1 +1,508 @@
-{"kind": "sj#playlist", "id": "b4e43ef7-7058-465e-91b6-fb962000db89", "creationTimestamp": "1471539186075990", "lastModifiedTimestamp": "1561118974312279", "recentTimestamp": "1485213481809000", "deleted": false, "name": "Kangaeru", "type": "USER_GENERATED", "shareToken": "AMaBXym4TFqOUqk-a77sGnEhFDD7kqXgiz3gkKKvFEcNjOuPUE4OA90i640PF17Ao837iLpuc4gt3P8mLk6E7YxYUITPsr-vtw==", "ownerName": "JD Clark", "description": "", "accessControlled": false, "tracks": [{"kind": "sj#playlistEntry", "id": "fd53041d-3cee-3a0f-a302-22c24d696186", "clientId": "0e853c98-31f5-4b63-9feb-00687de8eb3f", "playlistId": "b4e43ef7-7058-465e-91b6-fb962000db89", "absolutePosition": "01729382256910270462", "trackId": "Twu2doxjc3py3d64bmfhffffspy", "creationTimestamp": "1471539188087997", "lastModifiedTimestamp": "1471539188087997", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Lilith", "artist": "Varien", "composer": "", "album": "Monstercat 012 - Aftermath", "albumArtist": "Various Artists", "year": 2013, "trackNumber": 16, "genre": "Dance/Electronic", "durationMillis": "284000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh4.ggpht.com/48Tsv37wiU1lj6bI_oKJ1AU8oBvi9v_X5yqLwwuBaIAVk6guyZQSozvFdubSMSiU_lWFYouhqw", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/SCngnHEiBqaPCYu426zAIkOgSu6SpDqwYCHjdbQw_GIBnak2l-ilkzysGwI8wGSMfZc0DuXY", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/CkrHiPfq1nX5yq-ocD3LpsxSGPwvd9tEfYvd2ela3xlQOLmidKbQPq5U5RI-miUoLpTpGImy", "aspectRatio": "1", "autogen": true}], "playCount": 3, "discNumber": 1, "estimatedSize": "11384195", "trackType": "7", "storeId": "Twu2doxjc3py3d64bmfhffffspy", "albumId": "Buctopagc3oo3yuqtybewkwfac4", "artistId": ["Aw4ni4yosuhpu2h4fqzcz2rxlfy"], "nid": "wu2doxjc3py3d64bmfhffffspy", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2", "primaryVideo": {"kind": "sj#video", "id": "SK_89XfhvY0", "thumbnails": [{"url": "https://i.ytimg.com/vi/SK_89XfhvY0/mqdefault.jpg", "width": 320, "height": 180}]}}}, {"kind": "sj#playlistEntry", "id": "19637718-7879-3ae8-8523-6455fbaff622", "clientId": "0fb44ff9-39c8-4d35-bf9c-b78bd591cb5a", "playlistId": "b4e43ef7-7058-465e-91b6-fb962000db89", "absolutePosition": "02017612633061982205", "trackId": "Tckkn2j4fqwdjzz3qh4oga4izmq", "creationTimestamp": "1535824731444710", "lastModifiedTimestamp": "1535824731444710", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Fugue State", "artist": "Vulfpeck", "composer": "", "album": "Fugue State", "albumArtist": "Vulfpeck", "year": 2014, "trackNumber": 1, "genre": "Pop", "durationMillis": "161000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh5.ggpht.com/pnZTh52qICb39h-xzsR31OaDTRZvWFjiuUkeW_gzq8_6D2R8NZ_AFiG55GooJprO86o6Q2z4", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/e_goNo0jzBxubBarei01a5IbbyBgP-7DUfZLvY76r47yzXp5qKZAteRWipdE9w5_Oi85lxMSZLg", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh5.ggpht.com/pnZTh52qICb39h-xzsR31OaDTRZvWFjiuUkeW_gzq8_6D2R8NZ_AFiG55GooJprO86o6Q2z4", "aspectRatio": "1", "autogen": true}], "playCount": 54, "discNumber": 1, "rating": "5", "estimatedSize": "6476314", "trackType": "7", "storeId": "Tckkn2j4fqwdjzz3qh4oga4izmq", "albumId": "B2hhtou5k3g5j63ydktcgxhuyqy", "artistId": ["Annvbzx2kz4paq2fqap2hicnld4"], "nid": "ckkn2j4fqwdjzz3qh4oga4izmq", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2", "lastRatingChangeTimestamp": "1535824764872000"}}, {"kind": "sj#playlistEntry", "id": "c34c4938-b82d-3d89-a07c-07d1add9afe3", "clientId": "a286eeee-bbf1-4139-b358-faba9656f1cf", "playlistId": "b4e43ef7-7058-465e-91b6-fb962000db89", "absolutePosition": "02161727821137838077", "trackId": "Trhm6s2bsces2rvyur5ihifxyce", "creationTimestamp": "1535824739308723", "lastModifiedTimestamp": "1535824739308723", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "First Place", "artist": "Vulfpeck", "composer": "", "album": "Fugue State", "albumArtist": "Vulfpeck", "year": 2014, "trackNumber": 3, "genre": "Pop", "durationMillis": "198000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh5.ggpht.com/pnZTh52qICb39h-xzsR31OaDTRZvWFjiuUkeW_gzq8_6D2R8NZ_AFiG55GooJprO86o6Q2z4", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/e_goNo0jzBxubBarei01a5IbbyBgP-7DUfZLvY76r47yzXp5qKZAteRWipdE9w5_Oi85lxMSZLg", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh5.ggpht.com/pnZTh52qICb39h-xzsR31OaDTRZvWFjiuUkeW_gzq8_6D2R8NZ_AFiG55GooJprO86o6Q2z4", "aspectRatio": "1", "autogen": true}], "playCount": 17, "discNumber": 1, "estimatedSize": "7921408", "trackType": "7", "storeId": "Trhm6s2bsces2rvyur5ihifxyce", "albumId": "B2hhtou5k3g5j63ydktcgxhuyqy", "artistId": ["Annvbzx2kz4paq2fqap2hicnld4"], "nid": "rhm6s2bsces2rvyur5ihifxyce", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "c7346a43-67c6-3bba-808d-bdad97c6dd7b", "clientId": "c0bd0a87-b084-4bc4-ab7c-3943491224a9", "playlistId": "b4e43ef7-7058-465e-91b6-fb962000db89", "absolutePosition": "02233785415175766013", "trackId": "Tczsye3e3tezxz6ixtzqxhq7cqa", "creationTimestamp": "1535824753626049", "lastModifiedTimestamp": "1535824753626049", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "1612", "artist": "Vulfpeck", "composer": "", "album": "Fugue State", "albumArtist": "Vulfpeck", "year": 2014, "trackNumber": 2, "genre": "Pop", "durationMillis": "199000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh5.ggpht.com/pnZTh52qICb39h-xzsR31OaDTRZvWFjiuUkeW_gzq8_6D2R8NZ_AFiG55GooJprO86o6Q2z4", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/e_goNo0jzBxubBarei01a5IbbyBgP-7DUfZLvY76r47yzXp5qKZAteRWipdE9w5_Oi85lxMSZLg", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh5.ggpht.com/pnZTh52qICb39h-xzsR31OaDTRZvWFjiuUkeW_gzq8_6D2R8NZ_AFiG55GooJprO86o6Q2z4", "aspectRatio": "1", "autogen": true}], "playCount": 20, "discNumber": 1, "estimatedSize": "7988282", "trackType": "7", "storeId": "Tczsye3e3tezxz6ixtzqxhq7cqa", "albumId": "B2hhtou5k3g5j63ydktcgxhuyqy", "artistId": ["Annvbzx2kz4paq2fqap2hicnld4"], "nid": "czsye3e3tezxz6ixtzqxhq7cqa", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "6bd88e38-830b-3443-ad92-f24336678445", "clientId": "083a83b3-e97e-42f9-ab2d-c42d7362fdf6", "playlistId": "b4e43ef7-7058-465e-91b6-fb962000db89", "absolutePosition": "02269814212194729981", "trackId": "Tqjogdvrmwf6tywaxrykjrpw7ui", "creationTimestamp": "1535824759484688", "lastModifiedTimestamp": "1535824759484688", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Newsbeat", "artist": "Vulfpeck", "composer": "", "album": "Fugue State", "albumArtist": "Vulfpeck", "year": 2014, "trackNumber": 6, "genre": "Pop", "durationMillis": "209000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh5.ggpht.com/pnZTh52qICb39h-xzsR31OaDTRZvWFjiuUkeW_gzq8_6D2R8NZ_AFiG55GooJprO86o6Q2z4", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/e_goNo0jzBxubBarei01a5IbbyBgP-7DUfZLvY76r47yzXp5qKZAteRWipdE9w5_Oi85lxMSZLg", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh5.ggpht.com/pnZTh52qICb39h-xzsR31OaDTRZvWFjiuUkeW_gzq8_6D2R8NZ_AFiG55GooJprO86o6Q2z4", "aspectRatio": "1", "autogen": true}], "playCount": 11, "discNumber": 1, "estimatedSize": "8394747", "trackType": "7", "storeId": "Tqjogdvrmwf6tywaxrykjrpw7ui", "albumId": "B2hhtou5k3g5j63ydktcgxhuyqy", "artistId": ["Annvbzx2kz4paq2fqap2hicnld4"], "nid": "qjogdvrmwf6tywaxrykjrpw7ui", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "14445732-d9e4-3219-83fd-135506a82bc0", "clientId": "364cc1d4-c8f5-4fe8-b98a-637135208475", "playlistId": "b4e43ef7-7058-465e-91b6-fb962000db89", "absolutePosition": "02287828610704211965", "trackId": "Tw5mtktzafpw7ols2c3yffbbsqa", "creationTimestamp": "1535827227792549", "lastModifiedTimestamp": "1535827227792549", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Rubens", "artist": "Cory Wong", "composer": "", "album": "Cory Wong and the Green Screen Band", "albumArtist": "Cory Wong", "year": 2017, "trackNumber": 2, "genre": "R&B/Soul", "durationMillis": "185000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/umyYnayrlVv5JiPShHoI3ODk9eCp9_JdcYOJgHWAXvNW52T-4YsOgHf7LT6IS8eFK60Gt2Yms6o", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/2NaiWBnOMhtlyq3hdJQOJ45hMi9rI1GmiENILxkNl7_jnHmATv_k387g5dEatqo1oDpfRx6fKQ", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/umyYnayrlVv5JiPShHoI3ODk9eCp9_JdcYOJgHWAXvNW52T-4YsOgHf7LT6IS8eFK60Gt2Yms6o", "aspectRatio": "1", "autogen": true}], "playCount": 9, "discNumber": 1, "estimatedSize": "7437620", "trackType": "7", "storeId": "Tw5mtktzafpw7ols2c3yffbbsqa", "albumId": "Bariwydzroa56pxp3e6oocreotu", "artistId": ["Azpwaaqccypvib5dlzdfbcl3qv4"], "nid": "w5mtktzafpw7ols2c3yffbbsqa", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "5e0d0144-bd33-3f5f-b59e-407dbdd060a6", "clientId": "6321c9ea-e9c5-40d9-af46-9dcd543cfcc4", "playlistId": "b4e43ef7-7058-465e-91b6-fb962000db89", "absolutePosition": "02296835809958952957", "trackId": "Tmvabbi7kvhglwrysutwagt6giu", "creationTimestamp": "1535829465001948", "lastModifiedTimestamp": "1535829465001948", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Elephant Walk", "artist": "Lettuce", "composer": "", "album": "Mt. Crushmore", "albumArtist": "Lettuce", "year": 2016, "trackNumber": 4, "genre": "R&B/Soul", "durationMillis": "184000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/qcXm3ox4oshcShnwdvjRHhaul2ICDImzYaTYSwox5huTPP6Kjn3vWiNUiMtG2diO_xKtn2X3fQ", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/eCt_VpEFfENnLw6MnhL_Z6Eu5lOBNaroM9T-OqCpslJQ1tV10FEtXvr2MWMSM77YcwiSUNnnTQ", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/7BtzC7pEZaWgYYsdnxv4PyGh-yPdD0Bv4gvS6t3ptKHblFnEoGfu9VVFcBrSLFaGfJxxMhN9", "aspectRatio": "1", "autogen": true}], "playCount": 18, "discNumber": 1, "estimatedSize": "7361343", "trackType": "7", "storeId": "Tmvabbi7kvhglwrysutwagt6giu", "albumId": "Bgos6dpjpqx6kg3wjemvz6rzgle", "artistId": ["Anjbnjniwzc6lzhrerqsabl7mri"], "nid": "mvabbi7kvhglwrysutwagt6giu", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "d6460b0f-b095-3b90-843d-42ddfc63f3fd", "clientId": "110a75d5-d6d1-4b9a-9a4d-2601cd4643c0", "playlistId": "b4e43ef7-7058-465e-91b6-fb962000db89", "absolutePosition": "02301339409586323453", "trackId": "T6kwhbnsovxtfmkrx5gzgf7tsoa", "creationTimestamp": "1561118974156523", "lastModifiedTimestamp": "1561118974156523", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Sinfonia No.10 in G Major, BWV 796", "artist": "Project Trio", "composer": "", "album": "When Will Then Be Now", "albumArtist": "Project Trio", "year": 2012, "trackNumber": 9, "durationMillis": "73000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh5.ggpht.com/7YuC2h7d-Cfuzkk4sBd11AQkfufcHphhT6RaT-Wr8wNDuPqkF66Rpf6Yq5Spxdy42Rx_LyQi", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/BfbbVvq55s_DROG-S3LVvpSosKORrsXtJ4ajo29nqHVEIMlxwwRP_vqsoS7fo14nC9fHpPfN_A", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/YIJ-jdJ0E1cS0HEQpEzdLGOj0Qwrq8IoHLYmmJaA14K9_1GFyMtJ1LCo3Wk5zyG5wufKy0bKxY4", "aspectRatio": "1", "autogen": true}], "playCount": 12, "discNumber": 1, "estimatedSize": "2953959", "trackType": "7", "storeId": "T6kwhbnsovxtfmkrx5gzgf7tsoa", "albumId": "Bscynvcfej5zzz5hwgpk6wgcer4", "artistId": ["Ak45vt3kspajnmf3gv6ydtw72vm"], "nid": "6kwhbnsovxtfmkrx5gzgf7tsoa", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}]}
+{
+  "kind": "sj#playlist",
+  "id": "b4e43ef7-7058-465e-91b6-fb962000db89",
+  "creationTimestamp": "1471539186075990",
+  "lastModifiedTimestamp": "1561118974312279",
+  "recentTimestamp": "1485213481809000",
+  "deleted": false,
+  "name": "Kangaeru",
+  "type": "USER_GENERATED",
+  "shareToken": "AMaBXym4TFqOUqk-a77sGnEhFDD7kqXgiz3gkKKvFEcNjOuPUE4OA90i640PF17Ao837iLpuc4gt3P8mLk6E7YxYUITPsr-vtw==",
+  "ownerName": "JD Clark",
+  "description": "",
+  "accessControlled": false,
+  "tracks": [
+    {
+      "kind": "sj#playlistEntry",
+      "id": "fd53041d-3cee-3a0f-a302-22c24d696186",
+      "clientId": "0e853c98-31f5-4b63-9feb-00687de8eb3f",
+      "playlistId": "b4e43ef7-7058-465e-91b6-fb962000db89",
+      "absolutePosition": "01729382256910270462",
+      "trackId": "Twu2doxjc3py3d64bmfhffffspy",
+      "creationTimestamp": "1471539188087997",
+      "lastModifiedTimestamp": "1471539188087997",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Lilith",
+        "artist": "Varien",
+        "composer": "",
+        "album": "Monstercat 012 - Aftermath",
+        "albumArtist": "Various Artists",
+        "year": 2013,
+        "trackNumber": 16,
+        "genre": "Dance/Electronic",
+        "durationMillis": "284000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh4.ggpht.com/48Tsv37wiU1lj6bI_oKJ1AU8oBvi9v_X5yqLwwuBaIAVk6guyZQSozvFdubSMSiU_lWFYouhqw",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/SCngnHEiBqaPCYu426zAIkOgSu6SpDqwYCHjdbQw_GIBnak2l-ilkzysGwI8wGSMfZc0DuXY",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/CkrHiPfq1nX5yq-ocD3LpsxSGPwvd9tEfYvd2ela3xlQOLmidKbQPq5U5RI-miUoLpTpGImy",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 3,
+        "discNumber": 1,
+        "estimatedSize": "11384195",
+        "trackType": "7",
+        "storeId": "Twu2doxjc3py3d64bmfhffffspy",
+        "albumId": "Buctopagc3oo3yuqtybewkwfac4",
+        "artistId": [
+          "Aw4ni4yosuhpu2h4fqzcz2rxlfy"
+        ],
+        "nid": "wu2doxjc3py3d64bmfhffffspy",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2",
+        "primaryVideo": {
+          "kind": "sj#video",
+          "id": "SK_89XfhvY0",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/SK_89XfhvY0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            }
+          ]
+        }
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "19637718-7879-3ae8-8523-6455fbaff622",
+      "clientId": "0fb44ff9-39c8-4d35-bf9c-b78bd591cb5a",
+      "playlistId": "b4e43ef7-7058-465e-91b6-fb962000db89",
+      "absolutePosition": "02017612633061982205",
+      "trackId": "Tckkn2j4fqwdjzz3qh4oga4izmq",
+      "creationTimestamp": "1535824731444710",
+      "lastModifiedTimestamp": "1535824731444710",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Fugue State",
+        "artist": "Vulfpeck",
+        "composer": "",
+        "album": "Fugue State",
+        "albumArtist": "Vulfpeck",
+        "year": 2014,
+        "trackNumber": 1,
+        "genre": "Pop",
+        "durationMillis": "161000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh5.ggpht.com/pnZTh52qICb39h-xzsR31OaDTRZvWFjiuUkeW_gzq8_6D2R8NZ_AFiG55GooJprO86o6Q2z4",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/e_goNo0jzBxubBarei01a5IbbyBgP-7DUfZLvY76r47yzXp5qKZAteRWipdE9w5_Oi85lxMSZLg",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh5.ggpht.com/pnZTh52qICb39h-xzsR31OaDTRZvWFjiuUkeW_gzq8_6D2R8NZ_AFiG55GooJprO86o6Q2z4",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 54,
+        "discNumber": 1,
+        "rating": "5",
+        "estimatedSize": "6476314",
+        "trackType": "7",
+        "storeId": "Tckkn2j4fqwdjzz3qh4oga4izmq",
+        "albumId": "B2hhtou5k3g5j63ydktcgxhuyqy",
+        "artistId": [
+          "Annvbzx2kz4paq2fqap2hicnld4"
+        ],
+        "nid": "ckkn2j4fqwdjzz3qh4oga4izmq",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2",
+        "lastRatingChangeTimestamp": "1535824764872000"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "c34c4938-b82d-3d89-a07c-07d1add9afe3",
+      "clientId": "a286eeee-bbf1-4139-b358-faba9656f1cf",
+      "playlistId": "b4e43ef7-7058-465e-91b6-fb962000db89",
+      "absolutePosition": "02161727821137838077",
+      "trackId": "Trhm6s2bsces2rvyur5ihifxyce",
+      "creationTimestamp": "1535824739308723",
+      "lastModifiedTimestamp": "1535824739308723",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "First Place",
+        "artist": "Vulfpeck",
+        "composer": "",
+        "album": "Fugue State",
+        "albumArtist": "Vulfpeck",
+        "year": 2014,
+        "trackNumber": 3,
+        "genre": "Pop",
+        "durationMillis": "198000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh5.ggpht.com/pnZTh52qICb39h-xzsR31OaDTRZvWFjiuUkeW_gzq8_6D2R8NZ_AFiG55GooJprO86o6Q2z4",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/e_goNo0jzBxubBarei01a5IbbyBgP-7DUfZLvY76r47yzXp5qKZAteRWipdE9w5_Oi85lxMSZLg",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh5.ggpht.com/pnZTh52qICb39h-xzsR31OaDTRZvWFjiuUkeW_gzq8_6D2R8NZ_AFiG55GooJprO86o6Q2z4",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 17,
+        "discNumber": 1,
+        "estimatedSize": "7921408",
+        "trackType": "7",
+        "storeId": "Trhm6s2bsces2rvyur5ihifxyce",
+        "albumId": "B2hhtou5k3g5j63ydktcgxhuyqy",
+        "artistId": [
+          "Annvbzx2kz4paq2fqap2hicnld4"
+        ],
+        "nid": "rhm6s2bsces2rvyur5ihifxyce",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "c7346a43-67c6-3bba-808d-bdad97c6dd7b",
+      "clientId": "c0bd0a87-b084-4bc4-ab7c-3943491224a9",
+      "playlistId": "b4e43ef7-7058-465e-91b6-fb962000db89",
+      "absolutePosition": "02233785415175766013",
+      "trackId": "Tczsye3e3tezxz6ixtzqxhq7cqa",
+      "creationTimestamp": "1535824753626049",
+      "lastModifiedTimestamp": "1535824753626049",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "1612",
+        "artist": "Vulfpeck",
+        "composer": "",
+        "album": "Fugue State",
+        "albumArtist": "Vulfpeck",
+        "year": 2014,
+        "trackNumber": 2,
+        "genre": "Pop",
+        "durationMillis": "199000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh5.ggpht.com/pnZTh52qICb39h-xzsR31OaDTRZvWFjiuUkeW_gzq8_6D2R8NZ_AFiG55GooJprO86o6Q2z4",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/e_goNo0jzBxubBarei01a5IbbyBgP-7DUfZLvY76r47yzXp5qKZAteRWipdE9w5_Oi85lxMSZLg",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh5.ggpht.com/pnZTh52qICb39h-xzsR31OaDTRZvWFjiuUkeW_gzq8_6D2R8NZ_AFiG55GooJprO86o6Q2z4",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 20,
+        "discNumber": 1,
+        "estimatedSize": "7988282",
+        "trackType": "7",
+        "storeId": "Tczsye3e3tezxz6ixtzqxhq7cqa",
+        "albumId": "B2hhtou5k3g5j63ydktcgxhuyqy",
+        "artistId": [
+          "Annvbzx2kz4paq2fqap2hicnld4"
+        ],
+        "nid": "czsye3e3tezxz6ixtzqxhq7cqa",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "6bd88e38-830b-3443-ad92-f24336678445",
+      "clientId": "083a83b3-e97e-42f9-ab2d-c42d7362fdf6",
+      "playlistId": "b4e43ef7-7058-465e-91b6-fb962000db89",
+      "absolutePosition": "02269814212194729981",
+      "trackId": "Tqjogdvrmwf6tywaxrykjrpw7ui",
+      "creationTimestamp": "1535824759484688",
+      "lastModifiedTimestamp": "1535824759484688",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Newsbeat",
+        "artist": "Vulfpeck",
+        "composer": "",
+        "album": "Fugue State",
+        "albumArtist": "Vulfpeck",
+        "year": 2014,
+        "trackNumber": 6,
+        "genre": "Pop",
+        "durationMillis": "209000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh5.ggpht.com/pnZTh52qICb39h-xzsR31OaDTRZvWFjiuUkeW_gzq8_6D2R8NZ_AFiG55GooJprO86o6Q2z4",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/e_goNo0jzBxubBarei01a5IbbyBgP-7DUfZLvY76r47yzXp5qKZAteRWipdE9w5_Oi85lxMSZLg",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh5.ggpht.com/pnZTh52qICb39h-xzsR31OaDTRZvWFjiuUkeW_gzq8_6D2R8NZ_AFiG55GooJprO86o6Q2z4",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 11,
+        "discNumber": 1,
+        "estimatedSize": "8394747",
+        "trackType": "7",
+        "storeId": "Tqjogdvrmwf6tywaxrykjrpw7ui",
+        "albumId": "B2hhtou5k3g5j63ydktcgxhuyqy",
+        "artistId": [
+          "Annvbzx2kz4paq2fqap2hicnld4"
+        ],
+        "nid": "qjogdvrmwf6tywaxrykjrpw7ui",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "14445732-d9e4-3219-83fd-135506a82bc0",
+      "clientId": "364cc1d4-c8f5-4fe8-b98a-637135208475",
+      "playlistId": "b4e43ef7-7058-465e-91b6-fb962000db89",
+      "absolutePosition": "02287828610704211965",
+      "trackId": "Tw5mtktzafpw7ols2c3yffbbsqa",
+      "creationTimestamp": "1535827227792549",
+      "lastModifiedTimestamp": "1535827227792549",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Rubens",
+        "artist": "Cory Wong",
+        "composer": "",
+        "album": "Cory Wong and the Green Screen Band",
+        "albumArtist": "Cory Wong",
+        "year": 2017,
+        "trackNumber": 2,
+        "genre": "R&B/Soul",
+        "durationMillis": "185000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/umyYnayrlVv5JiPShHoI3ODk9eCp9_JdcYOJgHWAXvNW52T-4YsOgHf7LT6IS8eFK60Gt2Yms6o",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/2NaiWBnOMhtlyq3hdJQOJ45hMi9rI1GmiENILxkNl7_jnHmATv_k387g5dEatqo1oDpfRx6fKQ",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/umyYnayrlVv5JiPShHoI3ODk9eCp9_JdcYOJgHWAXvNW52T-4YsOgHf7LT6IS8eFK60Gt2Yms6o",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 9,
+        "discNumber": 1,
+        "estimatedSize": "7437620",
+        "trackType": "7",
+        "storeId": "Tw5mtktzafpw7ols2c3yffbbsqa",
+        "albumId": "Bariwydzroa56pxp3e6oocreotu",
+        "artistId": [
+          "Azpwaaqccypvib5dlzdfbcl3qv4"
+        ],
+        "nid": "w5mtktzafpw7ols2c3yffbbsqa",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "5e0d0144-bd33-3f5f-b59e-407dbdd060a6",
+      "clientId": "6321c9ea-e9c5-40d9-af46-9dcd543cfcc4",
+      "playlistId": "b4e43ef7-7058-465e-91b6-fb962000db89",
+      "absolutePosition": "02296835809958952957",
+      "trackId": "Tmvabbi7kvhglwrysutwagt6giu",
+      "creationTimestamp": "1535829465001948",
+      "lastModifiedTimestamp": "1535829465001948",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Elephant Walk",
+        "artist": "Lettuce",
+        "composer": "",
+        "album": "Mt. Crushmore",
+        "albumArtist": "Lettuce",
+        "year": 2016,
+        "trackNumber": 4,
+        "genre": "R&B/Soul",
+        "durationMillis": "184000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/qcXm3ox4oshcShnwdvjRHhaul2ICDImzYaTYSwox5huTPP6Kjn3vWiNUiMtG2diO_xKtn2X3fQ",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/eCt_VpEFfENnLw6MnhL_Z6Eu5lOBNaroM9T-OqCpslJQ1tV10FEtXvr2MWMSM77YcwiSUNnnTQ",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/7BtzC7pEZaWgYYsdnxv4PyGh-yPdD0Bv4gvS6t3ptKHblFnEoGfu9VVFcBrSLFaGfJxxMhN9",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 18,
+        "discNumber": 1,
+        "estimatedSize": "7361343",
+        "trackType": "7",
+        "storeId": "Tmvabbi7kvhglwrysutwagt6giu",
+        "albumId": "Bgos6dpjpqx6kg3wjemvz6rzgle",
+        "artistId": [
+          "Anjbnjniwzc6lzhrerqsabl7mri"
+        ],
+        "nid": "mvabbi7kvhglwrysutwagt6giu",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "d6460b0f-b095-3b90-843d-42ddfc63f3fd",
+      "clientId": "110a75d5-d6d1-4b9a-9a4d-2601cd4643c0",
+      "playlistId": "b4e43ef7-7058-465e-91b6-fb962000db89",
+      "absolutePosition": "02301339409586323453",
+      "trackId": "T6kwhbnsovxtfmkrx5gzgf7tsoa",
+      "creationTimestamp": "1561118974156523",
+      "lastModifiedTimestamp": "1561118974156523",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Sinfonia No.10 in G Major, BWV 796",
+        "artist": "Project Trio",
+        "composer": "",
+        "album": "When Will Then Be Now",
+        "albumArtist": "Project Trio",
+        "year": 2012,
+        "trackNumber": 9,
+        "durationMillis": "73000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh5.ggpht.com/7YuC2h7d-Cfuzkk4sBd11AQkfufcHphhT6RaT-Wr8wNDuPqkF66Rpf6Yq5Spxdy42Rx_LyQi",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/BfbbVvq55s_DROG-S3LVvpSosKORrsXtJ4ajo29nqHVEIMlxwwRP_vqsoS7fo14nC9fHpPfN_A",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/YIJ-jdJ0E1cS0HEQpEzdLGOj0Qwrq8IoHLYmmJaA14K9_1GFyMtJ1LCo3Wk5zyG5wufKy0bKxY4",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 12,
+        "discNumber": 1,
+        "estimatedSize": "2953959",
+        "trackType": "7",
+        "storeId": "T6kwhbnsovxtfmkrx5gzgf7tsoa",
+        "albumId": "Bscynvcfej5zzz5hwgpk6wgcer4",
+        "artistId": [
+          "Ak45vt3kspajnmf3gv6ydtw72vm"
+        ],
+        "nid": "6kwhbnsovxtfmkrx5gzgf7tsoa",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    }
+  ]
+}

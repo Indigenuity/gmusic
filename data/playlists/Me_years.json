@@ -1,1 +1,1054 @@
-{"kind": "sj#playlist", "id": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "creationTimestamp": "1514779277805505", "lastModifiedTimestamp": "1514782683797438", "recentTimestamp": "1514779277443000", "deleted": false, "name": "Me years", "type": "USER_GENERATED", "shareToken": "AMaBXymvWiKUW3QmK41oAPqZBZayKHx6agTWsSMGnthgyvXkDAPvkUJBRt0uinoDp8gqecmhn30B8VlSJvXpSFaB0fbRkzfgNQ==", "ownerName": "JD Clark", "description": "", "accessControlled": false, "tracks": [{"kind": "sj#playlistEntry", "id": "eb5d6179-a134-34dd-b95b-e3c5e9363fd0", "clientId": "1e4e2321-c5f9-4ba4-9c79-70255b1f666d", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "01729382256910270462", "trackId": "Tmmhbtrwlfh5n6gz6nu5grppeee", "creationTimestamp": "1514779281196672", "lastModifiedTimestamp": "1514779281196672", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Move", "artist": "Saint Motel", "composer": "", "album": "saintmotelevision", "albumArtist": "Saint Motel", "year": 2016, "trackNumber": 1, "genre": "Alternative/Indie", "durationMillis": "187000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/YIh0xTgVJsiYjzTMl5AV7cnuXEB9cOpwtdNtBX-2Pp7usQK8in8EQBtr7hXGgqkHnW7YCoO8", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/n2mKTsbSc1-sTDo-mlEZAntyWkqjoOW0RmQCJ6BKBccCgq41HpnYufckvmB-q0LPEXC-w41jnw", "aspectRatio": "2", "autogen": false}], "playCount": 2, "discNumber": 1, "estimatedSize": "7518068", "trackType": "7", "storeId": "Tmmhbtrwlfh5n6gz6nu5grppeee", "albumId": "Bmynn27ojl4ysfvho2cbrlqiwfa", "artistId": ["A4p3ctvcw7kbdhoqjkj6557g4py"], "nid": "mmhbtrwlfh5n6gz6nu5grppeee", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "2d1bf060-963b-3260-90f9-353426fffedf", "clientId": "63ffc903-4a24-4212-b116-b9039da2efd6", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "01921535841011411624", "trackId": "Taxewewiznoflyqgrnw62leihke", "creationTimestamp": "1514779401399669", "lastModifiedTimestamp": "1514779401399669", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "All About That Bass", "artist": "Meghan Trainor", "composer": "Meghan Trainor; Kevin Kadish", "album": "Title (Deluxe)", "albumArtist": "Meghan Trainor", "year": 2015, "trackNumber": 2, "genre": "'10s Pop", "durationMillis": "187000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/yT9ru1cUD9cmglu2m9xbsT9AtOjL_4GB7omI0cVoXSf_Ip5ZLcv5_Gc5dUrnrlo8VR944E7JZA", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/PS0Bp61T4cmL5NRuH87Xjw6a3-UJ_R4US8g6q1VWizbAvFybfAqtIicbpp3ln5FxehDTwX3GtUQ", "aspectRatio": "2", "autogen": false}], "playCount": 1, "discNumber": 1, "estimatedSize": "7517023", "trackType": "7", "storeId": "Taxewewiznoflyqgrnw62leihke", "albumId": "Bjacjvhdlxmhbbcdbmmoglkfqju", "artistId": ["Ao7cezng3n7z7smqinyrxb6edt4", "Azhbm7ourrf2js2gz23hqfqogli"], "nid": "axewewiznoflyqgrnw62leihke", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "1", "primaryVideo": {"kind": "sj#video", "id": "7PCkvCPvDXk", "thumbnails": [{"url": "https://i.ytimg.com/vi/7PCkvCPvDXk/mqdefault.jpg", "width": 320, "height": 180}]}}}, {"kind": "sj#playlistEntry", "id": "aa481cb1-0157-37d8-a71c-d595926ac9ec", "clientId": "19490c0a-9e28-48fc-b5bd-423de7b269cb", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "02113689425112552786", "trackId": "Tv2zy357bkgnrzzq3z3vaqfc574", "creationTimestamp": "1514779401399669", "lastModifiedTimestamp": "1514779401399669", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Rock DJ (2004 Mix)", "artist": "Robbie Williams", "composer": "", "album": "In And Out Of Consciousness: Greatest Hits 1990 - 2010", "albumArtist": "Robbie Williams", "year": 2010, "trackNumber": 27, "genre": "Rock", "durationMillis": "257000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/EmHOuxObGoQwqjym7ehMIJligw70b-CoJdiidB8V192m4KyudE8E5VKOthgMXbT-KHPCv3E2uQ", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/tu_kzIuQIArVw4dwGk3Z__-mud2vbMR-jwGA0L_DKBI61ih-1ONMoG8HEROdUcIHrgQlhAToKGo", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh5.ggpht.com/644BSLp-qSu1e9AiKsNnll0oWSFnf7xBjgEBfdrX2yE09BhEeKP_RJefSOOhPLbwkAgG9Z2J-AM", "aspectRatio": "1", "autogen": true}], "playCount": 2, "discNumber": 1, "estimatedSize": "10297506", "trackType": "7", "storeId": "Tv2zy357bkgnrzzq3z3vaqfc574", "albumId": "Bwh34ybdodj5poxujho3osl75oe", "artistId": ["Az6kf44t2vk6tu3c3krat6vaucu", "Aaivggevvg3banbx5vdnffdalma", "Akmnme3iec2ahvohi2p4dkuyeg4", "A6aoa6wq7aurm7swb666sk2377e", "Aguslnfxomkvqabuboiry6eqt44", "Awrfi6eq3gheur5gotwey4nngqm", "Afrvwle4si7467nscoy4ikkzpdy", "Aty7443qwit5mdpiukcoux2kouy", "Altneffqh7v2izipccqnyelwjqq", "Amonxrdfe726vqbnklu5poboibi", "Agahmxutltdgg357rjiojc5hzl4", "A323e3c46wohh26t63dobmlvvy4", "Am2nnvwvhved3hywubsha6nq46i", "Aqz2nzrz347p73r6e3cqnpklfh4", "Aoemlbdxc5wuhfc57lhqu3kveme", "Aeeuqdcz2dcqincnpvskeykdhvi"], "nid": "v2zy357bkgnrzzq3z3vaqfc574", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2", "primaryVideo": {"kind": "sj#video", "id": "BnO3nijfYmU", "thumbnails": [{"url": "https://i.ytimg.com/vi/BnO3nijfYmU/mqdefault.jpg", "width": 320, "height": 180}]}}}, {"kind": "sj#playlistEntry", "id": "4e5d1059-6157-3368-a1e3-e282fbe5e74b", "clientId": "290de32a-69d4-40fb-9d86-2fc10c727d38", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "02209766217163123367", "trackId": "Tcghnhzkrlcuny36pooo3tcy32u", "creationTimestamp": "1514779478997479", "lastModifiedTimestamp": "1514779478997479", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Ice Cream", "artist": "New Young Pony Club", "composer": "", "album": "Fantastic Playroom", "albumArtist": "New Young Pony Club", "year": 2007, "trackNumber": 3, "genre": "Pop", "durationMillis": "188000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/mkhy4V9qfzD1bI8zf8qMtigHFDm5Aoa7VbCI6LTN3T6vmliNtBnj_EixPWOAymPIPQpU3cGX", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/SxfkthZw0goAJvJc_4uKQw23OHWPN66JD-4SZ8nICccxJglmOEt1DcPY_DW1z14uEpxU-UrXBJA", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/mkhy4V9qfzD1bI8zf8qMtigHFDm5Aoa7VbCI6LTN3T6vmliNtBnj_EixPWOAymPIPQpU3cGX", "aspectRatio": "1", "autogen": true}], "playCount": 2, "discNumber": 1, "estimatedSize": "7525392", "trackType": "7", "storeId": "Tcghnhzkrlcuny36pooo3tcy32u", "albumId": "B4z4ecfozt5sjw3qv6zny2zyn5u", "artistId": ["Aakztgtnalqwsmvdftki4hknf4a"], "nid": "cghnhzkrlcuny36pooo3tcy32u", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2", "primaryVideo": {"kind": "sj#video", "id": "-shACMaxUb0", "thumbnails": [{"url": "https://i.ytimg.com/vi/-shACMaxUb0/mqdefault.jpg", "width": 320, "height": 180}]}}}, {"kind": "sj#playlistEntry", "id": "2ad4ae71-004d-359e-9a1f-e18dc1eb2425", "clientId": "b0f09fa4-9ad8-4066-999e-34cc313bd1cc", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "02257804613188408658", "trackId": "T5hmavuvutbuqgtjppbls7g34ny", "creationTimestamp": "1514779674298202", "lastModifiedTimestamp": "1514779674298202", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Bad Decisions", "artist": "Two Door Cinema Club", "composer": "", "album": "Gameshow", "albumArtist": "Two Door Cinema Club", "year": 2016, "trackNumber": 2, "genre": "New Wave/Post-Punk", "durationMillis": "297000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/Z5k48gNYlyM9jPz3rUOOM9KrxFFaKtywV7aQ3sM4x6-sU3jxGZLCCpaczSZVri0BQM15FsMBNhE", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/4cLriww8vzAcdkz2cC4kLWQixnCg-4fAdofb_et8b7f6TCag84rQa9xvq-r6wQ-03Fn8yZW6mnA", "aspectRatio": "2", "autogen": false}], "playCount": 2, "discNumber": 1, "estimatedSize": "11913963", "trackType": "7", "storeId": "T5hmavuvutbuqgtjppbls7g34ny", "albumId": "Bshk2aigka4cekix42ng5ntz7ta", "artistId": ["A6yna2hsyd4wdn6ttizsbfhmq2u"], "nid": "5hmavuvutbuqgtjppbls7g34ny", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "51146b4f-ebc8-3e48-be8b-be4f838ebfdd", "clientId": "fb1a941c-6f20-4580-b680-1996b479bb8a", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "02289830210538598851", "trackId": "Trayv4viikkz6cnmlm7j4hbnjkm", "creationTimestamp": "1514779980552260", "lastModifiedTimestamp": "1514779980552260", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Let's Go Crazy", "artist": "Prince & The Revolution", "composer": "", "album": "The Hits / The B-Sides", "albumArtist": "Prince", "year": 1993, "trackNumber": 8, "genre": "Pop", "durationMillis": "280000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/lYQWktYJUnK6hWuwBqEMvKR78ZdRRcCFq3DtwxwEBfau3vZtPSqles5CGGQe_IWpWF3sqwOx", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/fG0OsRA_OWJaDKANuJosoB5k-y3niWNvlwveFOgEHJIooo7SVeCj4nQm4jtrFhz7XGiouzv8gg", "aspectRatio": "2", "autogen": false}], "playCount": 1, "discNumber": 1, "estimatedSize": "11202378", "trackType": "7", "storeId": "Trayv4viikkz6cnmlm7j4hbnjkm", "albumId": "Bkb63ylcwkfbujtzvlgstxovvne", "artistId": ["Acfxll3w7nrluhyltetwvqcibsu"], "nid": "rayv4viikkz6cnmlm7j4hbnjkm", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "1"}}, {"kind": "sj#playlistEntry", "id": "bf68cac9-9a5f-3df0-8168-589bdb591a87", "clientId": "35342768-a9b6-4428-81b6-2c20cdfddb82", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "02303679117500843252", "trackId": "T53tpqmhidcx32fv254dt3xq674", "creationTimestamp": "1514780522982846", "lastModifiedTimestamp": "1514780522982846", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Hungry Like the Wolf (Remastered 2009)", "artist": "Duran Duran", "composer": "", "album": "80s Soft Rock", "albumArtist": "Various Artists", "year": 2017, "trackNumber": 2, "genre": "Pop", "durationMillis": "220000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/R0qeHBFJ0NcSBSDgBWbg31tlmN0T46p1FdVY_h2LxuCzj0VZFuk8rk9JvXlwrGxm3aqrKrDY", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/-EXm3ipL5XztbPxde8KjxxHtfOxpwW4uLLCaSxIhH75Qr7ZQSMeDS7gGQ23gcD35WTG-qPfMoQ", "aspectRatio": "2", "autogen": false}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/mKUOpLjCe1w9_m-jRyBTDI48sasGzMFWYL5s-SmlfMDLIN9HXgA9yvlZdtNq_SCxmxkh-uahgNc", "aspectRatio": "1", "autogen": false}], "playCount": 2, "discNumber": 1, "estimatedSize": "8827335", "trackType": "7", "storeId": "T53tpqmhidcx32fv254dt3xq674", "albumId": "Bk3g2h72oc6sswesah3nipxhcym", "artistId": ["A7bbhmu2wby2jicwjhhgfmouz5q"], "nid": "53tpqmhidcx32fv254dt3xq674", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "9dd58bc2-deab-354e-a1c6-85459199fb9a", "clientId": "c0042c12-4527-40ba-8792-8275696009b4", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "02303787312086485786", "trackId": "Tcbosic7jneseakacf7u2qsvtby", "creationTimestamp": "1514780522982846", "lastModifiedTimestamp": "1514780522982846", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "St. Elmos Fire (Man In Motion)", "artist": "John Parr", "composer": "", "album": "80s Soft Rock", "albumArtist": "Various Artists", "year": 2017, "trackNumber": 3, "genre": "Soundtracks", "durationMillis": "251000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/R0qeHBFJ0NcSBSDgBWbg31tlmN0T46p1FdVY_h2LxuCzj0VZFuk8rk9JvXlwrGxm3aqrKrDY", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/TYLmzn1pNxVFRoxQp-JvmxyQlaggLmBDEDJicnYlORME2GdgBMBQY-yTW-MT3uQYCzwtYg18", "aspectRatio": "2", "autogen": false}], "playCount": 1, "discNumber": 1, "estimatedSize": "10074943", "trackType": "7", "storeId": "Tcbosic7jneseakacf7u2qsvtby", "albumId": "Bk3g2h72oc6sswesah3nipxhcym", "artistId": ["A23vondasmjf5fg537gyyouk3q4"], "nid": "cbosic7jneseakacf7u2qsvtby", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "bd2399c6-9a2c-3c1a-a2a4-9b12ceb1e19d", "clientId": "6ded8d20-d2df-44c2-8d65-fc5ab3d18c46", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "02305734814628051398", "trackId": "Tpybkvlb4wn4dyq6qibto5oejo4", "creationTimestamp": "1514780522982846", "lastModifiedTimestamp": "1514780522982846", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Eye of the Tiger", "artist": "Survivor", "composer": "", "album": "Eye Of The Tiger", "albumArtist": "Survivor", "year": 1982, "trackNumber": 1, "genre": "Pop", "durationMillis": "243000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/GWQ7sC7fDB7sO8152NQEL-nzlWXvLTtVxGroT-4lCJsczfo6m1wD3n_24yIMdjNvhjnH1sDd", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/eRbOtI_00gyEOMEiBqeOaF_KEFbEXEl2NgD8YsaESuvXr-Nj9oiBvvpsVj7msa9_ifOWe20s", "aspectRatio": "2", "autogen": false}], "playCount": 3, "discNumber": 1, "estimatedSize": "9753104", "trackType": "7", "storeId": "Tpybkvlb4wn4dyq6qibto5oejo4", "albumId": "Behglypsasa6vuxgnrmmfajjz3i", "artistId": ["Aoa4osw7u6tmvcded2arxljuh3a"], "nid": "pybkvlb4wn4dyq6qibto5oejo4", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2", "primaryVideo": {"kind": "sj#video", "id": "btPJPFnesV4", "thumbnails": [{"url": "https://i.ytimg.com/vi/btPJPFnesV4/mqdefault.jpg", "width": 320, "height": 180}]}}}, {"kind": "sj#playlistEntry", "id": "5cc69fb2-4c48-3a85-9c5e-ea56e54ed4d7", "clientId": "164b1e23-9ac1-47ff-b295-f13ce67c28c9", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "02305788911920872673", "trackId": "Tqfrqighdpqlmgqvmoq47owv54u", "creationTimestamp": "1514780584737342", "lastModifiedTimestamp": "1514780584737342", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Relax", "artist": "Frankie Goes to Hollywood", "composer": "", "album": "Welcome To The Pleasuredome", "albumArtist": "Frankie Goes to Hollywood", "year": 1984, "trackNumber": 3, "genre": "'80s Pop", "durationMillis": "236000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/V0Rkqg9kRr5U3T2SVFEkMGoQivUkFmQCqZf8DYZ8eYeseuk6Z4t6cBPrXeZOkX7kk8JTWUBV", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/CMgo_DD6D3LmOvfxTxXg9_yPe5jEP6DPRaPonlFbVKvDe-AZ4aWTwug_uSMCh-yvAuV73yaktA", "aspectRatio": "2", "autogen": false}], "playCount": 1, "discNumber": 1, "estimatedSize": "9474126", "trackType": "7", "storeId": "Tqfrqighdpqlmgqvmoq47owv54u", "albumId": "Bfdwqj54zi45vsquzs2yxoo2gna", "artistId": ["Adzam6bg2zumqjskfkehccfsm7m"], "nid": "qfrqighdpqlmgqvmoq47owv54u", "trackAvailableForSubscription": true, "trackAvailableForPurchase": false, "albumAvailableForPurchase": false, "explicitType": "2", "primaryVideo": {"kind": "sj#video", "id": "rCp2h5jslKY", "thumbnails": [{"url": "https://i.ytimg.com/vi/rCp2h5jslKY/mqdefault.jpg", "width": 320, "height": 180}]}}}, {"kind": "sj#playlistEntry", "id": "c80a5402-89a2-30ca-a6e7-45d267cdc196", "clientId": "078121ac-7587-4f11-99b7-b05443fe23b4", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "02305824976782753523", "trackId": "Tfudbbl4iwefplpkelfazzbjwj4", "creationTimestamp": "1514780709878336", "lastModifiedTimestamp": "1514780709878336", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Need You Tonight", "artist": "INXS", "composer": "", "album": "Kick", "albumArtist": "INXS", "year": 1987, "trackNumber": 4, "genre": "Pop", "durationMillis": "180000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh6.ggpht.com/gJrXlhqUjEE9aURvQdnho8xi0HYxP-q5hl0DtKiQ0WtziusWPSJDmpMY4GOBd7j3Us3ldJV26g", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/5KHzThq7pSaks3FX8qRKpyS-1zfYICs-yWv-dWjIvp7k473e3CfUkrS3dD_hbvDbteuFEkk3Ug", "aspectRatio": "2", "autogen": false}], "playCount": 1, "discNumber": 1, "estimatedSize": "7223416", "trackType": "7", "storeId": "Tfudbbl4iwefplpkelfazzbjwj4", "albumId": "B47ojet7m3mfrl7l6stqknueubu", "artistId": ["Asnt2bsdtid5loe2vnc5yepbmxm"], "nid": "fudbbl4iwefplpkelfazzbjwj4", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "40fad322-bd10-34f7-8cdb-3a2df552ce64", "clientId": "3610708d-6e02-431c-95fd-c5a79b61d7d1", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "02305838501105958842", "trackId": "Txr3o463ulbdgmkn34naieo2jte", "creationTimestamp": "1514781450657272", "lastModifiedTimestamp": "1514781450657272", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Walk Like an Egyptian", "artist": "Disco Fever", "composer": "", "album": "200 Best Songs 80's", "albumArtist": "Disco Fever", "year": 2017, "trackNumber": 29, "genre": "Dance/Electronic", "durationMillis": "200000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/-4JWr81XvpQlguGeF5ASTdU5yrpl5YB9KzRm7rVmU646uHJLlPsLmGCKULSM_Lh5bNc9A6PE", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/8_evbPux9__tMRQLEOiQZz--SZ-poF-QoFBgxNtdc7sp3k_IqXWiJDm5NaiGRe3YHh6swqU9", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/nDvMhHC0wNIuFjBAFSRhmKihjEePMniA2IL--lP2Ocv8wS0e2f38JlNV5jXGR5b25KstHx2jN3U", "aspectRatio": "1", "autogen": true}], "playCount": 1, "discNumber": 1, "estimatedSize": "8013359", "trackType": "7", "storeId": "Txr3o463ulbdgmkn34naieo2jte", "albumId": "Btkecf5qgcvvbfasudssli6542m", "artistId": ["Ayfn2gtdb6e75ov2cro4d2zntva"], "nid": "xr3o463ulbdgmkn34naieo2jte", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "121973e3-6a6a-30a9-9be2-29307353b7ab", "clientId": "210f1f58-d641-4202-ad88-aceeb4711f38", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "02305840755159826395", "trackId": "Tigskln3h2257e2bw2ilfo4t6fy", "creationTimestamp": "1514781573496941", "lastModifiedTimestamp": "1514781573496941", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Joyride (Single Version)", "artist": "Roxette", "composer": "", "album": "The 30 Biggest Hits XXX", "albumArtist": "Roxette", "year": 2015, "trackNumber": 1, "genre": "Pop", "durationMillis": "241000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.ggpht.com/tDRgubvD4DRij792wm0WMi2lb6T-RGDHDySPfp2ajk0NvER2YICKl_E5HzljJGgSamwBc4MgmA", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/xBajpwVjiFJo1logCqtzp2S9UpCfW1S55amzExIg-ZCJwVEPDl0h4MP1s_Gt8H6Ov3a_G1nMJbY", "aspectRatio": "2", "autogen": false}], "discNumber": 2, "estimatedSize": "9671602", "trackType": "7", "storeId": "Tigskln3h2257e2bw2ilfo4t6fy", "albumId": "B25x5yo6fva33dntgx3i5nhklae", "artistId": ["A7iqqoifcjpfz4xvdbjjnrau3y4"], "nid": "igskln3h2257e2bw2ilfo4t6fy", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "364f0d99-e734-378d-9ffb-4a9d7e56a849", "clientId": "19a991c4-1d21-4186-9ff8-a90860195954", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "02305841882186760172", "trackId": "Txle62hiqvfa6475azfd53n4keu", "creationTimestamp": "1514781688392530", "lastModifiedTimestamp": "1514781688392530", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "No More \"I Love You's\"", "artist": "Annie Lennox", "composer": "", "album": "Medusa", "albumArtist": "Annie Lennox", "year": 1995, "trackNumber": 1, "genre": "'90s Pop", "durationMillis": "291000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh4.ggpht.com/KaCdPTpTQE2HBdooWBdUYjQU7yCY3Z2QhbNRMTcUIShHPrJIpUcZKqxSPXkW5h8O_x6TUMcSvw", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/aknOSMsJgxvw0bXtIv5wKLNAui8i3NFV_fzhjtPJPKdpzLAX800LCnKGZS5xDDUeMp3ivMZ7", "aspectRatio": "2", "autogen": false}], "discNumber": 1, "estimatedSize": "11655863", "trackType": "7", "storeId": "Txle62hiqvfa6475azfd53n4keu", "albumId": "Bmeda4d3r32q6omvyajjc6kdnuq", "artistId": ["Am5uo6xc7fal45cicnluohmz6xe"], "nid": "xle62hiqvfa6475azfd53n4keu", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2", "primaryVideo": {"kind": "sj#video", "id": "NSkboTTTmpg", "thumbnails": [{"url": "https://i.ytimg.com/vi/NSkboTTTmpg/mqdefault.jpg", "width": 320, "height": 180}]}}}, {"kind": "sj#playlistEntry", "id": "45bd67fd-da70-3143-a1a2-ae1357238194", "clientId": "848794f0-279c-4bb1-8024-e00f052efc7e", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "02305842821375871652", "trackId": "Tacy6urwbvbv56ui3nphhem47ty", "creationTimestamp": "1514782013151270", "lastModifiedTimestamp": "1514782013151270", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Gloria", "artist": "Laura Branigan", "composer": "", "album": "The Best Of Branigan", "albumArtist": "Laura Branigan", "year": 1995, "trackNumber": 13, "genre": "Pop", "durationMillis": "295000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.ggpht.com/G5NwpTWRawBCb8fbcvvH7pYu_fT9Gj8IWVAx5rB9CVbxlsN6z5Kw1M2j_YKEFtJZb7dUFGed", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/J0NtIbf88bDNzIA-TGXIPUEAFBkprCngajLXjzNaR4ton4VsLvwv1JIPvYxKDFio8XJNBjV2jA", "aspectRatio": "2", "autogen": false}], "playCount": 1, "discNumber": 1, "estimatedSize": "11805284", "trackType": "7", "storeId": "Tacy6urwbvbv56ui3nphhem47ty", "albumId": "Bi7spzpxyt3jlkktcboxqb4dndy", "artistId": ["A5f6d73367dqe37rjidoiebr7n4"], "nid": "acy6urwbvbv56ui3nphhem47ty", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "98c0206f-dce3-31ce-aee8-d0fe5f455e40", "clientId": "b8f0d4d1-3829-4784-9ab0-5d9ed0c4a2e6", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "02305842915294782800", "trackId": "Tqparbt3ypyc22wqofpy35a345e", "creationTimestamp": "1514782082100076", "lastModifiedTimestamp": "1514782082100076", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "We Built This City", "artist": "Starship", "composer": "", "album": "Knee Deep In The Hoopla", "albumArtist": "Starship", "year": 1985, "trackNumber": 1, "genre": "Pop", "durationMillis": "296000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/KfLisfmw7KYk02QVWRAlpkQSMvldQk0sZTWonRI5Rg7YF8AcZGMBruJjHQUcfUkREHUEVmKMIQ", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/KCuBol2nZe8sumvIXjtUjUDEsa1ypVgNuBkTYC0NKXLBYn0uC7_kfnNdwxNrz_s7DzgKH7XlwA", "aspectRatio": "2", "autogen": false}], "discNumber": 1, "estimatedSize": "11846045", "trackType": "7", "storeId": "Tqparbt3ypyc22wqofpy35a345e", "albumId": "Buag63mk3ji4igkwj6pnq67fj4a", "artistId": ["Agrpfnhhyrsxpdue2d3ft7gqvoi"], "nid": "qparbt3ypyc22wqofpy35a345e", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2", "primaryVideo": {"kind": "sj#video", "id": "K1b8AhIsSYQ", "thumbnails": [{"url": "https://i.ytimg.com/vi/K1b8AhIsSYQ/mqdefault.jpg", "width": 320, "height": 180}]}}}, {"kind": "sj#playlistEntry", "id": "0cdaaef4-f364-39cf-83ae-9a024001e05f", "clientId": "d654ca41-3d18-4110-b610-dd353eda8b16", "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77", "absolutePosition": "02305842962254238374", "trackId": "Tven2schztinvw3v4idpnfurseq", "creationTimestamp": "1514782562540384", "lastModifiedTimestamp": "1514782562540384", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Where Do You Go", "artist": "No Mercy", "composer": "", "album": "No Mercy", "albumArtist": "No Mercy", "year": 1996, "trackNumber": 1, "genre": "Dance Pop", "durationMillis": "272000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh4.ggpht.com/LuVUSoqMCymfVpm7h_xhiCuY74P6VJCBX5GWA-YdlRwjoMB67wE3LQ3lCdIWBL0WH3G4t-UteDs", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/I04jLZCBP95Si0uWmKJheXYO6rN0KJ2YRaCYoGXy5MmFF47A8NP-Flx_FmzsgkqDMheFmQF8q6c", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/aZ5Q7o03SWuRQSCNIPr2TuT6Dtg9FkR-Vo0nKOQEX3jQx-8OOJOU0cW-A6rwDJzZvskJLIRBTg", "aspectRatio": "1", "autogen": true}], "playCount": 1, "discNumber": 1, "estimatedSize": "10890998", "trackType": "7", "storeId": "Tven2schztinvw3v4idpnfurseq", "albumId": "Baoisgz6s6j6x53fzf5fbqh2afy", "artistId": ["Ae7ysdxitefedegpayea6qfkvzq"], "nid": "ven2schztinvw3v4idpnfurseq", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}]}
+{
+  "kind": "sj#playlist",
+  "id": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+  "creationTimestamp": "1514779277805505",
+  "lastModifiedTimestamp": "1514782683797438",
+  "recentTimestamp": "1514779277443000",
+  "deleted": false,
+  "name": "Me years",
+  "type": "USER_GENERATED",
+  "shareToken": "AMaBXymvWiKUW3QmK41oAPqZBZayKHx6agTWsSMGnthgyvXkDAPvkUJBRt0uinoDp8gqecmhn30B8VlSJvXpSFaB0fbRkzfgNQ==",
+  "ownerName": "JD Clark",
+  "description": "",
+  "accessControlled": false,
+  "tracks": [
+    {
+      "kind": "sj#playlistEntry",
+      "id": "eb5d6179-a134-34dd-b95b-e3c5e9363fd0",
+      "clientId": "1e4e2321-c5f9-4ba4-9c79-70255b1f666d",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "01729382256910270462",
+      "trackId": "Tmmhbtrwlfh5n6gz6nu5grppeee",
+      "creationTimestamp": "1514779281196672",
+      "lastModifiedTimestamp": "1514779281196672",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Move",
+        "artist": "Saint Motel",
+        "composer": "",
+        "album": "saintmotelevision",
+        "albumArtist": "Saint Motel",
+        "year": 2016,
+        "trackNumber": 1,
+        "genre": "Alternative/Indie",
+        "durationMillis": "187000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/YIh0xTgVJsiYjzTMl5AV7cnuXEB9cOpwtdNtBX-2Pp7usQK8in8EQBtr7hXGgqkHnW7YCoO8",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/n2mKTsbSc1-sTDo-mlEZAntyWkqjoOW0RmQCJ6BKBccCgq41HpnYufckvmB-q0LPEXC-w41jnw",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 2,
+        "discNumber": 1,
+        "estimatedSize": "7518068",
+        "trackType": "7",
+        "storeId": "Tmmhbtrwlfh5n6gz6nu5grppeee",
+        "albumId": "Bmynn27ojl4ysfvho2cbrlqiwfa",
+        "artistId": [
+          "A4p3ctvcw7kbdhoqjkj6557g4py"
+        ],
+        "nid": "mmhbtrwlfh5n6gz6nu5grppeee",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "2d1bf060-963b-3260-90f9-353426fffedf",
+      "clientId": "63ffc903-4a24-4212-b116-b9039da2efd6",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "01921535841011411624",
+      "trackId": "Taxewewiznoflyqgrnw62leihke",
+      "creationTimestamp": "1514779401399669",
+      "lastModifiedTimestamp": "1514779401399669",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "All About That Bass",
+        "artist": "Meghan Trainor",
+        "composer": "Meghan Trainor; Kevin Kadish",
+        "album": "Title (Deluxe)",
+        "albumArtist": "Meghan Trainor",
+        "year": 2015,
+        "trackNumber": 2,
+        "genre": "'10s Pop",
+        "durationMillis": "187000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/yT9ru1cUD9cmglu2m9xbsT9AtOjL_4GB7omI0cVoXSf_Ip5ZLcv5_Gc5dUrnrlo8VR944E7JZA",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/PS0Bp61T4cmL5NRuH87Xjw6a3-UJ_R4US8g6q1VWizbAvFybfAqtIicbpp3ln5FxehDTwX3GtUQ",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 1,
+        "discNumber": 1,
+        "estimatedSize": "7517023",
+        "trackType": "7",
+        "storeId": "Taxewewiznoflyqgrnw62leihke",
+        "albumId": "Bjacjvhdlxmhbbcdbmmoglkfqju",
+        "artistId": [
+          "Ao7cezng3n7z7smqinyrxb6edt4",
+          "Azhbm7ourrf2js2gz23hqfqogli"
+        ],
+        "nid": "axewewiznoflyqgrnw62leihke",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "1",
+        "primaryVideo": {
+          "kind": "sj#video",
+          "id": "7PCkvCPvDXk",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/7PCkvCPvDXk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            }
+          ]
+        }
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "aa481cb1-0157-37d8-a71c-d595926ac9ec",
+      "clientId": "19490c0a-9e28-48fc-b5bd-423de7b269cb",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "02113689425112552786",
+      "trackId": "Tv2zy357bkgnrzzq3z3vaqfc574",
+      "creationTimestamp": "1514779401399669",
+      "lastModifiedTimestamp": "1514779401399669",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Rock DJ (2004 Mix)",
+        "artist": "Robbie Williams",
+        "composer": "",
+        "album": "In And Out Of Consciousness: Greatest Hits 1990 - 2010",
+        "albumArtist": "Robbie Williams",
+        "year": 2010,
+        "trackNumber": 27,
+        "genre": "Rock",
+        "durationMillis": "257000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/EmHOuxObGoQwqjym7ehMIJligw70b-CoJdiidB8V192m4KyudE8E5VKOthgMXbT-KHPCv3E2uQ",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/tu_kzIuQIArVw4dwGk3Z__-mud2vbMR-jwGA0L_DKBI61ih-1ONMoG8HEROdUcIHrgQlhAToKGo",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh5.ggpht.com/644BSLp-qSu1e9AiKsNnll0oWSFnf7xBjgEBfdrX2yE09BhEeKP_RJefSOOhPLbwkAgG9Z2J-AM",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 2,
+        "discNumber": 1,
+        "estimatedSize": "10297506",
+        "trackType": "7",
+        "storeId": "Tv2zy357bkgnrzzq3z3vaqfc574",
+        "albumId": "Bwh34ybdodj5poxujho3osl75oe",
+        "artistId": [
+          "Az6kf44t2vk6tu3c3krat6vaucu",
+          "Aaivggevvg3banbx5vdnffdalma",
+          "Akmnme3iec2ahvohi2p4dkuyeg4",
+          "A6aoa6wq7aurm7swb666sk2377e",
+          "Aguslnfxomkvqabuboiry6eqt44",
+          "Awrfi6eq3gheur5gotwey4nngqm",
+          "Afrvwle4si7467nscoy4ikkzpdy",
+          "Aty7443qwit5mdpiukcoux2kouy",
+          "Altneffqh7v2izipccqnyelwjqq",
+          "Amonxrdfe726vqbnklu5poboibi",
+          "Agahmxutltdgg357rjiojc5hzl4",
+          "A323e3c46wohh26t63dobmlvvy4",
+          "Am2nnvwvhved3hywubsha6nq46i",
+          "Aqz2nzrz347p73r6e3cqnpklfh4",
+          "Aoemlbdxc5wuhfc57lhqu3kveme",
+          "Aeeuqdcz2dcqincnpvskeykdhvi"
+        ],
+        "nid": "v2zy357bkgnrzzq3z3vaqfc574",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2",
+        "primaryVideo": {
+          "kind": "sj#video",
+          "id": "BnO3nijfYmU",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/BnO3nijfYmU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            }
+          ]
+        }
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "4e5d1059-6157-3368-a1e3-e282fbe5e74b",
+      "clientId": "290de32a-69d4-40fb-9d86-2fc10c727d38",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "02209766217163123367",
+      "trackId": "Tcghnhzkrlcuny36pooo3tcy32u",
+      "creationTimestamp": "1514779478997479",
+      "lastModifiedTimestamp": "1514779478997479",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Ice Cream",
+        "artist": "New Young Pony Club",
+        "composer": "",
+        "album": "Fantastic Playroom",
+        "albumArtist": "New Young Pony Club",
+        "year": 2007,
+        "trackNumber": 3,
+        "genre": "Pop",
+        "durationMillis": "188000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/mkhy4V9qfzD1bI8zf8qMtigHFDm5Aoa7VbCI6LTN3T6vmliNtBnj_EixPWOAymPIPQpU3cGX",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/SxfkthZw0goAJvJc_4uKQw23OHWPN66JD-4SZ8nICccxJglmOEt1DcPY_DW1z14uEpxU-UrXBJA",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/mkhy4V9qfzD1bI8zf8qMtigHFDm5Aoa7VbCI6LTN3T6vmliNtBnj_EixPWOAymPIPQpU3cGX",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 2,
+        "discNumber": 1,
+        "estimatedSize": "7525392",
+        "trackType": "7",
+        "storeId": "Tcghnhzkrlcuny36pooo3tcy32u",
+        "albumId": "B4z4ecfozt5sjw3qv6zny2zyn5u",
+        "artistId": [
+          "Aakztgtnalqwsmvdftki4hknf4a"
+        ],
+        "nid": "cghnhzkrlcuny36pooo3tcy32u",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2",
+        "primaryVideo": {
+          "kind": "sj#video",
+          "id": "-shACMaxUb0",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/-shACMaxUb0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            }
+          ]
+        }
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "2ad4ae71-004d-359e-9a1f-e18dc1eb2425",
+      "clientId": "b0f09fa4-9ad8-4066-999e-34cc313bd1cc",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "02257804613188408658",
+      "trackId": "T5hmavuvutbuqgtjppbls7g34ny",
+      "creationTimestamp": "1514779674298202",
+      "lastModifiedTimestamp": "1514779674298202",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Bad Decisions",
+        "artist": "Two Door Cinema Club",
+        "composer": "",
+        "album": "Gameshow",
+        "albumArtist": "Two Door Cinema Club",
+        "year": 2016,
+        "trackNumber": 2,
+        "genre": "New Wave/Post-Punk",
+        "durationMillis": "297000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/Z5k48gNYlyM9jPz3rUOOM9KrxFFaKtywV7aQ3sM4x6-sU3jxGZLCCpaczSZVri0BQM15FsMBNhE",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/4cLriww8vzAcdkz2cC4kLWQixnCg-4fAdofb_et8b7f6TCag84rQa9xvq-r6wQ-03Fn8yZW6mnA",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 2,
+        "discNumber": 1,
+        "estimatedSize": "11913963",
+        "trackType": "7",
+        "storeId": "T5hmavuvutbuqgtjppbls7g34ny",
+        "albumId": "Bshk2aigka4cekix42ng5ntz7ta",
+        "artistId": [
+          "A6yna2hsyd4wdn6ttizsbfhmq2u"
+        ],
+        "nid": "5hmavuvutbuqgtjppbls7g34ny",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "51146b4f-ebc8-3e48-be8b-be4f838ebfdd",
+      "clientId": "fb1a941c-6f20-4580-b680-1996b479bb8a",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "02289830210538598851",
+      "trackId": "Trayv4viikkz6cnmlm7j4hbnjkm",
+      "creationTimestamp": "1514779980552260",
+      "lastModifiedTimestamp": "1514779980552260",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Let's Go Crazy",
+        "artist": "Prince & The Revolution",
+        "composer": "",
+        "album": "The Hits / The B-Sides",
+        "albumArtist": "Prince",
+        "year": 1993,
+        "trackNumber": 8,
+        "genre": "Pop",
+        "durationMillis": "280000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/lYQWktYJUnK6hWuwBqEMvKR78ZdRRcCFq3DtwxwEBfau3vZtPSqles5CGGQe_IWpWF3sqwOx",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/fG0OsRA_OWJaDKANuJosoB5k-y3niWNvlwveFOgEHJIooo7SVeCj4nQm4jtrFhz7XGiouzv8gg",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 1,
+        "discNumber": 1,
+        "estimatedSize": "11202378",
+        "trackType": "7",
+        "storeId": "Trayv4viikkz6cnmlm7j4hbnjkm",
+        "albumId": "Bkb63ylcwkfbujtzvlgstxovvne",
+        "artistId": [
+          "Acfxll3w7nrluhyltetwvqcibsu"
+        ],
+        "nid": "rayv4viikkz6cnmlm7j4hbnjkm",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "1"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "bf68cac9-9a5f-3df0-8168-589bdb591a87",
+      "clientId": "35342768-a9b6-4428-81b6-2c20cdfddb82",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "02303679117500843252",
+      "trackId": "T53tpqmhidcx32fv254dt3xq674",
+      "creationTimestamp": "1514780522982846",
+      "lastModifiedTimestamp": "1514780522982846",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Hungry Like the Wolf (Remastered 2009)",
+        "artist": "Duran Duran",
+        "composer": "",
+        "album": "80s Soft Rock",
+        "albumArtist": "Various Artists",
+        "year": 2017,
+        "trackNumber": 2,
+        "genre": "Pop",
+        "durationMillis": "220000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/R0qeHBFJ0NcSBSDgBWbg31tlmN0T46p1FdVY_h2LxuCzj0VZFuk8rk9JvXlwrGxm3aqrKrDY",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/-EXm3ipL5XztbPxde8KjxxHtfOxpwW4uLLCaSxIhH75Qr7ZQSMeDS7gGQ23gcD35WTG-qPfMoQ",
+            "aspectRatio": "2",
+            "autogen": false
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/mKUOpLjCe1w9_m-jRyBTDI48sasGzMFWYL5s-SmlfMDLIN9HXgA9yvlZdtNq_SCxmxkh-uahgNc",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "playCount": 2,
+        "discNumber": 1,
+        "estimatedSize": "8827335",
+        "trackType": "7",
+        "storeId": "T53tpqmhidcx32fv254dt3xq674",
+        "albumId": "Bk3g2h72oc6sswesah3nipxhcym",
+        "artistId": [
+          "A7bbhmu2wby2jicwjhhgfmouz5q"
+        ],
+        "nid": "53tpqmhidcx32fv254dt3xq674",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "9dd58bc2-deab-354e-a1c6-85459199fb9a",
+      "clientId": "c0042c12-4527-40ba-8792-8275696009b4",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "02303787312086485786",
+      "trackId": "Tcbosic7jneseakacf7u2qsvtby",
+      "creationTimestamp": "1514780522982846",
+      "lastModifiedTimestamp": "1514780522982846",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "St. Elmos Fire (Man In Motion)",
+        "artist": "John Parr",
+        "composer": "",
+        "album": "80s Soft Rock",
+        "albumArtist": "Various Artists",
+        "year": 2017,
+        "trackNumber": 3,
+        "genre": "Soundtracks",
+        "durationMillis": "251000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/R0qeHBFJ0NcSBSDgBWbg31tlmN0T46p1FdVY_h2LxuCzj0VZFuk8rk9JvXlwrGxm3aqrKrDY",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/TYLmzn1pNxVFRoxQp-JvmxyQlaggLmBDEDJicnYlORME2GdgBMBQY-yTW-MT3uQYCzwtYg18",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 1,
+        "discNumber": 1,
+        "estimatedSize": "10074943",
+        "trackType": "7",
+        "storeId": "Tcbosic7jneseakacf7u2qsvtby",
+        "albumId": "Bk3g2h72oc6sswesah3nipxhcym",
+        "artistId": [
+          "A23vondasmjf5fg537gyyouk3q4"
+        ],
+        "nid": "cbosic7jneseakacf7u2qsvtby",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "bd2399c6-9a2c-3c1a-a2a4-9b12ceb1e19d",
+      "clientId": "6ded8d20-d2df-44c2-8d65-fc5ab3d18c46",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "02305734814628051398",
+      "trackId": "Tpybkvlb4wn4dyq6qibto5oejo4",
+      "creationTimestamp": "1514780522982846",
+      "lastModifiedTimestamp": "1514780522982846",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Eye of the Tiger",
+        "artist": "Survivor",
+        "composer": "",
+        "album": "Eye Of The Tiger",
+        "albumArtist": "Survivor",
+        "year": 1982,
+        "trackNumber": 1,
+        "genre": "Pop",
+        "durationMillis": "243000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/GWQ7sC7fDB7sO8152NQEL-nzlWXvLTtVxGroT-4lCJsczfo6m1wD3n_24yIMdjNvhjnH1sDd",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/eRbOtI_00gyEOMEiBqeOaF_KEFbEXEl2NgD8YsaESuvXr-Nj9oiBvvpsVj7msa9_ifOWe20s",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 3,
+        "discNumber": 1,
+        "estimatedSize": "9753104",
+        "trackType": "7",
+        "storeId": "Tpybkvlb4wn4dyq6qibto5oejo4",
+        "albumId": "Behglypsasa6vuxgnrmmfajjz3i",
+        "artistId": [
+          "Aoa4osw7u6tmvcded2arxljuh3a"
+        ],
+        "nid": "pybkvlb4wn4dyq6qibto5oejo4",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2",
+        "primaryVideo": {
+          "kind": "sj#video",
+          "id": "btPJPFnesV4",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/btPJPFnesV4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            }
+          ]
+        }
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "5cc69fb2-4c48-3a85-9c5e-ea56e54ed4d7",
+      "clientId": "164b1e23-9ac1-47ff-b295-f13ce67c28c9",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "02305788911920872673",
+      "trackId": "Tqfrqighdpqlmgqvmoq47owv54u",
+      "creationTimestamp": "1514780584737342",
+      "lastModifiedTimestamp": "1514780584737342",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Relax",
+        "artist": "Frankie Goes to Hollywood",
+        "composer": "",
+        "album": "Welcome To The Pleasuredome",
+        "albumArtist": "Frankie Goes to Hollywood",
+        "year": 1984,
+        "trackNumber": 3,
+        "genre": "'80s Pop",
+        "durationMillis": "236000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/V0Rkqg9kRr5U3T2SVFEkMGoQivUkFmQCqZf8DYZ8eYeseuk6Z4t6cBPrXeZOkX7kk8JTWUBV",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/CMgo_DD6D3LmOvfxTxXg9_yPe5jEP6DPRaPonlFbVKvDe-AZ4aWTwug_uSMCh-yvAuV73yaktA",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 1,
+        "discNumber": 1,
+        "estimatedSize": "9474126",
+        "trackType": "7",
+        "storeId": "Tqfrqighdpqlmgqvmoq47owv54u",
+        "albumId": "Bfdwqj54zi45vsquzs2yxoo2gna",
+        "artistId": [
+          "Adzam6bg2zumqjskfkehccfsm7m"
+        ],
+        "nid": "qfrqighdpqlmgqvmoq47owv54u",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": false,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2",
+        "primaryVideo": {
+          "kind": "sj#video",
+          "id": "rCp2h5jslKY",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/rCp2h5jslKY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            }
+          ]
+        }
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "c80a5402-89a2-30ca-a6e7-45d267cdc196",
+      "clientId": "078121ac-7587-4f11-99b7-b05443fe23b4",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "02305824976782753523",
+      "trackId": "Tfudbbl4iwefplpkelfazzbjwj4",
+      "creationTimestamp": "1514780709878336",
+      "lastModifiedTimestamp": "1514780709878336",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Need You Tonight",
+        "artist": "INXS",
+        "composer": "",
+        "album": "Kick",
+        "albumArtist": "INXS",
+        "year": 1987,
+        "trackNumber": 4,
+        "genre": "Pop",
+        "durationMillis": "180000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh6.ggpht.com/gJrXlhqUjEE9aURvQdnho8xi0HYxP-q5hl0DtKiQ0WtziusWPSJDmpMY4GOBd7j3Us3ldJV26g",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/5KHzThq7pSaks3FX8qRKpyS-1zfYICs-yWv-dWjIvp7k473e3CfUkrS3dD_hbvDbteuFEkk3Ug",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 1,
+        "discNumber": 1,
+        "estimatedSize": "7223416",
+        "trackType": "7",
+        "storeId": "Tfudbbl4iwefplpkelfazzbjwj4",
+        "albumId": "B47ojet7m3mfrl7l6stqknueubu",
+        "artistId": [
+          "Asnt2bsdtid5loe2vnc5yepbmxm"
+        ],
+        "nid": "fudbbl4iwefplpkelfazzbjwj4",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "40fad322-bd10-34f7-8cdb-3a2df552ce64",
+      "clientId": "3610708d-6e02-431c-95fd-c5a79b61d7d1",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "02305838501105958842",
+      "trackId": "Txr3o463ulbdgmkn34naieo2jte",
+      "creationTimestamp": "1514781450657272",
+      "lastModifiedTimestamp": "1514781450657272",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Walk Like an Egyptian",
+        "artist": "Disco Fever",
+        "composer": "",
+        "album": "200 Best Songs 80's",
+        "albumArtist": "Disco Fever",
+        "year": 2017,
+        "trackNumber": 29,
+        "genre": "Dance/Electronic",
+        "durationMillis": "200000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/-4JWr81XvpQlguGeF5ASTdU5yrpl5YB9KzRm7rVmU646uHJLlPsLmGCKULSM_Lh5bNc9A6PE",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/8_evbPux9__tMRQLEOiQZz--SZ-poF-QoFBgxNtdc7sp3k_IqXWiJDm5NaiGRe3YHh6swqU9",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/nDvMhHC0wNIuFjBAFSRhmKihjEePMniA2IL--lP2Ocv8wS0e2f38JlNV5jXGR5b25KstHx2jN3U",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 1,
+        "discNumber": 1,
+        "estimatedSize": "8013359",
+        "trackType": "7",
+        "storeId": "Txr3o463ulbdgmkn34naieo2jte",
+        "albumId": "Btkecf5qgcvvbfasudssli6542m",
+        "artistId": [
+          "Ayfn2gtdb6e75ov2cro4d2zntva"
+        ],
+        "nid": "xr3o463ulbdgmkn34naieo2jte",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "121973e3-6a6a-30a9-9be2-29307353b7ab",
+      "clientId": "210f1f58-d641-4202-ad88-aceeb4711f38",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "02305840755159826395",
+      "trackId": "Tigskln3h2257e2bw2ilfo4t6fy",
+      "creationTimestamp": "1514781573496941",
+      "lastModifiedTimestamp": "1514781573496941",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Joyride (Single Version)",
+        "artist": "Roxette",
+        "composer": "",
+        "album": "The 30 Biggest Hits XXX",
+        "albumArtist": "Roxette",
+        "year": 2015,
+        "trackNumber": 1,
+        "genre": "Pop",
+        "durationMillis": "241000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.ggpht.com/tDRgubvD4DRij792wm0WMi2lb6T-RGDHDySPfp2ajk0NvER2YICKl_E5HzljJGgSamwBc4MgmA",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/xBajpwVjiFJo1logCqtzp2S9UpCfW1S55amzExIg-ZCJwVEPDl0h4MP1s_Gt8H6Ov3a_G1nMJbY",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "discNumber": 2,
+        "estimatedSize": "9671602",
+        "trackType": "7",
+        "storeId": "Tigskln3h2257e2bw2ilfo4t6fy",
+        "albumId": "B25x5yo6fva33dntgx3i5nhklae",
+        "artistId": [
+          "A7iqqoifcjpfz4xvdbjjnrau3y4"
+        ],
+        "nid": "igskln3h2257e2bw2ilfo4t6fy",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "364f0d99-e734-378d-9ffb-4a9d7e56a849",
+      "clientId": "19a991c4-1d21-4186-9ff8-a90860195954",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "02305841882186760172",
+      "trackId": "Txle62hiqvfa6475azfd53n4keu",
+      "creationTimestamp": "1514781688392530",
+      "lastModifiedTimestamp": "1514781688392530",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "No More \"I Love You's\"",
+        "artist": "Annie Lennox",
+        "composer": "",
+        "album": "Medusa",
+        "albumArtist": "Annie Lennox",
+        "year": 1994,
+        "trackNumber": 1,
+        "genre": "'90s Pop",
+        "durationMillis": "291000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh4.ggpht.com/KaCdPTpTQE2HBdooWBdUYjQU7yCY3Z2QhbNRMTcUIShHPrJIpUcZKqxSPXkW5h8O_x6TUMcSvw",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/aknOSMsJgxvw0bXtIv5wKLNAui8i3NFV_fzhjtPJPKdpzLAX800LCnKGZS5xDDUeMp3ivMZ7",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "discNumber": 1,
+        "estimatedSize": "11655863",
+        "trackType": "7",
+        "storeId": "Txle62hiqvfa6475azfd53n4keu",
+        "albumId": "Bmeda4d3r32q6omvyajjc6kdnuq",
+        "artistId": [
+          "Am5uo6xc7fal45cicnluohmz6xe"
+        ],
+        "nid": "xle62hiqvfa6475azfd53n4keu",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2",
+        "primaryVideo": {
+          "kind": "sj#video",
+          "id": "NSkboTTTmpg",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/NSkboTTTmpg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            }
+          ]
+        }
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "45bd67fd-da70-3143-a1a2-ae1357238194",
+      "clientId": "848794f0-279c-4bb1-8024-e00f052efc7e",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "02305842821375871652",
+      "trackId": "Tacy6urwbvbv56ui3nphhem47ty",
+      "creationTimestamp": "1514782013151270",
+      "lastModifiedTimestamp": "1514782013151270",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Gloria",
+        "artist": "Laura Branigan",
+        "composer": "",
+        "album": "The Best Of Branigan",
+        "albumArtist": "Laura Branigan",
+        "year": 1995,
+        "trackNumber": 13,
+        "genre": "Pop",
+        "durationMillis": "295000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.ggpht.com/G5NwpTWRawBCb8fbcvvH7pYu_fT9Gj8IWVAx5rB9CVbxlsN6z5Kw1M2j_YKEFtJZb7dUFGed",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/J0NtIbf88bDNzIA-TGXIPUEAFBkprCngajLXjzNaR4ton4VsLvwv1JIPvYxKDFio8XJNBjV2jA",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 1,
+        "discNumber": 1,
+        "estimatedSize": "11805284",
+        "trackType": "7",
+        "storeId": "Tacy6urwbvbv56ui3nphhem47ty",
+        "albumId": "Bi7spzpxyt3jlkktcboxqb4dndy",
+        "artistId": [
+          "A5f6d73367dqe37rjidoiebr7n4"
+        ],
+        "nid": "acy6urwbvbv56ui3nphhem47ty",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "98c0206f-dce3-31ce-aee8-d0fe5f455e40",
+      "clientId": "b8f0d4d1-3829-4784-9ab0-5d9ed0c4a2e6",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "02305842915294782800",
+      "trackId": "Tqparbt3ypyc22wqofpy35a345e",
+      "creationTimestamp": "1514782082100076",
+      "lastModifiedTimestamp": "1514782082100076",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "We Built This City",
+        "artist": "Starship",
+        "composer": "",
+        "album": "Knee Deep In The Hoopla",
+        "albumArtist": "Starship",
+        "year": 1985,
+        "trackNumber": 1,
+        "genre": "Pop",
+        "durationMillis": "296000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/KfLisfmw7KYk02QVWRAlpkQSMvldQk0sZTWonRI5Rg7YF8AcZGMBruJjHQUcfUkREHUEVmKMIQ",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/KCuBol2nZe8sumvIXjtUjUDEsa1ypVgNuBkTYC0NKXLBYn0uC7_kfnNdwxNrz_s7DzgKH7XlwA",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "discNumber": 1,
+        "estimatedSize": "11846045",
+        "trackType": "7",
+        "storeId": "Tqparbt3ypyc22wqofpy35a345e",
+        "albumId": "Buag63mk3ji4igkwj6pnq67fj4a",
+        "artistId": [
+          "Agrpfnhhyrsxpdue2d3ft7gqvoi"
+        ],
+        "nid": "qparbt3ypyc22wqofpy35a345e",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2",
+        "primaryVideo": {
+          "kind": "sj#video",
+          "id": "K1b8AhIsSYQ",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/K1b8AhIsSYQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            }
+          ]
+        }
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "0cdaaef4-f364-39cf-83ae-9a024001e05f",
+      "clientId": "d654ca41-3d18-4110-b610-dd353eda8b16",
+      "playlistId": "5112e7d5-4fdf-4d09-a3e4-951eeebbcf77",
+      "absolutePosition": "02305842962254238374",
+      "trackId": "Tven2schztinvw3v4idpnfurseq",
+      "creationTimestamp": "1514782562540384",
+      "lastModifiedTimestamp": "1514782562540384",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Where Do You Go",
+        "artist": "No Mercy",
+        "composer": "",
+        "album": "No Mercy",
+        "albumArtist": "No Mercy",
+        "year": 1996,
+        "trackNumber": 1,
+        "genre": "Dance Pop",
+        "durationMillis": "272000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh4.ggpht.com/LuVUSoqMCymfVpm7h_xhiCuY74P6VJCBX5GWA-YdlRwjoMB67wE3LQ3lCdIWBL0WH3G4t-UteDs",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/I04jLZCBP95Si0uWmKJheXYO6rN0KJ2YRaCYoGXy5MmFF47A8NP-Flx_FmzsgkqDMheFmQF8q6c",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/aZ5Q7o03SWuRQSCNIPr2TuT6Dtg9FkR-Vo0nKOQEX3jQx-8OOJOU0cW-A6rwDJzZvskJLIRBTg",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 1,
+        "discNumber": 1,
+        "estimatedSize": "10890998",
+        "trackType": "7",
+        "storeId": "Tven2schztinvw3v4idpnfurseq",
+        "albumId": "Baoisgz6s6j6x53fzf5fbqh2afy",
+        "artistId": [
+          "Ae7ysdxitefedegpayea6qfkvzq"
+        ],
+        "nid": "ven2schztinvw3v4idpnfurseq",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    }
+  ]
+}

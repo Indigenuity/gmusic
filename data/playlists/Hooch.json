@@ -1,1 +1,147 @@
-{"kind": "sj#playlist", "id": "b27c2fc5-3b7e-425b-aa00-af7f810c2abf", "creationTimestamp": "1550277297544026", "lastModifiedTimestamp": "1567198989787679", "recentTimestamp": "1550277297284000", "deleted": false, "name": "Hooch", "type": "USER_GENERATED", "shareToken": "AMaBXyngxwQdHL6kfu7S-wNejOK3GsjwVbX0IrJwJVPooILfQ--3VMHRZ8GBHHS92s7cFDWLBfEAj8EVV486ZljVFZ1dS_gvAg==", "ownerName": "JD Clark", "accessControlled": false, "tracks": [{"kind": "sj#playlistEntry", "id": "3fa0e373-9b6f-3fc2-ab01-dbfb8e7ca132", "clientId": "2add5001-51f9-4bee-a953-28b7a7cbcc3c", "playlistId": "b27c2fc5-3b7e-425b-aa00-af7f810c2abf", "absolutePosition": "01729382256910270462", "trackId": "Tnw6df37abkm2i4fpmxxjaonpla", "creationTimestamp": "1550277297598848", "lastModifiedTimestamp": "1550277297598848", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Let It All Hang Out", "artist": "11 Acorn Lane", "composer": "", "album": "Swing Thing", "albumArtist": "11 Acorn Lane", "year": 2011, "trackNumber": 4, "genre": "Jazz", "durationMillis": "233000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh4.ggpht.com/4UqFCt2bWW2JT4Duy-vQQOdEk7_ZQBIPD7REjohnrv9RD5qRe4MA2djlW0dFAbViVCSngfMaHA", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/yXFfIqbPbDNSWccL8yumDER1Ihpr_qbwuHZHRlEGkwTSJ0q8qlcLEmfqLlOsEuKRPl6Wpto2qw", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh5.ggpht.com/XO34mdGg-FHZFdv9MSOcD14jmJS6Gjz6s2mKibcHZoAJyjYKDIhlSPkvKEQ564FJ1Ohb7DyU1H8", "aspectRatio": "1", "autogen": true}], "playCount": 2, "discNumber": 1, "estimatedSize": "9337241", "trackType": "7", "storeId": "Tnw6df37abkm2i4fpmxxjaonpla", "albumId": "B7bprdcagmf3rwpmkmw3ud4tg2y", "artistId": ["Apvq7jrrdyw5cnjr6ijvj5doimi"], "nid": "nw6df37abkm2i4fpmxxjaonpla", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "b21c8b19-9be0-3666-8c83-e0f79e750333", "clientId": "2d88906d-7d94-4870-983f-25fa72c6b321", "playlistId": "b27c2fc5-3b7e-425b-aa00-af7f810c2abf", "absolutePosition": "02017612633061982205", "trackId": "a8b4630f-5ced-32f7-9a45-94d297b0e8f1", "creationTimestamp": "1561418221898628", "lastModifiedTimestamp": "1561418221898628", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "06efc136-d07f-329f-b67e-ac58a3326b5a", "clientId": "d3bcd550-42e6-4ba7-97e3-c83e07b98832", "playlistId": "b27c2fc5-3b7e-425b-aa00-af7f810c2abf", "absolutePosition": "02293833410207372624", "trackId": "T7gstqtqcvjftjju4z7dijt7kqm", "creationTimestamp": "1567198989652320", "lastModifiedTimestamp": "1567198989652320", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Best Things", "artist": "Lucky Chops", "composer": "", "album": "Best Things", "albumArtist": "Lucky Chops", "year": 2016, "trackNumber": 1, "genre": "Pop", "durationMillis": "261000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/j0d7s6CzXwyBRdQ1diiELDr41GN0sOVlJhXIpXqmGx_K74rn7-WKRYZhRKFfutOY5Ya9e7PRPQ", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/NwlxvFjihuyMuZ86rciZP6x5UHlmF81G8O5sik_EP4kvelAqFaV83awlghJLLxFvJcB_cfyHhA", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/pkCfQzHgl7AQMpsRZ04QTSX164a3ExcUrbhle45Eib6F9bYsJCrygXbCeSJE7W4ft3Pnhs3JD7c", "aspectRatio": "1", "autogen": true}], "playCount": 4, "discNumber": 1, "estimatedSize": "10442747", "trackType": "7", "storeId": "T7gstqtqcvjftjju4z7dijt7kqm", "albumId": "Boficxxzumiaeq2qfqbhgyimlme", "artistId": ["Avxdn3bb7vnxuosmnn35pqzvfry"], "nid": "7gstqtqcvjftjju4z7dijt7kqm", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}]}
+{
+  "kind": "sj#playlist",
+  "id": "b27c2fc5-3b7e-425b-aa00-af7f810c2abf",
+  "creationTimestamp": "1550277297544026",
+  "lastModifiedTimestamp": "1567198989787679",
+  "recentTimestamp": "1550277297284000",
+  "deleted": false,
+  "name": "Hooch",
+  "type": "USER_GENERATED",
+  "shareToken": "AMaBXyngxwQdHL6kfu7S-wNejOK3GsjwVbX0IrJwJVPooILfQ--3VMHRZ8GBHHS92s7cFDWLBfEAj8EVV486ZljVFZ1dS_gvAg==",
+  "ownerName": "JD Clark",
+  "accessControlled": false,
+  "tracks": [
+    {
+      "kind": "sj#playlistEntry",
+      "id": "3fa0e373-9b6f-3fc2-ab01-dbfb8e7ca132",
+      "clientId": "2add5001-51f9-4bee-a953-28b7a7cbcc3c",
+      "playlistId": "b27c2fc5-3b7e-425b-aa00-af7f810c2abf",
+      "absolutePosition": "01729382256910270462",
+      "trackId": "Tnw6df37abkm2i4fpmxxjaonpla",
+      "creationTimestamp": "1550277297598848",
+      "lastModifiedTimestamp": "1550277297598848",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Let It All Hang Out",
+        "artist": "11 Acorn Lane",
+        "composer": "",
+        "album": "Swing Thing",
+        "albumArtist": "11 Acorn Lane",
+        "year": 2011,
+        "trackNumber": 4,
+        "genre": "Jazz",
+        "durationMillis": "233000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh4.ggpht.com/4UqFCt2bWW2JT4Duy-vQQOdEk7_ZQBIPD7REjohnrv9RD5qRe4MA2djlW0dFAbViVCSngfMaHA",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/yXFfIqbPbDNSWccL8yumDER1Ihpr_qbwuHZHRlEGkwTSJ0q8qlcLEmfqLlOsEuKRPl6Wpto2qw",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh5.ggpht.com/XO34mdGg-FHZFdv9MSOcD14jmJS6Gjz6s2mKibcHZoAJyjYKDIhlSPkvKEQ564FJ1Ohb7DyU1H8",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 2,
+        "discNumber": 1,
+        "estimatedSize": "9337241",
+        "trackType": "7",
+        "storeId": "Tnw6df37abkm2i4fpmxxjaonpla",
+        "albumId": "B7bprdcagmf3rwpmkmw3ud4tg2y",
+        "artistId": [
+          "Apvq7jrrdyw5cnjr6ijvj5doimi"
+        ],
+        "nid": "nw6df37abkm2i4fpmxxjaonpla",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "b21c8b19-9be0-3666-8c83-e0f79e750333",
+      "clientId": "2d88906d-7d94-4870-983f-25fa72c6b321",
+      "playlistId": "b27c2fc5-3b7e-425b-aa00-af7f810c2abf",
+      "absolutePosition": "02017612633061982205",
+      "trackId": "a8b4630f-5ced-32f7-9a45-94d297b0e8f1",
+      "creationTimestamp": "1561418221898628",
+      "lastModifiedTimestamp": "1561418221898628",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "06efc136-d07f-329f-b67e-ac58a3326b5a",
+      "clientId": "d3bcd550-42e6-4ba7-97e3-c83e07b98832",
+      "playlistId": "b27c2fc5-3b7e-425b-aa00-af7f810c2abf",
+      "absolutePosition": "02293833410207372624",
+      "trackId": "T7gstqtqcvjftjju4z7dijt7kqm",
+      "creationTimestamp": "1567198989652320",
+      "lastModifiedTimestamp": "1567198989652320",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Best Things",
+        "artist": "Lucky Chops",
+        "composer": "",
+        "album": "Best Things",
+        "albumArtist": "Lucky Chops",
+        "year": 2016,
+        "trackNumber": 1,
+        "genre": "Pop",
+        "durationMillis": "261000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/j0d7s6CzXwyBRdQ1diiELDr41GN0sOVlJhXIpXqmGx_K74rn7-WKRYZhRKFfutOY5Ya9e7PRPQ",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/NwlxvFjihuyMuZ86rciZP6x5UHlmF81G8O5sik_EP4kvelAqFaV83awlghJLLxFvJcB_cfyHhA",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/pkCfQzHgl7AQMpsRZ04QTSX164a3ExcUrbhle45Eib6F9bYsJCrygXbCeSJE7W4ft3Pnhs3JD7c",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 4,
+        "discNumber": 1,
+        "estimatedSize": "10442747",
+        "trackType": "7",
+        "storeId": "T7gstqtqcvjftjju4z7dijt7kqm",
+        "albumId": "Boficxxzumiaeq2qfqbhgyimlme",
+        "artistId": [
+          "Avxdn3bb7vnxuosmnn35pqzvfry"
+        ],
+        "nid": "7gstqtqcvjftjju4z7dijt7kqm",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    }
+  ]
+}

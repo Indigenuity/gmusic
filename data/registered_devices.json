@@ -1,1 +1,22 @@
-[{"kind": "sj#devicemanagementinfo", "id": "0x342e914abacc484d", "friendlyName": "No carrier SM-T580", "type": "ANDROID", "lastAccessedTimeMs": "1587812895581"}, {"kind": "sj#devicemanagementinfo", "id": "0x38e3886aca2ca600", "friendlyName": "Cricket Wireless SM-A600AZ", "type": "ANDROID", "lastAccessedTimeMs": "1587594118551"}, {"kind": "sj#devicemanagementinfo", "id": "A2:C2:E2:CC:C7:37", "type": "DESKTOP_APP", "lastAccessedTimeMs": "1586639491384"}]
+[
+  {
+    "kind": "sj#devicemanagementinfo",
+    "id": "0x342e914abacc484d",
+    "friendlyName": "No carrier SM-T580",
+    "type": "ANDROID",
+    "lastAccessedTimeMs": "1587855840878"
+  },
+  {
+    "kind": "sj#devicemanagementinfo",
+    "id": "0x38e3886aca2ca600",
+    "friendlyName": "Cricket Wireless SM-A600AZ",
+    "type": "ANDROID",
+    "lastAccessedTimeMs": "1587594118551"
+  },
+  {
+    "kind": "sj#devicemanagementinfo",
+    "id": "A2:C2:E2:CC:C7:37",
+    "type": "DESKTOP_APP",
+    "lastAccessedTimeMs": "1586639491384"
+  }
+]

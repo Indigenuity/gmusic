@@ -1,1 +1,80 @@
-{"kind": "sj#playlist", "id": "be2d0294-ae27-447b-8159-3b0c5d14fe40", "creationTimestamp": "1574709712328179", "lastModifiedTimestamp": "1574709712977318", "recentTimestamp": "1574709712126000", "deleted": false, "name": "Work Instrumental", "type": "USER_GENERATED", "shareToken": "AMaBXyk1ZacTH5TEK6KvGLYgruhgTPH1xZtVqJQgAPdkU8Hrf-YDzY47m2XLjuGdXKpgq7KJPbiH-MCxfuwSJnYoRmH-YrMAJg==", "ownerName": "JD Clark", "accessControlled": false, "tracks": [{"kind": "sj#playlistEntry", "id": "417b1f59-9c17-3612-ba12-b3ef252d35b1", "clientId": "89148728-9528-4569-848c-7a89f95fa561", "playlistId": "be2d0294-ae27-447b-8159-3b0c5d14fe40", "absolutePosition": "01729382256910270462", "trackId": "Tu2n5gu74q5blqkee63bmj7edj4", "creationTimestamp": "1574709712687066", "lastModifiedTimestamp": "1574709712687066", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Cream On Chrome", "artist": "Ratatat", "composer": "", "album": "Magnifique", "albumArtist": "Ratatat", "year": 2015, "trackNumber": 2, "genre": "Rock", "durationMillis": "256000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/BCAZMkhQ9Z88-liBj8QTY2HXxsiKENTbGluI9pYH1zLLJKhHEoC5FvWrUZmtbLYrP82xqHEudg", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/lhPFiY5BtremB0V4at5MMkiZJgUji5O_4OY-B-CLvmbkHM5INPF4G3RfIfC3ZUN1RtJefW19JQ", "aspectRatio": "2", "autogen": false}], "playCount": 2, "discNumber": 1, "estimatedSize": "10242116", "trackType": "7", "storeId": "Tu2n5gu74q5blqkee63bmj7edj4", "albumId": "B6ceqnl2egh4t7slzgkqyuykbxy", "artistId": ["Ag6r5i4wkeyo4gulohebdkcgsea"], "nid": "u2n5gu74q5blqkee63bmj7edj4", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2", "primaryVideo": {"kind": "sj#video", "id": "xlcywgEMuGI", "thumbnails": [{"url": "https://i.ytimg.com/vi/xlcywgEMuGI/mqdefault.jpg", "width": 320, "height": 180}]}}}]}
+{
+  "kind": "sj#playlist",
+  "id": "be2d0294-ae27-447b-8159-3b0c5d14fe40",
+  "creationTimestamp": "1574709712328179",
+  "lastModifiedTimestamp": "1574709712977318",
+  "recentTimestamp": "1574709712126000",
+  "deleted": false,
+  "name": "Work Instrumental",
+  "type": "USER_GENERATED",
+  "shareToken": "AMaBXyk1ZacTH5TEK6KvGLYgruhgTPH1xZtVqJQgAPdkU8Hrf-YDzY47m2XLjuGdXKpgq7KJPbiH-MCxfuwSJnYoRmH-YrMAJg==",
+  "ownerName": "JD Clark",
+  "accessControlled": false,
+  "tracks": [
+    {
+      "kind": "sj#playlistEntry",
+      "id": "417b1f59-9c17-3612-ba12-b3ef252d35b1",
+      "clientId": "89148728-9528-4569-848c-7a89f95fa561",
+      "playlistId": "be2d0294-ae27-447b-8159-3b0c5d14fe40",
+      "absolutePosition": "01729382256910270462",
+      "trackId": "Tu2n5gu74q5blqkee63bmj7edj4",
+      "creationTimestamp": "1574709712687066",
+      "lastModifiedTimestamp": "1574709712687066",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Cream On Chrome",
+        "artist": "Ratatat",
+        "composer": "",
+        "album": "Magnifique",
+        "albumArtist": "Ratatat",
+        "year": 2015,
+        "trackNumber": 2,
+        "genre": "Rock",
+        "durationMillis": "256000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/BCAZMkhQ9Z88-liBj8QTY2HXxsiKENTbGluI9pYH1zLLJKhHEoC5FvWrUZmtbLYrP82xqHEudg",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/lhPFiY5BtremB0V4at5MMkiZJgUji5O_4OY-B-CLvmbkHM5INPF4G3RfIfC3ZUN1RtJefW19JQ",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 2,
+        "discNumber": 1,
+        "estimatedSize": "10242116",
+        "trackType": "7",
+        "storeId": "Tu2n5gu74q5blqkee63bmj7edj4",
+        "albumId": "B6ceqnl2egh4t7slzgkqyuykbxy",
+        "artistId": [
+          "Ag6r5i4wkeyo4gulohebdkcgsea"
+        ],
+        "nid": "u2n5gu74q5blqkee63bmj7edj4",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2",
+        "primaryVideo": {
+          "kind": "sj#video",
+          "id": "xlcywgEMuGI",
+          "thumbnails": [
+            {
+              "url": "https://i.ytimg.com/vi/xlcywgEMuGI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

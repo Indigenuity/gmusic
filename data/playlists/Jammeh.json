@@ -1,1 +1,720 @@
-{"kind": "sj#playlist", "id": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "creationTimestamp": "1536331413314419", "lastModifiedTimestamp": "1585422541163266", "recentTimestamp": "1536331413168000", "deleted": false, "name": "Jammeh", "type": "USER_GENERATED", "shareToken": "AMaBXylscuIb5SwJv1nMaSjrsN0ciKWjQaXSZBajIeRkflvUigi150t07IyRcxJM4rDjYX5VVeOAsCkAlCy7mFQjWpj9WiZptA==", "ownerName": "JD Clark", "description": "", "accessControlled": false, "tracks": [{"kind": "sj#playlistEntry", "id": "996a38db-cb74-3491-b405-67e1a6ad48c8", "clientId": "58810550-d924-45d4-8b1f-1f38c1ab6958", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "01729382256910270462", "trackId": "a0429fed-6af7-3f98-9b0f-0448e88f84cb", "creationTimestamp": "1536331415537159", "lastModifiedTimestamp": "1536331415537159", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "e6493fee-2882-3d0c-9d5b-ab6f08427902", "clientId": "91c8c9e1-fdda-43d1-92f0-8bb64e6a03d2", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02017612633061982205", "trackId": "5d58d95f-c95b-381f-b089-0d88557397f7", "creationTimestamp": "1536331632917752", "lastModifiedTimestamp": "1536331632917752", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "85db4878-2133-3c63-892e-bd575afe5665", "clientId": "801f7ee5-77aa-4600-b8a2-3b1a7a71b864", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02161727821137838077", "trackId": "257ed9f5-a07a-39f8-b521-33e92fae2b76", "creationTimestamp": "1536887003351779", "lastModifiedTimestamp": "1536887003351779", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "bb6025c4-d65e-37fb-b199-f293dc6067a0", "clientId": "e3fcd1fc-8289-4179-9a95-60ccf5eed797", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02233785415175766013", "trackId": "7392f98c-ea59-3760-956a-f79c2f6ea87c", "creationTimestamp": "1537366595661677", "lastModifiedTimestamp": "1537366595661677", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "f9bcd83c-f5ec-34f1-872f-ce2f5e04ac76", "clientId": "4ab495ee-48f0-4099-a89c-aed9672f86db", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02269814212194729981", "trackId": "f7edba5f-013c-3f76-a75d-a9ca6280f9b2", "creationTimestamp": "1537367062431340", "lastModifiedTimestamp": "1537367062431340", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "6ee5fc8f-0fb2-3c7b-9f5d-937703d4e8b7", "clientId": "4b1f2685-8ca7-42b8-89f5-6ea922c1306a", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02287828610704211965", "trackId": "c9759169-9bad-3c30-9fb6-d12b72d2ad75", "creationTimestamp": "1538403541504722", "lastModifiedTimestamp": "1538403541504722", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "d30b6003-be24-33c9-9244-02442dca1c1a", "clientId": "3130555e-4b0d-43a0-80d5-c93a27134889", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02296835809958952957", "trackId": "Tcwok4xfrlkragcjfmynr23kodi", "creationTimestamp": "1538423565443429", "lastModifiedTimestamp": "1538423565443429", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "If Looks Could Kill", "artist": "Primal Fear", "composer": "", "album": "If Looks Could Kill", "albumArtist": "Primal Fear", "year": 2017, "trackNumber": 1, "genre": "Metal", "durationMillis": "246000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/aJHSBjcEdWM1IH5EP1x0ddCKk7mwcQ-ZTgA8-_GsmYsgo4cFBiGl_NGU3NXjVtFrkY__4Bpe6eM", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/0GQ6QzzylCMPjTbCbfvV_Iaqp5xQHiG7ym2dDi5cfCqkS0aXW9Y9LYpiOHAH50qtvDMClepA", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/ztltBaFzH9iGyPOytAeF-kMjONx-QfXwWLQWwymhmKE8Q00MghTPPLDtOj9DySY_yufs2weO", "aspectRatio": "1", "autogen": true}], "playCount": 11, "discNumber": 1, "estimatedSize": "9877457", "trackType": "7", "storeId": "Tcwok4xfrlkragcjfmynr23kodi", "albumId": "Bzanbseyvvbyt3hwuephsgovbj4", "artistId": ["Anmhmnsrf2j7favyzwjdsde2sya"], "nid": "cwok4xfrlkragcjfmynr23kodi", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "54f7b80a-5c03-3915-b498-1d8cc38538d9", "clientId": "87b1b760-76be-4afe-8c60-469abf36a5a2", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02301339409586323453", "trackId": "Tsccdmtpjt6qtmykptynabrevgi", "creationTimestamp": "1538942615148520", "lastModifiedTimestamp": "1538942615148520", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "House of the Glass Red, Pt. 2", "artist": "Too Many Zooz", "composer": "", "album": "Fanimals", "albumArtist": "Too Many Zooz", "year": 2014, "trackNumber": 6, "genre": "Jazz", "durationMillis": "108000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh6.ggpht.com/aHBHJqDJB8UHL7vunmxtkYEFp0hH4D8SE1Gwl_QhugrU7BD8gjhb89_O0Z_4yrqV4Kkb0bH_aw", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/TzdaOi3VI8-UkCLTgFczJ3tyKvyP_-xUOkUrkYuiuaf2k4Xq8uyyRBS4FC5Ela8A77AHNhq9-w", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/CQReNBVPUp56pjAf9FYViKYRmV0wQM_aV7ssybPGVbQTZyrf-Gu9L5vrZI-S0CZM_Ws-QZWrCg", "aspectRatio": "1", "autogen": true}], "playCount": 53, "discNumber": 1, "rating": "5", "estimatedSize": "4342633", "trackType": "7", "storeId": "Tsccdmtpjt6qtmykptynabrevgi", "albumId": "B4apu5blqlidtfe56qbllytwfru", "artistId": ["Azgecmsklsum6bz2rywhswc67gi"], "nid": "sccdmtpjt6qtmykptynabrevgi", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2", "lastRatingChangeTimestamp": "1538942606997000"}}, {"kind": "sj#playlistEntry", "id": "fcffd6bc-d200-3226-9f0c-99a27c5b6af5", "clientId": "30bbe342-1d19-4ee8-9be2-c63ae50303ac", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02303591209400008701", "trackId": "Trzplwz6rjl3qsyed2pvcqpzilq", "creationTimestamp": "1538945130706672", "lastModifiedTimestamp": "1538945130706672", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Limbo", "artist": "Too Many Zooz", "composer": "", "album": "Fanimals", "albumArtist": "Too Many Zooz", "year": 2014, "trackNumber": 3, "genre": "Jazz", "durationMillis": "192000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh6.ggpht.com/aHBHJqDJB8UHL7vunmxtkYEFp0hH4D8SE1Gwl_QhugrU7BD8gjhb89_O0Z_4yrqV4Kkb0bH_aw", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/TzdaOi3VI8-UkCLTgFczJ3tyKvyP_-xUOkUrkYuiuaf2k4Xq8uyyRBS4FC5Ela8A77AHNhq9-w", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/CQReNBVPUp56pjAf9FYViKYRmV0wQM_aV7ssybPGVbQTZyrf-Gu9L5vrZI-S0CZM_Ws-QZWrCg", "aspectRatio": "1", "autogen": true}], "playCount": 37, "discNumber": 1, "estimatedSize": "7687351", "trackType": "7", "storeId": "Trzplwz6rjl3qsyed2pvcqpzilq", "albumId": "B4apu5blqlidtfe56qbllytwfru", "artistId": ["Azgecmsklsum6bz2rywhswc67gi"], "nid": "rzplwz6rjl3qsyed2pvcqpzilq", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "d6ca229d-c564-37f7-94e5-82109a9d1e20", "clientId": "63179266-0dac-4bcd-95aa-a5e17f2aee5e", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02304717109306851325", "trackId": "2cd9bca6-d040-33ba-bf58-8976c16f4acd", "creationTimestamp": "1539019951464452", "lastModifiedTimestamp": "1539019951464452", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "ed780d70-5029-3fb8-9988-633593b3164e", "clientId": "d8e7476b-f7cd-4dd5-a4c6-fa2250044598", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02305280059260272637", "trackId": "d5ee60d0-096a-3803-b723-b05f9f64597f", "creationTimestamp": "1539090794254624", "lastModifiedTimestamp": "1539090794254624", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "7f76b390-a0eb-30e7-83b2-56f1218fe2e7", "clientId": "cae59559-13dd-4ed9-b5ed-ed31fb65565e", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02305561534236983293", "trackId": "2b4137ce-91c2-390a-b2f0-e65974e8ed05", "creationTimestamp": "1540145871185755", "lastModifiedTimestamp": "1540145871185755", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "dc2dcd04-e349-3a64-81f2-59a43c7453c8", "clientId": "d19ef8ce-bcd2-4183-ae09-239c9b019422", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02305702271725338621", "trackId": "Ty42nfr27w6i3cc2yhd4lhtcxq4", "creationTimestamp": "1540476677280230", "lastModifiedTimestamp": "1540476677280230", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Ten Thousand Fists", "artist": "Disturbed", "composer": "", "album": "Ten Thousand Fists", "albumArtist": "Disturbed", "year": 2005, "trackNumber": 1, "genre": "Alt Metal", "durationMillis": "212000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/avikl_wizA8USx9yFPlrzeOipfodDhNjlJwjwWCWbPNAUYRCaxcW8r1QGcngUd3FdpbtepqT", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/xqm8mDuYeo5IkTqNDTooAaRPPzrcKavP4W1sVnka8TxuXs0WRlG9SKZRuJtfLU375AS5hQ1UXA", "aspectRatio": "2", "autogen": false}], "playCount": 6, "discNumber": 1, "estimatedSize": "8484608", "trackType": "7", "storeId": "Ty42nfr27w6i3cc2yhd4lhtcxq4", "albumId": "Bwf46pjzoxx2oe7vil2gpeuugme", "artistId": ["Agtwc76vpoctlslvtttojp7yzia"], "nid": "y42nfr27w6i3cc2yhd4lhtcxq4", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "f0084166-cc72-3fa7-8f16-d9cb5b6f2036", "clientId": "873781fd-feb3-4ec8-8194-c9cb69a86a86", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02305772640469516285", "trackId": "3f07dc9a-7425-3162-ab21-873824dc3e6c", "creationTimestamp": "1540476907347377", "lastModifiedTimestamp": "1540476907347377", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "f55ed280-23bc-3684-a201-147c411d3274", "clientId": "cd45de6c-71ed-42b6-b6bc-caade9c43197", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02305807824841605117", "trackId": "Tgfo2b6d5byj2iyddktxepj6psm", "creationTimestamp": "1548693858833619", "lastModifiedTimestamp": "1548693858833619", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Warriors", "artist": "Too Many Zooz", "composer": "", "album": "Warriors", "albumArtist": "Too Many Zooz", "year": 2016, "trackNumber": 1, "genre": "Dance/Electronic", "durationMillis": "211000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/TU099udGemdh7wf5l50OnO5hpROM5o3kcnP-wxNgtGK5y6a_MTFXl6aW_T0QJL2y2hEFX1HTYA", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/TzdaOi3VI8-UkCLTgFczJ3tyKvyP_-xUOkUrkYuiuaf2k4Xq8uyyRBS4FC5Ela8A77AHNhq9-w", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/CQReNBVPUp56pjAf9FYViKYRmV0wQM_aV7ssybPGVbQTZyrf-Gu9L5vrZI-S0CZM_Ws-QZWrCg", "aspectRatio": "1", "autogen": true}], "playCount": 23, "discNumber": 1, "estimatedSize": "8443857", "trackType": "7", "storeId": "Tgfo2b6d5byj2iyddktxepj6psm", "albumId": "Bsd3ejfypuba54vsyjmvm22yafu", "artistId": ["Azgecmsklsum6bz2rywhswc67gi"], "nid": "gfo2b6d5byj2iyddktxepj6psm", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "45c6b2cc-3ebf-30fb-a2e5-7e872552f61e", "clientId": "24c3ad31-ac95-467e-8443-4d136d727e25", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02305825417027649533", "trackId": "38325a31-c023-392d-8a20-51335b2a1e25", "creationTimestamp": "1551480977052619", "lastModifiedTimestamp": "1551480977052619", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "5f9adb98-acd7-3b57-b70f-706a32454ffb", "clientId": "01b76c86-a7c0-4afc-a8e4-6ad505bee8cb", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02305834213120671741", "trackId": "9213ea92-7a1f-3694-ab3b-bc2d5d5f08a0", "creationTimestamp": "1552573858452522", "lastModifiedTimestamp": "1552573858452522", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "600f9d2f-51e3-3b2c-8a28-ab478a5c7282", "clientId": "10ec9cff-29f6-422a-a4ee-de7bbbf8c5eb", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02305838611167182845", "trackId": "a8b4630f-5ced-32f7-9a45-94d297b0e8f1", "creationTimestamp": "1561418259747492", "lastModifiedTimestamp": "1561418259747492", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "0faba243-3e19-3c80-adcc-c15daa1b50f0", "clientId": "3d0843a9-fea1-423a-9fdf-b32b2590c85f", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02305840810190438397", "trackId": "df27cb41-c723-3d74-a56f-8f5ecf7ad116", "creationTimestamp": "1563462622062201", "lastModifiedTimestamp": "1563462622062201", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "dece0493-4349-399d-8ce3-d200ed5c4f1c", "clientId": "981ebe02-d594-448c-b18f-cc87f95867c5", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02305841909702066173", "trackId": "Tmbkwivw23vavziwyvbbdkh45t4", "creationTimestamp": "1581186438333240", "lastModifiedTimestamp": "1581186438333240", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Breakfast In America (Remastered)", "artist": "Supertramp", "composer": "", "album": "Breakfast In America (Remastered)", "albumArtist": "Supertramp", "year": 1979, "trackNumber": 4, "genre": "Classic Rock", "durationMillis": "159000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/po_UJqnAVvJZSv7Y7-YFQT15GUahnR1GD7dtM8GO6xph_ocTkHuIcL3pkUIS4ltpmOsL8KAJeco", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/QOplq8ZhXJ9AaF8K2Vx2Y1dbOmrDIVW4Qvz8NjtlNJfAGFQulr1tKUMIqgMbLekn09NfFjHoZA", "aspectRatio": "2", "autogen": false}], "playCount": 8, "discNumber": 1, "estimatedSize": "6376004", "trackType": "7", "storeId": "Tmbkwivw23vavziwyvbbdkh45t4", "albumId": "B6j7rjhjnqdimxucyumak3nj7xu", "artistId": ["Aue77v5p7xuushxaf3ypl6oq2g4", "Azdvlohvt6pih75k5gvh3dgyjfm", "Aq4ymzu3kaqf2y733ad33gkxeaq", "A7b4eltd6nvs7v2pn4jilktlfhu", "Auynik7owp7gjleboyhrlijb2eu", "Axktlmtwutjnzj7kbz3xttxw6iq", "Ahggit7pi4kdwl3nuhnsb7kebhi"], "nid": "mbkwivw23vavziwyvbbdkh45t4", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "3973e892-e973-3c3d-aaa9-59e01655c183", "clientId": "f4bc26ff-d48a-4ef2-be2b-5af9d409271a", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02305842459457880061", "trackId": "Tulmmj2mtgg6m7n6dg5uz2i577a", "creationTimestamp": "1581186883174463", "lastModifiedTimestamp": "1581186883174463", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Mr. Roboto", "artist": "Styx", "composer": "", "album": "Kilroy Was Here", "albumArtist": "Styx", "year": 1983, "trackNumber": 1, "genre": "Classic Rock", "durationMillis": "328000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/nj_XueARTGUFbpKhruD4yolFEzoAw4f-JBARnfhdvn-66ltHgKoW9gu6AEQk8_Am8lqCcOOcXoY", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/uabcg_YtVSNctOjG1Y1U7WnphPRyI6GXBkQBSRBNVbZIGlh5IlBE2vVZ9ZJXIm6rTTzpauJW", "aspectRatio": "2", "autogen": false}], "playCount": 4, "discNumber": 1, "estimatedSize": "13151122", "trackType": "7", "storeId": "Tulmmj2mtgg6m7n6dg5uz2i577a", "albumId": "Bbyt3n6qacv4jdvzzmrn66acsrm", "artistId": ["A2k3pvoxq4ajftg7kr56lhbqicm"], "nid": "ulmmj2mtgg6m7n6dg5uz2i577a", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "4937d669-ab29-3889-92b0-8455be0e2706", "clientId": "2c7870cd-f155-49cb-8103-76210d5f0e7b", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02305842734335787005", "trackId": "Typf3t5wc565mjxvraokfdsfdsu", "creationTimestamp": "1582434786216390", "lastModifiedTimestamp": "1582434786216390", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Smooth Criminal (Radio Edit)", "artist": "Michael Jackson", "composer": "", "album": "Number Ones", "albumArtist": "Michael Jackson", "year": 2003, "trackNumber": 8, "genre": "'80s Pop", "durationMillis": "257000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/Ac58LsojFqu5AJZO4BeFKUYYfWKDWau_-xKPRqBVpgaEOvimdgP8ogh2RT8xLY3m-PrR3KD9_A", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/-Y2wPyY4DYYRzvFVlHgChWFagOni0NdUzoB1gHx7Kpc0mGH7jlQHk7UasIQ7zj0Sob4xgD8DI8Q", "aspectRatio": "2", "autogen": false}, {"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/yjbR-jv6jWLdsTa-ZFNbVi9gpkzKRC-qVgOZTvKwwo6hMNQCxZFC73a2wVdie-YqBu3I9nDD_Og", "aspectRatio": "1", "autogen": false}], "playCount": 10, "discNumber": 1, "estimatedSize": "10284957", "trackType": "7", "storeId": "Typf3t5wc565mjxvraokfdsfdsu", "albumId": "Bagivkyhiqvj6bksuafotn2p5oe", "artistId": ["Ai6bhstqbdyafulwecypadv2b34"], "nid": "ypf3t5wc565mjxvraokfdsfdsu", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "cb4a633b-fc5d-3104-8861-2a3c6424cd7e", "clientId": "2ff27c12-e91b-4028-8262-fe433a9ce6d7", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02305842871774740477", "trackId": "Tpjmhvkletmgp55yiwizf5vryye", "creationTimestamp": "1582994581993434", "lastModifiedTimestamp": "1582994581993434", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "I Believe in a Thing Called Love", "artist": "The Darkness", "composer": "", "album": "Permission To Land", "albumArtist": "The Darkness", "year": 2003, "trackNumber": 4, "genre": "Rock", "durationMillis": "216000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/Idoyr8_OGv9VquGM8V73EpqrVtCuXkUqJOXMPdzBM-dlxcpU1uu8D8kPsKwqG70ol8BJqVXJ", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/E-JUxCfWB-84nV0zM6NdYM0nq1Rf0W8xeoIa8yZZ1a7pKqO0wc4jPvc46vFRlMWNcDKrnuxh9Sk", "aspectRatio": "2", "autogen": false}], "playCount": 2, "discNumber": 1, "estimatedSize": "8674770", "trackType": "7", "storeId": "Tpjmhvkletmgp55yiwizf5vryye", "albumId": "Bwpfhljftvzz5thw7nhssqnczny", "artistId": ["Anfoqntbqsswhyhxuuwazhuctza"], "nid": "pjmhvkletmgp55yiwizf5vryye", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}, {"kind": "sj#playlistEntry", "id": "cb33bf03-5d55-3d53-9a12-c214413aebe4", "clientId": "d3e23445-bf7d-4986-8668-50348598da23", "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d", "absolutePosition": "02305842940494217213", "trackId": "93f7312c-eb13-3470-9334-687759b0a391", "creationTimestamp": "1585422540857100", "lastModifiedTimestamp": "1585422540857100", "deleted": false, "source": "1"}]}
+{
+  "kind": "sj#playlist",
+  "id": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+  "creationTimestamp": "1536331413314419",
+  "lastModifiedTimestamp": "1585422541163266",
+  "recentTimestamp": "1536331413168000",
+  "deleted": false,
+  "name": "Jammeh",
+  "type": "USER_GENERATED",
+  "shareToken": "AMaBXylscuIb5SwJv1nMaSjrsN0ciKWjQaXSZBajIeRkflvUigi150t07IyRcxJM4rDjYX5VVeOAsCkAlCy7mFQjWpj9WiZptA==",
+  "ownerName": "JD Clark",
+  "description": "",
+  "accessControlled": false,
+  "tracks": [
+    {
+      "kind": "sj#playlistEntry",
+      "id": "996a38db-cb74-3491-b405-67e1a6ad48c8",
+      "clientId": "58810550-d924-45d4-8b1f-1f38c1ab6958",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "01729382256910270462",
+      "trackId": "a0429fed-6af7-3f98-9b0f-0448e88f84cb",
+      "creationTimestamp": "1536331415537159",
+      "lastModifiedTimestamp": "1536331415537159",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "e6493fee-2882-3d0c-9d5b-ab6f08427902",
+      "clientId": "91c8c9e1-fdda-43d1-92f0-8bb64e6a03d2",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02017612633061982205",
+      "trackId": "5d58d95f-c95b-381f-b089-0d88557397f7",
+      "creationTimestamp": "1536331632917752",
+      "lastModifiedTimestamp": "1536331632917752",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "85db4878-2133-3c63-892e-bd575afe5665",
+      "clientId": "801f7ee5-77aa-4600-b8a2-3b1a7a71b864",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02161727821137838077",
+      "trackId": "257ed9f5-a07a-39f8-b521-33e92fae2b76",
+      "creationTimestamp": "1536887003351779",
+      "lastModifiedTimestamp": "1536887003351779",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "bb6025c4-d65e-37fb-b199-f293dc6067a0",
+      "clientId": "e3fcd1fc-8289-4179-9a95-60ccf5eed797",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02233785415175766013",
+      "trackId": "7392f98c-ea59-3760-956a-f79c2f6ea87c",
+      "creationTimestamp": "1537366595661677",
+      "lastModifiedTimestamp": "1537366595661677",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "f9bcd83c-f5ec-34f1-872f-ce2f5e04ac76",
+      "clientId": "4ab495ee-48f0-4099-a89c-aed9672f86db",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02269814212194729981",
+      "trackId": "f7edba5f-013c-3f76-a75d-a9ca6280f9b2",
+      "creationTimestamp": "1537367062431340",
+      "lastModifiedTimestamp": "1537367062431340",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "6ee5fc8f-0fb2-3c7b-9f5d-937703d4e8b7",
+      "clientId": "4b1f2685-8ca7-42b8-89f5-6ea922c1306a",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02287828610704211965",
+      "trackId": "c9759169-9bad-3c30-9fb6-d12b72d2ad75",
+      "creationTimestamp": "1538403541504722",
+      "lastModifiedTimestamp": "1538403541504722",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "d30b6003-be24-33c9-9244-02442dca1c1a",
+      "clientId": "3130555e-4b0d-43a0-80d5-c93a27134889",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02296835809958952957",
+      "trackId": "Tcwok4xfrlkragcjfmynr23kodi",
+      "creationTimestamp": "1538423565443429",
+      "lastModifiedTimestamp": "1538423565443429",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "If Looks Could Kill",
+        "artist": "Primal Fear",
+        "composer": "",
+        "album": "If Looks Could Kill",
+        "albumArtist": "Primal Fear",
+        "year": 2017,
+        "trackNumber": 1,
+        "genre": "Metal",
+        "durationMillis": "246000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/aJHSBjcEdWM1IH5EP1x0ddCKk7mwcQ-ZTgA8-_GsmYsgo4cFBiGl_NGU3NXjVtFrkY__4Bpe6eM",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/0GQ6QzzylCMPjTbCbfvV_Iaqp5xQHiG7ym2dDi5cfCqkS0aXW9Y9LYpiOHAH50qtvDMClepA",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/ztltBaFzH9iGyPOytAeF-kMjONx-QfXwWLQWwymhmKE8Q00MghTPPLDtOj9DySY_yufs2weO",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 11,
+        "discNumber": 1,
+        "estimatedSize": "9877457",
+        "trackType": "7",
+        "storeId": "Tcwok4xfrlkragcjfmynr23kodi",
+        "albumId": "Bzanbseyvvbyt3hwuephsgovbj4",
+        "artistId": [
+          "Anmhmnsrf2j7favyzwjdsde2sya"
+        ],
+        "nid": "cwok4xfrlkragcjfmynr23kodi",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "54f7b80a-5c03-3915-b498-1d8cc38538d9",
+      "clientId": "87b1b760-76be-4afe-8c60-469abf36a5a2",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02301339409586323453",
+      "trackId": "Tsccdmtpjt6qtmykptynabrevgi",
+      "creationTimestamp": "1538942615148520",
+      "lastModifiedTimestamp": "1538942615148520",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "House of the Glass Red, Pt. 2",
+        "artist": "Too Many Zooz",
+        "composer": "",
+        "album": "Fanimals",
+        "albumArtist": "Too Many Zooz",
+        "year": 2014,
+        "trackNumber": 6,
+        "genre": "Jazz",
+        "durationMillis": "108000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh6.ggpht.com/aHBHJqDJB8UHL7vunmxtkYEFp0hH4D8SE1Gwl_QhugrU7BD8gjhb89_O0Z_4yrqV4Kkb0bH_aw",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/TzdaOi3VI8-UkCLTgFczJ3tyKvyP_-xUOkUrkYuiuaf2k4Xq8uyyRBS4FC5Ela8A77AHNhq9-w",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/CQReNBVPUp56pjAf9FYViKYRmV0wQM_aV7ssybPGVbQTZyrf-Gu9L5vrZI-S0CZM_Ws-QZWrCg",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 53,
+        "discNumber": 1,
+        "rating": "5",
+        "estimatedSize": "4342633",
+        "trackType": "7",
+        "storeId": "Tsccdmtpjt6qtmykptynabrevgi",
+        "albumId": "B4apu5blqlidtfe56qbllytwfru",
+        "artistId": [
+          "Azgecmsklsum6bz2rywhswc67gi"
+        ],
+        "nid": "sccdmtpjt6qtmykptynabrevgi",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2",
+        "lastRatingChangeTimestamp": "1538942606997000"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "fcffd6bc-d200-3226-9f0c-99a27c5b6af5",
+      "clientId": "30bbe342-1d19-4ee8-9be2-c63ae50303ac",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02303591209400008701",
+      "trackId": "Trzplwz6rjl3qsyed2pvcqpzilq",
+      "creationTimestamp": "1538945130706672",
+      "lastModifiedTimestamp": "1538945130706672",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Limbo",
+        "artist": "Too Many Zooz",
+        "composer": "",
+        "album": "Fanimals",
+        "albumArtist": "Too Many Zooz",
+        "year": 2014,
+        "trackNumber": 3,
+        "genre": "Jazz",
+        "durationMillis": "192000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh6.ggpht.com/aHBHJqDJB8UHL7vunmxtkYEFp0hH4D8SE1Gwl_QhugrU7BD8gjhb89_O0Z_4yrqV4Kkb0bH_aw",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/TzdaOi3VI8-UkCLTgFczJ3tyKvyP_-xUOkUrkYuiuaf2k4Xq8uyyRBS4FC5Ela8A77AHNhq9-w",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/CQReNBVPUp56pjAf9FYViKYRmV0wQM_aV7ssybPGVbQTZyrf-Gu9L5vrZI-S0CZM_Ws-QZWrCg",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 37,
+        "discNumber": 1,
+        "estimatedSize": "7687351",
+        "trackType": "7",
+        "storeId": "Trzplwz6rjl3qsyed2pvcqpzilq",
+        "albumId": "B4apu5blqlidtfe56qbllytwfru",
+        "artistId": [
+          "Azgecmsklsum6bz2rywhswc67gi"
+        ],
+        "nid": "rzplwz6rjl3qsyed2pvcqpzilq",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "d6ca229d-c564-37f7-94e5-82109a9d1e20",
+      "clientId": "63179266-0dac-4bcd-95aa-a5e17f2aee5e",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02304717109306851325",
+      "trackId": "2cd9bca6-d040-33ba-bf58-8976c16f4acd",
+      "creationTimestamp": "1539019951464452",
+      "lastModifiedTimestamp": "1539019951464452",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "ed780d70-5029-3fb8-9988-633593b3164e",
+      "clientId": "d8e7476b-f7cd-4dd5-a4c6-fa2250044598",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02305280059260272637",
+      "trackId": "d5ee60d0-096a-3803-b723-b05f9f64597f",
+      "creationTimestamp": "1539090794254624",
+      "lastModifiedTimestamp": "1539090794254624",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "7f76b390-a0eb-30e7-83b2-56f1218fe2e7",
+      "clientId": "cae59559-13dd-4ed9-b5ed-ed31fb65565e",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02305561534236983293",
+      "trackId": "2b4137ce-91c2-390a-b2f0-e65974e8ed05",
+      "creationTimestamp": "1540145871185755",
+      "lastModifiedTimestamp": "1540145871185755",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "dc2dcd04-e349-3a64-81f2-59a43c7453c8",
+      "clientId": "d19ef8ce-bcd2-4183-ae09-239c9b019422",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02305702271725338621",
+      "trackId": "Ty42nfr27w6i3cc2yhd4lhtcxq4",
+      "creationTimestamp": "1540476677280230",
+      "lastModifiedTimestamp": "1540476677280230",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Ten Thousand Fists",
+        "artist": "Disturbed",
+        "composer": "",
+        "album": "Ten Thousand Fists",
+        "albumArtist": "Disturbed",
+        "year": 2005,
+        "trackNumber": 1,
+        "genre": "Alt Metal",
+        "durationMillis": "212000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/avikl_wizA8USx9yFPlrzeOipfodDhNjlJwjwWCWbPNAUYRCaxcW8r1QGcngUd3FdpbtepqT",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/xqm8mDuYeo5IkTqNDTooAaRPPzrcKavP4W1sVnka8TxuXs0WRlG9SKZRuJtfLU375AS5hQ1UXA",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 6,
+        "discNumber": 1,
+        "estimatedSize": "8484608",
+        "trackType": "7",
+        "storeId": "Ty42nfr27w6i3cc2yhd4lhtcxq4",
+        "albumId": "Bwf46pjzoxx2oe7vil2gpeuugme",
+        "artistId": [
+          "Agtwc76vpoctlslvtttojp7yzia"
+        ],
+        "nid": "y42nfr27w6i3cc2yhd4lhtcxq4",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "f0084166-cc72-3fa7-8f16-d9cb5b6f2036",
+      "clientId": "873781fd-feb3-4ec8-8194-c9cb69a86a86",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02305772640469516285",
+      "trackId": "3f07dc9a-7425-3162-ab21-873824dc3e6c",
+      "creationTimestamp": "1540476907347377",
+      "lastModifiedTimestamp": "1540476907347377",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "f55ed280-23bc-3684-a201-147c411d3274",
+      "clientId": "cd45de6c-71ed-42b6-b6bc-caade9c43197",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02305807824841605117",
+      "trackId": "Tgfo2b6d5byj2iyddktxepj6psm",
+      "creationTimestamp": "1548693858833619",
+      "lastModifiedTimestamp": "1548693858833619",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Warriors",
+        "artist": "Too Many Zooz",
+        "composer": "",
+        "album": "Warriors",
+        "albumArtist": "Too Many Zooz",
+        "year": 2016,
+        "trackNumber": 1,
+        "genre": "Dance/Electronic",
+        "durationMillis": "211000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/TU099udGemdh7wf5l50OnO5hpROM5o3kcnP-wxNgtGK5y6a_MTFXl6aW_T0QJL2y2hEFX1HTYA",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/TzdaOi3VI8-UkCLTgFczJ3tyKvyP_-xUOkUrkYuiuaf2k4Xq8uyyRBS4FC5Ela8A77AHNhq9-w",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/CQReNBVPUp56pjAf9FYViKYRmV0wQM_aV7ssybPGVbQTZyrf-Gu9L5vrZI-S0CZM_Ws-QZWrCg",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 23,
+        "discNumber": 1,
+        "estimatedSize": "8443857",
+        "trackType": "7",
+        "storeId": "Tgfo2b6d5byj2iyddktxepj6psm",
+        "albumId": "Bsd3ejfypuba54vsyjmvm22yafu",
+        "artistId": [
+          "Azgecmsklsum6bz2rywhswc67gi"
+        ],
+        "nid": "gfo2b6d5byj2iyddktxepj6psm",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "45c6b2cc-3ebf-30fb-a2e5-7e872552f61e",
+      "clientId": "24c3ad31-ac95-467e-8443-4d136d727e25",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02305825417027649533",
+      "trackId": "38325a31-c023-392d-8a20-51335b2a1e25",
+      "creationTimestamp": "1551480977052619",
+      "lastModifiedTimestamp": "1551480977052619",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "5f9adb98-acd7-3b57-b70f-706a32454ffb",
+      "clientId": "01b76c86-a7c0-4afc-a8e4-6ad505bee8cb",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02305834213120671741",
+      "trackId": "9213ea92-7a1f-3694-ab3b-bc2d5d5f08a0",
+      "creationTimestamp": "1552573858452522",
+      "lastModifiedTimestamp": "1552573858452522",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "600f9d2f-51e3-3b2c-8a28-ab478a5c7282",
+      "clientId": "10ec9cff-29f6-422a-a4ee-de7bbbf8c5eb",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02305838611167182845",
+      "trackId": "a8b4630f-5ced-32f7-9a45-94d297b0e8f1",
+      "creationTimestamp": "1561418259747492",
+      "lastModifiedTimestamp": "1561418259747492",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "0faba243-3e19-3c80-adcc-c15daa1b50f0",
+      "clientId": "3d0843a9-fea1-423a-9fdf-b32b2590c85f",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02305840810190438397",
+      "trackId": "df27cb41-c723-3d74-a56f-8f5ecf7ad116",
+      "creationTimestamp": "1563462622062201",
+      "lastModifiedTimestamp": "1563462622062201",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "dece0493-4349-399d-8ce3-d200ed5c4f1c",
+      "clientId": "981ebe02-d594-448c-b18f-cc87f95867c5",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02305841909702066173",
+      "trackId": "Tmbkwivw23vavziwyvbbdkh45t4",
+      "creationTimestamp": "1581186438333240",
+      "lastModifiedTimestamp": "1581186438333240",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Breakfast In America (Remastered)",
+        "artist": "Supertramp",
+        "composer": "",
+        "album": "Breakfast In America (Remastered)",
+        "albumArtist": "Supertramp",
+        "year": 1979,
+        "trackNumber": 4,
+        "genre": "Classic Rock",
+        "durationMillis": "159000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/po_UJqnAVvJZSv7Y7-YFQT15GUahnR1GD7dtM8GO6xph_ocTkHuIcL3pkUIS4ltpmOsL8KAJeco",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/QOplq8ZhXJ9AaF8K2Vx2Y1dbOmrDIVW4Qvz8NjtlNJfAGFQulr1tKUMIqgMbLekn09NfFjHoZA",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 8,
+        "discNumber": 1,
+        "estimatedSize": "6376004",
+        "trackType": "7",
+        "storeId": "Tmbkwivw23vavziwyvbbdkh45t4",
+        "albumId": "B6j7rjhjnqdimxucyumak3nj7xu",
+        "artistId": [
+          "Aue77v5p7xuushxaf3ypl6oq2g4",
+          "Azdvlohvt6pih75k5gvh3dgyjfm",
+          "Aq4ymzu3kaqf2y733ad33gkxeaq",
+          "A7b4eltd6nvs7v2pn4jilktlfhu",
+          "Auynik7owp7gjleboyhrlijb2eu",
+          "Axktlmtwutjnzj7kbz3xttxw6iq",
+          "Ahggit7pi4kdwl3nuhnsb7kebhi"
+        ],
+        "nid": "mbkwivw23vavziwyvbbdkh45t4",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "3973e892-e973-3c3d-aaa9-59e01655c183",
+      "clientId": "f4bc26ff-d48a-4ef2-be2b-5af9d409271a",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02305842459457880061",
+      "trackId": "Tulmmj2mtgg6m7n6dg5uz2i577a",
+      "creationTimestamp": "1581186883174463",
+      "lastModifiedTimestamp": "1581186883174463",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Mr. Roboto",
+        "artist": "Styx",
+        "composer": "",
+        "album": "Kilroy Was Here",
+        "albumArtist": "Styx",
+        "year": 1983,
+        "trackNumber": 1,
+        "genre": "Classic Rock",
+        "durationMillis": "328000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/nj_XueARTGUFbpKhruD4yolFEzoAw4f-JBARnfhdvn-66ltHgKoW9gu6AEQk8_Am8lqCcOOcXoY",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/uabcg_YtVSNctOjG1Y1U7WnphPRyI6GXBkQBSRBNVbZIGlh5IlBE2vVZ9ZJXIm6rTTzpauJW",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 4,
+        "discNumber": 1,
+        "estimatedSize": "13151122",
+        "trackType": "7",
+        "storeId": "Tulmmj2mtgg6m7n6dg5uz2i577a",
+        "albumId": "Bbyt3n6qacv4jdvzzmrn66acsrm",
+        "artistId": [
+          "A2k3pvoxq4ajftg7kr56lhbqicm"
+        ],
+        "nid": "ulmmj2mtgg6m7n6dg5uz2i577a",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "4937d669-ab29-3889-92b0-8455be0e2706",
+      "clientId": "2c7870cd-f155-49cb-8103-76210d5f0e7b",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02305842734335787005",
+      "trackId": "Typf3t5wc565mjxvraokfdsfdsu",
+      "creationTimestamp": "1582434786216390",
+      "lastModifiedTimestamp": "1582434786216390",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Smooth Criminal (Radio Edit)",
+        "artist": "Michael Jackson",
+        "composer": "",
+        "album": "Number Ones",
+        "albumArtist": "Michael Jackson",
+        "year": 2003,
+        "trackNumber": 8,
+        "genre": "'80s Pop",
+        "durationMillis": "257000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/Ac58LsojFqu5AJZO4BeFKUYYfWKDWau_-xKPRqBVpgaEOvimdgP8ogh2RT8xLY3m-PrR3KD9_A",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/-Y2wPyY4DYYRzvFVlHgChWFagOni0NdUzoB1gHx7Kpc0mGH7jlQHk7UasIQ7zj0Sob4xgD8DI8Q",
+            "aspectRatio": "2",
+            "autogen": false
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/yjbR-jv6jWLdsTa-ZFNbVi9gpkzKRC-qVgOZTvKwwo6hMNQCxZFC73a2wVdie-YqBu3I9nDD_Og",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "playCount": 10,
+        "discNumber": 1,
+        "estimatedSize": "10284957",
+        "trackType": "7",
+        "storeId": "Typf3t5wc565mjxvraokfdsfdsu",
+        "albumId": "Bagivkyhiqvj6bksuafotn2p5oe",
+        "artistId": [
+          "Ai6bhstqbdyafulwecypadv2b34"
+        ],
+        "nid": "ypf3t5wc565mjxvraokfdsfdsu",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "cb4a633b-fc5d-3104-8861-2a3c6424cd7e",
+      "clientId": "2ff27c12-e91b-4028-8262-fe433a9ce6d7",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02305842871774740477",
+      "trackId": "Tpjmhvkletmgp55yiwizf5vryye",
+      "creationTimestamp": "1582994581993434",
+      "lastModifiedTimestamp": "1582994581993434",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "I Believe in a Thing Called Love",
+        "artist": "The Darkness",
+        "composer": "",
+        "album": "Permission To Land",
+        "albumArtist": "The Darkness",
+        "year": 2003,
+        "trackNumber": 4,
+        "genre": "Rock",
+        "durationMillis": "216000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/Idoyr8_OGv9VquGM8V73EpqrVtCuXkUqJOXMPdzBM-dlxcpU1uu8D8kPsKwqG70ol8BJqVXJ",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/E-JUxCfWB-84nV0zM6NdYM0nq1Rf0W8xeoIa8yZZ1a7pKqO0wc4jPvc46vFRlMWNcDKrnuxh9Sk",
+            "aspectRatio": "2",
+            "autogen": false
+          }
+        ],
+        "playCount": 2,
+        "discNumber": 1,
+        "estimatedSize": "8674770",
+        "trackType": "7",
+        "storeId": "Tpjmhvkletmgp55yiwizf5vryye",
+        "albumId": "Bwpfhljftvzz5thw7nhssqnczny",
+        "artistId": [
+          "Anfoqntbqsswhyhxuuwazhuctza"
+        ],
+        "nid": "pjmhvkletmgp55yiwizf5vryye",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "cb33bf03-5d55-3d53-9a12-c214413aebe4",
+      "clientId": "d3e23445-bf7d-4986-8668-50348598da23",
+      "playlistId": "d886ab8d-17e7-45d9-a0c6-7b19201ba60d",
+      "absolutePosition": "02305842940494217213",
+      "trackId": "93f7312c-eb13-3470-9334-687759b0a391",
+      "creationTimestamp": "1585422540857100",
+      "lastModifiedTimestamp": "1585422540857100",
+      "deleted": false,
+      "source": "1"
+    }
+  ]
+}

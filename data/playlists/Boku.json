@@ -1,1 +1,88 @@
-{"kind": "sj#playlist", "id": "4ca2370e-269d-48a2-be04-8619af26c1a4", "creationTimestamp": "1452229618452423", "lastModifiedTimestamp": "1457199736618305", "recentTimestamp": "1452229617657000", "deleted": false, "name": "Boku", "type": "USER_GENERATED", "shareToken": "AMaBXykeQ2RvY6Z26exFiMlavHM0vBUzh1BJd0cR2s6TewolWieRhxY46aflWJ8vLzFCI7mQHuCK1UbBXdDY5-IlohQTHqqd_Q==", "ownerName": "JD Clark", "description": "", "accessControlled": false, "tracks": [{"kind": "sj#playlistEntry", "id": "f73d4360-e39a-37b1-acec-732efd3edb77", "clientId": "c4776149-9240-4347-9a17-6c9f0c3ec827", "playlistId": "4ca2370e-269d-48a2-be04-8619af26c1a4", "absolutePosition": "01729382256910270462", "trackId": "474d56bb-607c-351d-a68e-799ccc77c1d5", "creationTimestamp": "1455321081201052", "lastModifiedTimestamp": "1455321081201052", "deleted": false, "source": "1"}, {"kind": "sj#playlistEntry", "id": "cf559411-8d24-3055-ab60-c65c75fafb41", "clientId": "beb8fbe6-5986-4542-bd56-8c1094694920", "playlistId": "4ca2370e-269d-48a2-be04-8619af26c1a4", "absolutePosition": "02017612633061982205", "trackId": "Trig7grs2cu7bsydhfvjldjnx5u", "creationTimestamp": "1455728102192018", "lastModifiedTimestamp": "1455728102192018", "deleted": false, "source": "2", "track": {"kind": "sj#track", "title": "Permanent Holiday", "artist": "Mike Love", "composer": "", "album": "The Change I'm Seeking", "albumArtist": "Mike Love", "year": 2012, "trackNumber": 10, "genre": "Reggae", "durationMillis": "482000", "albumArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.ggpht.com/m49fRUUv9jvxZEkI8N_SIp2bHjDB387mVpXvFYNSUGoQMm9mz_c7cc7v7qDk9Mtgimj6ltXz", "aspectRatio": "1", "autogen": false}], "artistArtRef": [{"kind": "sj#imageRef", "url": "http://lh3.googleusercontent.com/Ene5pGObXl5ZBpODfx1ol-whpKosM9-OhoBuJ9XXbe-4NG5Z4k-6LcjuskO_HiVZ1tlKlg7Mfw", "aspectRatio": "2", "autogen": true}, {"kind": "sj#imageRef", "url": "http://lh3.ggpht.com/m49fRUUv9jvxZEkI8N_SIp2bHjDB387mVpXvFYNSUGoQMm9mz_c7cc7v7qDk9Mtgimj6ltXz", "aspectRatio": "1", "autogen": true}], "playCount": 2, "discNumber": 1, "estimatedSize": "19289893", "trackType": "7", "storeId": "Trig7grs2cu7bsydhfvjldjnx5u", "albumId": "Bm2vdyjltztx76mfjkk65ovhm4q", "artistId": ["Az5ffo6cjtc67dln3oayc24t6qi"], "nid": "rig7grs2cu7bsydhfvjldjnx5u", "trackAvailableForSubscription": true, "trackAvailableForPurchase": true, "albumAvailableForPurchase": false, "explicitType": "2"}}]}
+{
+  "kind": "sj#playlist",
+  "id": "4ca2370e-269d-48a2-be04-8619af26c1a4",
+  "creationTimestamp": "1452229618452423",
+  "lastModifiedTimestamp": "1457199736618305",
+  "recentTimestamp": "1452229617657000",
+  "deleted": false,
+  "name": "Boku",
+  "type": "USER_GENERATED",
+  "shareToken": "AMaBXykeQ2RvY6Z26exFiMlavHM0vBUzh1BJd0cR2s6TewolWieRhxY46aflWJ8vLzFCI7mQHuCK1UbBXdDY5-IlohQTHqqd_Q==",
+  "ownerName": "JD Clark",
+  "description": "",
+  "accessControlled": false,
+  "tracks": [
+    {
+      "kind": "sj#playlistEntry",
+      "id": "f73d4360-e39a-37b1-acec-732efd3edb77",
+      "clientId": "c4776149-9240-4347-9a17-6c9f0c3ec827",
+      "playlistId": "4ca2370e-269d-48a2-be04-8619af26c1a4",
+      "absolutePosition": "01729382256910270462",
+      "trackId": "474d56bb-607c-351d-a68e-799ccc77c1d5",
+      "creationTimestamp": "1455321081201052",
+      "lastModifiedTimestamp": "1455321081201052",
+      "deleted": false,
+      "source": "1"
+    },
+    {
+      "kind": "sj#playlistEntry",
+      "id": "cf559411-8d24-3055-ab60-c65c75fafb41",
+      "clientId": "beb8fbe6-5986-4542-bd56-8c1094694920",
+      "playlistId": "4ca2370e-269d-48a2-be04-8619af26c1a4",
+      "absolutePosition": "02017612633061982205",
+      "trackId": "Trig7grs2cu7bsydhfvjldjnx5u",
+      "creationTimestamp": "1455728102192018",
+      "lastModifiedTimestamp": "1455728102192018",
+      "deleted": false,
+      "source": "2",
+      "track": {
+        "kind": "sj#track",
+        "title": "Permanent Holiday",
+        "artist": "Mike Love",
+        "composer": "",
+        "album": "The Change I'm Seeking",
+        "albumArtist": "Mike Love",
+        "year": 2012,
+        "trackNumber": 10,
+        "genre": "Reggae",
+        "durationMillis": "482000",
+        "albumArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.ggpht.com/m49fRUUv9jvxZEkI8N_SIp2bHjDB387mVpXvFYNSUGoQMm9mz_c7cc7v7qDk9Mtgimj6ltXz",
+            "aspectRatio": "1",
+            "autogen": false
+          }
+        ],
+        "artistArtRef": [
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.googleusercontent.com/Ene5pGObXl5ZBpODfx1ol-whpKosM9-OhoBuJ9XXbe-4NG5Z4k-6LcjuskO_HiVZ1tlKlg7Mfw",
+            "aspectRatio": "2",
+            "autogen": true
+          },
+          {
+            "kind": "sj#imageRef",
+            "url": "http://lh3.ggpht.com/m49fRUUv9jvxZEkI8N_SIp2bHjDB387mVpXvFYNSUGoQMm9mz_c7cc7v7qDk9Mtgimj6ltXz",
+            "aspectRatio": "1",
+            "autogen": true
+          }
+        ],
+        "playCount": 2,
+        "discNumber": 1,
+        "estimatedSize": "19289893",
+        "trackType": "7",
+        "storeId": "Trig7grs2cu7bsydhfvjldjnx5u",
+        "albumId": "Bm2vdyjltztx76mfjkk65ovhm4q",
+        "artistId": [
+          "Az5ffo6cjtc67dln3oayc24t6qi"
+        ],
+        "nid": "rig7grs2cu7bsydhfvjldjnx5u",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": false,
+        "explicitType": "2"
+      }
+    }
+  ]
+}
