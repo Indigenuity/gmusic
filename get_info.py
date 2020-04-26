@@ -3,7 +3,7 @@ import os
 import json
 import urllib.request
 
-STORAGE_PATH = "/Users/jd/ws/gmusic"
+STORAGE_PATH = "/Users/jd/ws/gmusic/data"
 CREDS_PATH = os.path.join(STORAGE_PATH, ".creds")
 DEVICES_PATH = os.path.join(STORAGE_PATH, "registered_devices.json")
 LIBRARY_PATH = os.path.join(STORAGE_PATH, "library.json")
