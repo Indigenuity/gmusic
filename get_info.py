@@ -1,6 +1,7 @@
 from gmusicapi import Mobileclient
 import os
 import json
+import urllib.request
 
 STORAGE_PATH = "/Users/jd/ws/gmusic"
 CREDS_PATH = os.path.join(STORAGE_PATH, ".creds")
@@ -8,13 +9,14 @@ DEVICES_PATH = os.path.join(STORAGE_PATH, "registered_devices.json")
 LIBRARY_PATH = os.path.join(STORAGE_PATH, "library.json")
 PLAYLIST_INFO_PATH = os.path.join(STORAGE_PATH, "all_playlists.json")
 PLAYLIST_CONTENT_PATH = os.path.join(STORAGE_PATH, "playlists")
+TRACK_CONTENT_PATH = os.path.join(STORAGE_PATH, "raw_tracks")
 
 DEVICE_ID = "342e914abacc484d"
 
 print("Logging in")
 api = Mobileclient()
 api.oauth_login(device_id=DEVICE_ID, oauth_credentials=CREDS_PATH)
-# => True
+report = {}
 
 print("Getting registered devices")
 with open(DEVICES_PATH, "w") as f:
@@ -43,14 +45,27 @@ for playlist in playlist_contents:
     with open(playlist_filename, "w") as f:
         json.dump(playlist, f)
 
+if not os.path.exists(TRACK_CONTENT_PATH):
+    os.makedirs(TRACK_CONTENT_PATH)
+for track in library[:10]:
+    track_title = "".join([x if x.isalnum() else "_" for x in track["title"]])
+    filename = "{}.mp3".format(os.path.join(TRACK_CONTENT_PATH, track_title))
+    print("Downloading {} and saving to {}".format(track['title'], filename))
+    stream_url = api.get_stream_url(track['id'])
+    response = urllib.request.urlopen(stream_url)
+    data = response.read()
+    with open(filename, "wb") as f:
+        f.write(data)
+    if 'storeId' in track:
+        print("has store id : {}".format(track['title']))
+    else:
+        print("no store id : {}".format(track['title']))
 
-# "".join([x if x.isalnum() else "_" for x in s])
 
+report["# Registered Devices"] = len(registered_devices)
+report["# of tracks in library"] = len(library)
+report["# of playlists"] = len(playlists)
+report["# of tracks in library"] = len(library)
+report["# of tracks in library"] = len(library)
+report["# of tracks in library"] = len(library)
 
-
-library = api.get_all_songs()
-sweet_track_ids = [track['id'] for track in library
-                   if track['artist'] == 'The Cat Empire']
-
-playlist_id = api.create_playlist('Rad muzak')
-api.add_songs_to_playlist(playlist_id, sweet_track_ids)
