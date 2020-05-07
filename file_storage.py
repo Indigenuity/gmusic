@@ -16,6 +16,14 @@ class FileStorage:
         self.__init_filenames()
         self.json_indent = json_indent
 
+    def __init_filenames(self):
+        self.libdata_dir = os.path.join(self.storage_path, "libdata")
+        self.registered_devices_filename = os.path.join(self.libdata_dir, "registered_devices.json")
+        self.all_songs_filename = os.path.join(self.libdata_dir, "all_songs.json")
+        self.playlist_metadata_filename = os.path.join(self.libdata_dir, "playlist_metadata.json")
+        self.playlist_content_dir = os.path.join(self.libdata_dir, "playlists")
+        self.track_dir = os.path.join(self.storage_path, "tracks")
+
     @staticmethod
     def write_json(data, filename):
         logger.debug("Writing {}".format(filename))
@@ -27,6 +35,12 @@ class FileStorage:
         logger.debug("Reading {}".format(filename))
         with open(filename, "r") as f:
             return json.load(f)
+
+    # TODO Make a less restrictive safename function
+    @staticmethod
+    def safe_basename(unsafe_name):
+        logger.debug("Converting unsafe filename : {}".format(unsafe_name))
+        return "".join([x if x.isalnum() else "_" for x in unsafe_name])
 
     def read_libdata(self):
         logger.info("Loading libdata from file_storage at {}".format(self.storage_path))
@@ -52,13 +66,11 @@ class FileStorage:
         self.write_json(libdata.all_songs, self.all_songs_filename)
         self.write_json(libdata.playlist_metadata, self.playlist_metadata_filename)
         for playlist in libdata.playlists:
-            playlist_basename = "".join([x if x.isalnum() else "_" for x in playlist["name"]])
-            playlist_filename = os.path.join(self.playlist_content_dir, playlist_basename)
+            playlist_filename = os.path.join(self.playlist_content_dir, self.safe_basename(playlist["name"]))
             self.write_json(playlist, playlist_filename)
 
-    def __init_filenames(self):
-        self.libdata_dir = os.path.join(self.storage_path, "libdata")
-        self.registered_devices_filename = os.path.join(self.libdata_dir, "registered_devices.json")
-        self.all_songs_filename = os.path.join(self.libdata_dir, "all_songs.json")
-        self.playlist_metadata_filename = os.path.join(self.libdata_dir, "playlist_metadata.json")
-        self.playlist_content_dir = os.path.join(self.libdata_dir, "playlists")
+    def write_track(self, data, name):
+        filename = os.path.join(self.track_dir, self.safe_basename(name))
+        logger.info("Writing track '{}' to {}".format(name, filename))
+        with open(filename, "wb") as f:
+            f.write(data)

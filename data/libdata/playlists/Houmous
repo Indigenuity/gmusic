@@ -1,0 +1,1518 @@
+{
+    "kind": "sj#playlist",
+    "id": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+    "creationTimestamp": "1550784354010655",
+    "lastModifiedTimestamp": "1586274543185015",
+    "recentTimestamp": "1562093981431000",
+    "deleted": false,
+    "name": "Houmous",
+    "type": "USER_GENERATED",
+    "shareToken": "AMaBXymC6bbE70Uu4-y7cQYs8_StVQz_NJQHa6BEAPQgPaUy0cD7XmC_cD6-T8sCFCHKpc-5pAi2QneTvcx9cfjvT11UAwBjRg==",
+    "ownerName": "JD Clark",
+    "accessControlled": false,
+    "tracks": [
+        {
+            "kind": "sj#playlistEntry",
+            "id": "a7480842-760f-3655-b27b-45cf6c01a9f6",
+            "clientId": "ae58fa5a-c80f-4233-a93f-3196aec37b91",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "01729382256910270462",
+            "trackId": "Teux4ynn6ndyvmbdnlyu2um5m24",
+            "creationTimestamp": "1550784354118319",
+            "lastModifiedTimestamp": "1550784354118319",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Dulcin",
+                "artist": "Corpo-Mente",
+                "composer": "",
+                "album": "Corpo-Mente",
+                "albumArtist": "Corpo-Mente",
+                "year": 2015,
+                "trackNumber": 6,
+                "genre": "Vocal/Easy Listening",
+                "durationMillis": "344000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/gnFNvvI5ofqJyV2yZpxs22xdpoKYoc0XB9lN_82cndQUXuO2JqWj7_7h70lgiKnnoh45vc3dSoc",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 8,
+                "discNumber": 1,
+                "estimatedSize": "13777016",
+                "trackType": "7",
+                "storeId": "Teux4ynn6ndyvmbdnlyu2um5m24",
+                "albumId": "Blckcixtcrhuejgtvjfbi33nyta",
+                "artistId": [
+                    "Al6hb7tutzdc5cdqffxmosn33um"
+                ],
+                "nid": "eux4ynn6ndyvmbdnlyu2um5m24",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "80880f3c-42fa-337b-ae00-0758383f0a10",
+            "clientId": "903a9582-8961-4217-a8d7-b653dcc09649",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "01787028332140612810",
+            "trackId": "T6mw2ybo5x52yx4wkedifazmvte",
+            "creationTimestamp": "1550785269582719",
+            "lastModifiedTimestamp": "1550785269582719",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Scylla",
+                "artist": "Corpo-Mente",
+                "composer": "",
+                "album": "Corpo-Mente",
+                "albumArtist": "Corpo-Mente",
+                "year": 2015,
+                "trackNumber": 1,
+                "genre": "Vocal/Easy Listening",
+                "durationMillis": "261000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/gnFNvvI5ofqJyV2yZpxs22xdpoKYoc0XB9lN_82cndQUXuO2JqWj7_7h70lgiKnnoh45vc3dSoc",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "estimatedSize": "10469914",
+                "trackType": "7",
+                "storeId": "T6mw2ybo5x52yx4wkedifazmvte",
+                "albumId": "Blckcixtcrhuejgtvjfbi33nyta",
+                "artistId": [
+                    "Al6hb7tutzdc5cdqffxmosn33um"
+                ],
+                "nid": "6mw2ybo5x52yx4wkedifazmvte",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "f9018cd9-fc10-3168-9ac1-12d6e8c051e7",
+            "clientId": "f3257827-743b-437c-9b69-3430ec14c112",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "01844674407370955158",
+            "trackId": "Ts7gweziqvxid5oc3hut7wxl3ea",
+            "creationTimestamp": "1550785269582719",
+            "lastModifiedTimestamp": "1550785269582719",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Arsalein",
+                "artist": "Corpo-Mente",
+                "composer": "",
+                "album": "Corpo-Mente",
+                "albumArtist": "Corpo-Mente",
+                "year": 2015,
+                "trackNumber": 2,
+                "genre": "Vocal/Easy Listening",
+                "durationMillis": "247000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/gnFNvvI5ofqJyV2yZpxs22xdpoKYoc0XB9lN_82cndQUXuO2JqWj7_7h70lgiKnnoh45vc3dSoc",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "estimatedSize": "9891041",
+                "trackType": "7",
+                "storeId": "Ts7gweziqvxid5oc3hut7wxl3ea",
+                "albumId": "Blckcixtcrhuejgtvjfbi33nyta",
+                "artistId": [
+                    "Al6hb7tutzdc5cdqffxmosn33um"
+                ],
+                "nid": "s7gweziqvxid5oc3hut7wxl3ea",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "55fb361f-cbea-3d98-886a-c70bd134257b",
+            "clientId": "3a64e0d9-1040-4649-8330-12af1306cf7b",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "01902320482601297506",
+            "trackId": "T2jo2j37ozq46pu6563qzqppzdq",
+            "creationTimestamp": "1550785269582719",
+            "lastModifiedTimestamp": "1550785269582719",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Fia",
+                "artist": "Corpo-Mente",
+                "composer": "",
+                "album": "Corpo-Mente",
+                "albumArtist": "Corpo-Mente",
+                "year": 2015,
+                "trackNumber": 3,
+                "genre": "Vocal/Easy Listening",
+                "durationMillis": "224000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/gnFNvvI5ofqJyV2yZpxs22xdpoKYoc0XB9lN_82cndQUXuO2JqWj7_7h70lgiKnnoh45vc3dSoc",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 5,
+                "discNumber": 1,
+                "estimatedSize": "8985114",
+                "trackType": "7",
+                "storeId": "T2jo2j37ozq46pu6563qzqppzdq",
+                "albumId": "Blckcixtcrhuejgtvjfbi33nyta",
+                "artistId": [
+                    "Al6hb7tutzdc5cdqffxmosn33um"
+                ],
+                "nid": "2jo2j37ozq46pu6563qzqppzdq",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "8afdf0c0-61e8-3dc7-bfdc-cc3c79d809c0",
+            "clientId": "c2c6361a-7e27-4a9e-911e-5c9b478f4ca9",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "01959966557831639854",
+            "trackId": "Thxorf6o7sqxnfrel3n6vdzlfvm",
+            "creationTimestamp": "1550785269582719",
+            "lastModifiedTimestamp": "1550785269582719",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Velandi",
+                "artist": "Corpo-Mente",
+                "composer": "",
+                "album": "Corpo-Mente",
+                "albumArtist": "Corpo-Mente",
+                "year": 2015,
+                "trackNumber": 4,
+                "genre": "Vocal/Easy Listening",
+                "durationMillis": "209000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/gnFNvvI5ofqJyV2yZpxs22xdpoKYoc0XB9lN_82cndQUXuO2JqWj7_7h70lgiKnnoh45vc3dSoc",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 5,
+                "discNumber": 1,
+                "estimatedSize": "8387433",
+                "trackType": "7",
+                "storeId": "Thxorf6o7sqxnfrel3n6vdzlfvm",
+                "albumId": "Blckcixtcrhuejgtvjfbi33nyta",
+                "artistId": [
+                    "Al6hb7tutzdc5cdqffxmosn33um"
+                ],
+                "nid": "hxorf6o7sqxnfrel3n6vdzlfvm",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "19bc4925-4022-3e7d-9fdc-cd1faff7a4f5",
+            "clientId": "61c6390d-ff85-49af-9b7b-1e16db8b19af",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02017612633061982202",
+            "trackId": "Tz3a4tkmuisq5ivkibtqlyt27ge",
+            "creationTimestamp": "1550785269582719",
+            "lastModifiedTimestamp": "1550785269582719",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Dorma",
+                "artist": "Corpo-Mente",
+                "composer": "",
+                "album": "Corpo-Mente",
+                "albumArtist": "Corpo-Mente",
+                "year": 2015,
+                "trackNumber": 5,
+                "genre": "Vocal/Easy Listening",
+                "durationMillis": "322000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/gnFNvvI5ofqJyV2yZpxs22xdpoKYoc0XB9lN_82cndQUXuO2JqWj7_7h70lgiKnnoh45vc3dSoc",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 9,
+                "discNumber": 1,
+                "estimatedSize": "12908706",
+                "trackType": "7",
+                "storeId": "Tz3a4tkmuisq5ivkibtqlyt27ge",
+                "albumId": "Blckcixtcrhuejgtvjfbi33nyta",
+                "artistId": [
+                    "Al6hb7tutzdc5cdqffxmosn33um"
+                ],
+                "nid": "z3a4tkmuisq5ivkibtqlyt27ge",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "2bc97161-60a1-38c5-b2a0-8064a99cf30a",
+            "clientId": "acff26ae-d82d-4939-af49-c5eec419c086",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02075258708292324550",
+            "trackId": "Tnqa6kywbqgyc27sfwsytf57nya",
+            "creationTimestamp": "1550785269582719",
+            "lastModifiedTimestamp": "1550785269582719",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Equus",
+                "artist": "Corpo-Mente",
+                "composer": "",
+                "album": "Corpo-Mente",
+                "albumArtist": "Corpo-Mente",
+                "year": 2015,
+                "trackNumber": 7,
+                "genre": "Vocal/Easy Listening",
+                "durationMillis": "167000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/gnFNvvI5ofqJyV2yZpxs22xdpoKYoc0XB9lN_82cndQUXuO2JqWj7_7h70lgiKnnoh45vc3dSoc",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 5,
+                "discNumber": 1,
+                "estimatedSize": "6695743",
+                "trackType": "7",
+                "storeId": "Tnqa6kywbqgyc27sfwsytf57nya",
+                "albumId": "Blckcixtcrhuejgtvjfbi33nyta",
+                "artistId": [
+                    "Al6hb7tutzdc5cdqffxmosn33um"
+                ],
+                "nid": "nqa6kywbqgyc27sfwsytf57nya",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "0c9d547e-325a-3dde-b0ab-80c8751a025f",
+            "clientId": "70a822bd-3bdc-44be-93af-cf414b2b59ba",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02132904783522666898",
+            "trackId": "Td4othqelrjfj2e6tdfxdq2qmoq",
+            "creationTimestamp": "1550785269582719",
+            "lastModifiedTimestamp": "1550785269582719",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Ort",
+                "artist": "Corpo-Mente",
+                "composer": "",
+                "album": "Corpo-Mente",
+                "albumArtist": "Corpo-Mente",
+                "year": 2015,
+                "trackNumber": 8,
+                "genre": "Vocal/Easy Listening",
+                "durationMillis": "237000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/gnFNvvI5ofqJyV2yZpxs22xdpoKYoc0XB9lN_82cndQUXuO2JqWj7_7h70lgiKnnoh45vc3dSoc",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 5,
+                "discNumber": 1,
+                "estimatedSize": "9489800",
+                "trackType": "7",
+                "storeId": "Td4othqelrjfj2e6tdfxdq2qmoq",
+                "albumId": "Blckcixtcrhuejgtvjfbi33nyta",
+                "artistId": [
+                    "Al6hb7tutzdc5cdqffxmosn33um"
+                ],
+                "nid": "d4othqelrjfj2e6tdfxdq2qmoq",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "6ef81249-4676-39c8-9b2d-01566c9c888d",
+            "clientId": "ca9b8836-938f-4abd-99fd-cef0005a9701",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02190550858753009246",
+            "trackId": "Tcabma3flkrnb7hg3k5e7fk75fq",
+            "creationTimestamp": "1550785269582719",
+            "lastModifiedTimestamp": "1550785269582719",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Saelli",
+                "artist": "Corpo-Mente",
+                "composer": "",
+                "album": "Corpo-Mente",
+                "albumArtist": "Corpo-Mente",
+                "year": 2015,
+                "trackNumber": 9,
+                "genre": "Vocal/Easy Listening",
+                "durationMillis": "218000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/gnFNvvI5ofqJyV2yZpxs22xdpoKYoc0XB9lN_82cndQUXuO2JqWj7_7h70lgiKnnoh45vc3dSoc",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "estimatedSize": "8738518",
+                "trackType": "7",
+                "storeId": "Tcabma3flkrnb7hg3k5e7fk75fq",
+                "albumId": "Blckcixtcrhuejgtvjfbi33nyta",
+                "artistId": [
+                    "Al6hb7tutzdc5cdqffxmosn33um"
+                ],
+                "nid": "cabma3flkrnb7hg3k5e7fk75fq",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "aaa0ed85-1308-34d8-8c27-e5b16670ad95",
+            "clientId": "7ff2eec4-205d-423a-82fc-86f32450d397",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02248196933983351594",
+            "trackId": "Tqna6lpvqoz4zxdtoip7p6l33zi",
+            "creationTimestamp": "1550785269582719",
+            "lastModifiedTimestamp": "1550785269582719",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Encell",
+                "artist": "Corpo-Mente",
+                "composer": "",
+                "album": "Corpo-Mente",
+                "albumArtist": "Corpo-Mente",
+                "year": 2015,
+                "trackNumber": 10,
+                "genre": "Vocal/Easy Listening",
+                "durationMillis": "193000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/gnFNvvI5ofqJyV2yZpxs22xdpoKYoc0XB9lN_82cndQUXuO2JqWj7_7h70lgiKnnoh45vc3dSoc",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/I7qTaFKn14VJGyYBhITXEjIAllr_W130DwBMUp57-ebCYDirIdebXIdOYEr2LBmGJz4Yf5jGQNE",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 5,
+                "discNumber": 1,
+                "estimatedSize": "7759449",
+                "trackType": "7",
+                "storeId": "Tqna6lpvqoz4zxdtoip7p6l33zi",
+                "albumId": "Blckcixtcrhuejgtvjfbi33nyta",
+                "artistId": [
+                    "Al6hb7tutzdc5cdqffxmosn33um"
+                ],
+                "nid": "qna6lpvqoz4zxdtoip7p6l33zi",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "4698a38a-da9e-3082-8980-6c7bf183fc8e",
+            "clientId": "9b7a81d0-9c3b-43dc-a2ec-0387ec658734",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02277019971598522771",
+            "trackId": "Tyynpdaviwmes4huator2htoria",
+            "creationTimestamp": "1585767378976895",
+            "lastModifiedTimestamp": "1585767378976895",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Heavy Metal",
+                "artist": "Justice",
+                "composer": "",
+                "album": "Woman",
+                "albumArtist": "Justice",
+                "year": 2016,
+                "trackNumber": 8,
+                "genre": "Dance/Electronic",
+                "durationMillis": "270000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/a7A7soPE7ygn8mm-cziojTL5x44rRH-JgBjaR37w_QvoZ8VK5lQz2ptAxG5WHaN-CX6V76r_MLM",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/riRKzxnH3r8h-9ze9CFVWd56GPpS4C_43XI-LngeZLDpCSizAhQmLtVtIeXUfosc8rQdwB1sSw",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/If3rUeHjTcto5f4UX3wbiLeLnPWfAQql9JAAH51CX7DwGljqXnhIMhDZC_gdrKYCa4DZTBfY3nw",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 1,
+                "discNumber": 1,
+                "estimatedSize": "10836663",
+                "trackType": "7",
+                "storeId": "Tyynpdaviwmes4huator2htoria",
+                "albumId": "Bmbitwf3sp57fboxea7lny4wemi",
+                "artistId": [
+                    "Atonnrylb4r2o3qmen7sqjhkbc4"
+                ],
+                "nid": "yynpdaviwmes4huator2htoria",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "e38be256-ae2b-3880-9011-23f429792d3c",
+            "clientId": "23abb414-392c-40e4-8387-3cc934600d42",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02278941507439534182",
+            "trackId": "T422c2emeepf2hnak7hx2oyur4u",
+            "creationTimestamp": "1586274543024961",
+            "lastModifiedTimestamp": "1586274543024961",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Downgrade Desert",
+                "artist": "Igorrr",
+                "composer": "",
+                "album": "Spirituality and Distortion",
+                "albumArtist": "Igorrr",
+                "year": 2020,
+                "trackNumber": 1,
+                "genre": "Metal",
+                "durationMillis": "263000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/lj6GsLK6kbzI2LzsBVLLHK_X0jfIm07TJ6ehSnmNJGb4N-ix6KlsvX00V_LJ17mqwDUySt0GdA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/RvvjYwz65QcJEVYtD6Fk8W-bPDOjHHY2dYtBHuFPoYMhDKALCTVqhQx8qtL-v_cr_UQXyTPI",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/nM8tfywJViNEdEqNkK4-ftKFY3yS-SnjIucl5-0tUjM-BRhGFYt4SX3JbhKbLfEgfHfn0jQI",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "estimatedSize": "10543057",
+                "trackType": "7",
+                "storeId": "T422c2emeepf2hnak7hx2oyur4u",
+                "albumId": "Bwz2itbjalon6zbusxdhjaf2yly",
+                "artistId": [
+                    "Af3aacwmonuvqnglj454wxwg36y"
+                ],
+                "nid": "422c2emeepf2hnak7hx2oyur4u",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "78b2e742-e185-32a8-85d4-0635c89be292",
+            "clientId": "f6ddc75a-1060-46e6-97b7-55a843f53381",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02280863043280545593",
+            "trackId": "Tsbw5qztdzn6it5256xbtctkgpu",
+            "creationTimestamp": "1586274543024961",
+            "lastModifiedTimestamp": "1586274543024961",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Nervous Waltz",
+                "artist": "Igorrr",
+                "composer": "",
+                "album": "Spirituality and Distortion",
+                "albumArtist": "Igorrr",
+                "year": 2020,
+                "trackNumber": 2,
+                "genre": "Metal",
+                "durationMillis": "203000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/lj6GsLK6kbzI2LzsBVLLHK_X0jfIm07TJ6ehSnmNJGb4N-ix6KlsvX00V_LJ17mqwDUySt0GdA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/RvvjYwz65QcJEVYtD6Fk8W-bPDOjHHY2dYtBHuFPoYMhDKALCTVqhQx8qtL-v_cr_UQXyTPI",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/nM8tfywJViNEdEqNkK4-ftKFY3yS-SnjIucl5-0tUjM-BRhGFYt4SX3JbhKbLfEgfHfn0jQI",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "estimatedSize": "8130388",
+                "trackType": "7",
+                "storeId": "Tsbw5qztdzn6it5256xbtctkgpu",
+                "albumId": "Bwz2itbjalon6zbusxdhjaf2yly",
+                "artistId": [
+                    "Af3aacwmonuvqnglj454wxwg36y"
+                ],
+                "nid": "sbw5qztdzn6it5256xbtctkgpu",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "dee99cf6-c8bf-3e46-a6c1-eff840dba92e",
+            "clientId": "1b636ca7-f3ba-402f-a1fb-b017c4758281",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02282784579121557004",
+            "trackId": "Tnc3gvsxrnji7d3goxl3c37ltte",
+            "creationTimestamp": "1586274543024961",
+            "lastModifiedTimestamp": "1586274543024961",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Very Noise",
+                "artist": "Igorrr",
+                "composer": "",
+                "album": "Spirituality and Distortion",
+                "albumArtist": "Igorrr",
+                "year": 2020,
+                "trackNumber": 3,
+                "genre": "Metal",
+                "durationMillis": "107000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/lj6GsLK6kbzI2LzsBVLLHK_X0jfIm07TJ6ehSnmNJGb4N-ix6KlsvX00V_LJ17mqwDUySt0GdA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/RvvjYwz65QcJEVYtD6Fk8W-bPDOjHHY2dYtBHuFPoYMhDKALCTVqhQx8qtL-v_cr_UQXyTPI",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/nM8tfywJViNEdEqNkK4-ftKFY3yS-SnjIucl5-0tUjM-BRhGFYt4SX3JbhKbLfEgfHfn0jQI",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "estimatedSize": "4288298",
+                "trackType": "7",
+                "storeId": "Tnc3gvsxrnji7d3goxl3c37ltte",
+                "albumId": "Bwz2itbjalon6zbusxdhjaf2yly",
+                "artistId": [
+                    "Af3aacwmonuvqnglj454wxwg36y"
+                ],
+                "nid": "nc3gvsxrnji7d3goxl3c37ltte",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "fae364b6-a23e-302b-b997-37cc861811db",
+            "clientId": "d86bbd85-aafb-4d8b-8bac-ec040a3a6720",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02284706114962568415",
+            "trackId": "Tdaesducmma3e3wrnr6nv7vyu5q",
+            "creationTimestamp": "1586274543024961",
+            "lastModifiedTimestamp": "1586274543024961",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Hollow Tree",
+                "artist": "Igorrr",
+                "composer": "",
+                "album": "Spirituality and Distortion",
+                "albumArtist": "Igorrr",
+                "year": 2020,
+                "trackNumber": 4,
+                "genre": "Metal",
+                "durationMillis": "186000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/lj6GsLK6kbzI2LzsBVLLHK_X0jfIm07TJ6ehSnmNJGb4N-ix6KlsvX00V_LJ17mqwDUySt0GdA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/RvvjYwz65QcJEVYtD6Fk8W-bPDOjHHY2dYtBHuFPoYMhDKALCTVqhQx8qtL-v_cr_UQXyTPI",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/nM8tfywJViNEdEqNkK4-ftKFY3yS-SnjIucl5-0tUjM-BRhGFYt4SX3JbhKbLfEgfHfn0jQI",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "estimatedSize": "7462698",
+                "trackType": "7",
+                "storeId": "Tdaesducmma3e3wrnr6nv7vyu5q",
+                "albumId": "Bwz2itbjalon6zbusxdhjaf2yly",
+                "artistId": [
+                    "Af3aacwmonuvqnglj454wxwg36y"
+                ],
+                "nid": "daesducmma3e3wrnr6nv7vyu5q",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "3cdc6678-333d-34d1-a7b1-6478faf6f40d",
+            "clientId": "01d26654-e5f7-4f79-b033-c98eddc28a3a",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02286627650803579826",
+            "trackId": "Tpkrx7fhdxfyb3uvatsumr2ptlm",
+            "creationTimestamp": "1586274543024961",
+            "lastModifiedTimestamp": "1586274543024961",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Camel Dancefloor",
+                "artist": "Igorrr",
+                "composer": "",
+                "album": "Spirituality and Distortion",
+                "albumArtist": "Igorrr",
+                "year": 2020,
+                "trackNumber": 5,
+                "genre": "Metal",
+                "durationMillis": "193000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/lj6GsLK6kbzI2LzsBVLLHK_X0jfIm07TJ6ehSnmNJGb4N-ix6KlsvX00V_LJ17mqwDUySt0GdA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/RvvjYwz65QcJEVYtD6Fk8W-bPDOjHHY2dYtBHuFPoYMhDKALCTVqhQx8qtL-v_cr_UQXyTPI",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/nM8tfywJViNEdEqNkK4-ftKFY3yS-SnjIucl5-0tUjM-BRhGFYt4SX3JbhKbLfEgfHfn0jQI",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "estimatedSize": "7724967",
+                "trackType": "7",
+                "storeId": "Tpkrx7fhdxfyb3uvatsumr2ptlm",
+                "albumId": "Bwz2itbjalon6zbusxdhjaf2yly",
+                "artistId": [
+                    "Af3aacwmonuvqnglj454wxwg36y"
+                ],
+                "nid": "pkrx7fhdxfyb3uvatsumr2ptlm",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "15c49532-febf-330a-824b-b63959e1bc6e",
+            "clientId": "e532b1f0-c416-42f5-8bf6-d17d505958db",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02288549186644591237",
+            "trackId": "Ttu3vbeag7gttht47dxp3p57vcq",
+            "creationTimestamp": "1586274543024961",
+            "lastModifiedTimestamp": "1586274543024961",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Parpaing (feat. George \"Corpsegrinder\" Fisher)",
+                "artist": "Igorrr",
+                "composer": "",
+                "album": "Spirituality and Distortion",
+                "albumArtist": "Igorrr",
+                "year": 2020,
+                "trackNumber": 6,
+                "genre": "Metal",
+                "durationMillis": "216000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/lj6GsLK6kbzI2LzsBVLLHK_X0jfIm07TJ6ehSnmNJGb4N-ix6KlsvX00V_LJ17mqwDUySt0GdA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/RvvjYwz65QcJEVYtD6Fk8W-bPDOjHHY2dYtBHuFPoYMhDKALCTVqhQx8qtL-v_cr_UQXyTPI",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/nM8tfywJViNEdEqNkK4-ftKFY3yS-SnjIucl5-0tUjM-BRhGFYt4SX3JbhKbLfEgfHfn0jQI",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "estimatedSize": "8660151",
+                "trackType": "7",
+                "storeId": "Ttu3vbeag7gttht47dxp3p57vcq",
+                "albumId": "Bwz2itbjalon6zbusxdhjaf2yly",
+                "artistId": [
+                    "Af3aacwmonuvqnglj454wxwg36y",
+                    "A5edgez2biltsigu5jyoqfmaihy"
+                ],
+                "nid": "tu3vbeag7gttht47dxp3p57vcq",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "66080333-4abf-3ac5-b025-89aa3852b554",
+            "clientId": "b4f23260-a90a-4c4b-9166-83be6a48917e",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02290470722485602648",
+            "trackId": "Tvlxybgqqxjchmac4pevih7dvhq",
+            "creationTimestamp": "1586274543024961",
+            "lastModifiedTimestamp": "1586274543024961",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Musette Maximum",
+                "artist": "Igorrr",
+                "composer": "",
+                "album": "Spirituality and Distortion",
+                "albumArtist": "Igorrr",
+                "year": 2020,
+                "trackNumber": 7,
+                "genre": "Metal",
+                "durationMillis": "138000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/lj6GsLK6kbzI2LzsBVLLHK_X0jfIm07TJ6ehSnmNJGb4N-ix6KlsvX00V_LJ17mqwDUySt0GdA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/RvvjYwz65QcJEVYtD6Fk8W-bPDOjHHY2dYtBHuFPoYMhDKALCTVqhQx8qtL-v_cr_UQXyTPI",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/nM8tfywJViNEdEqNkK4-ftKFY3yS-SnjIucl5-0tUjM-BRhGFYt4SX3JbhKbLfEgfHfn0jQI",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "estimatedSize": "5544265",
+                "trackType": "7",
+                "storeId": "Tvlxybgqqxjchmac4pevih7dvhq",
+                "albumId": "Bwz2itbjalon6zbusxdhjaf2yly",
+                "artistId": [
+                    "Af3aacwmonuvqnglj454wxwg36y"
+                ],
+                "nid": "vlxybgqqxjchmac4pevih7dvhq",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "8314aec0-ce82-3fbb-a913-d0e97382ec1e",
+            "clientId": "f93af102-b153-45f0-b932-8d6524b3e948",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02292392258326614059",
+            "trackId": "Togg2j56pcmyfoih565gzd4akxm",
+            "creationTimestamp": "1586274543024961",
+            "lastModifiedTimestamp": "1586274543024961",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Himalaya Massive Ritual",
+                "artist": "Igorrr",
+                "composer": "",
+                "album": "Spirituality and Distortion",
+                "albumArtist": "Igorrr",
+                "year": 2020,
+                "trackNumber": 8,
+                "genre": "Metal",
+                "durationMillis": "426000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/lj6GsLK6kbzI2LzsBVLLHK_X0jfIm07TJ6ehSnmNJGb4N-ix6KlsvX00V_LJ17mqwDUySt0GdA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/RvvjYwz65QcJEVYtD6Fk8W-bPDOjHHY2dYtBHuFPoYMhDKALCTVqhQx8qtL-v_cr_UQXyTPI",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/nM8tfywJViNEdEqNkK4-ftKFY3yS-SnjIucl5-0tUjM-BRhGFYt4SX3JbhKbLfEgfHfn0jQI",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "estimatedSize": "17048592",
+                "trackType": "7",
+                "storeId": "Togg2j56pcmyfoih565gzd4akxm",
+                "albumId": "Bwz2itbjalon6zbusxdhjaf2yly",
+                "artistId": [
+                    "Af3aacwmonuvqnglj454wxwg36y"
+                ],
+                "nid": "ogg2j56pcmyfoih565gzd4akxm",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "7f2bccf0-f816-3ab6-a6f3-2b03461afd43",
+            "clientId": "347dce5c-d67f-4066-85b8-9a403a5c8155",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02294313794167625470",
+            "trackId": "Tz6znuudayy2ldwnjk6n3alw7ii",
+            "creationTimestamp": "1586274543024961",
+            "lastModifiedTimestamp": "1586274543024961",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Lost in Introspection",
+                "artist": "Igorrr",
+                "composer": "",
+                "album": "Spirituality and Distortion",
+                "albumArtist": "Igorrr",
+                "year": 2020,
+                "trackNumber": 9,
+                "genre": "Metal",
+                "durationMillis": "296000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/lj6GsLK6kbzI2LzsBVLLHK_X0jfIm07TJ6ehSnmNJGb4N-ix6KlsvX00V_LJ17mqwDUySt0GdA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/RvvjYwz65QcJEVYtD6Fk8W-bPDOjHHY2dYtBHuFPoYMhDKALCTVqhQx8qtL-v_cr_UQXyTPI",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/nM8tfywJViNEdEqNkK4-ftKFY3yS-SnjIucl5-0tUjM-BRhGFYt4SX3JbhKbLfEgfHfn0jQI",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "estimatedSize": "11864853",
+                "trackType": "7",
+                "storeId": "Tz6znuudayy2ldwnjk6n3alw7ii",
+                "albumId": "Bwz2itbjalon6zbusxdhjaf2yly",
+                "artistId": [
+                    "Af3aacwmonuvqnglj454wxwg36y"
+                ],
+                "nid": "z6znuudayy2ldwnjk6n3alw7ii",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "e34fdd6c-9a46-313e-bc0c-6e428c6de311",
+            "clientId": "a00b0f4c-6672-4ef7-ac6c-b4a54e6afa89",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02296235330008636881",
+            "trackId": "Tkqvhv62qohfgnu5extrcs5rzjm",
+            "creationTimestamp": "1586274543024961",
+            "lastModifiedTimestamp": "1586274543024961",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Overweight Poesy",
+                "artist": "Igorrr",
+                "composer": "",
+                "album": "Spirituality and Distortion",
+                "albumArtist": "Igorrr",
+                "year": 2020,
+                "trackNumber": 10,
+                "genre": "Metal",
+                "durationMillis": "350000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/lj6GsLK6kbzI2LzsBVLLHK_X0jfIm07TJ6ehSnmNJGb4N-ix6KlsvX00V_LJ17mqwDUySt0GdA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/RvvjYwz65QcJEVYtD6Fk8W-bPDOjHHY2dYtBHuFPoYMhDKALCTVqhQx8qtL-v_cr_UQXyTPI",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/nM8tfywJViNEdEqNkK4-ftKFY3yS-SnjIucl5-0tUjM-BRhGFYt4SX3JbhKbLfEgfHfn0jQI",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "estimatedSize": "14004804",
+                "trackType": "7",
+                "storeId": "Tkqvhv62qohfgnu5extrcs5rzjm",
+                "albumId": "Bwz2itbjalon6zbusxdhjaf2yly",
+                "artistId": [
+                    "Af3aacwmonuvqnglj454wxwg36y"
+                ],
+                "nid": "kqvhv62qohfgnu5extrcs5rzjm",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "9dc779da-a1f6-3f59-aa3f-a63214e3a6a6",
+            "clientId": "d86b103d-0adb-4e74-8909-b4536825d8dd",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02298156865849648292",
+            "trackId": "T72rlaidshuekrgsr3npxvk3tbm",
+            "creationTimestamp": "1586274543024961",
+            "lastModifiedTimestamp": "1586274543024961",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Paranoid Bulldozer Italiano",
+                "artist": "Igorrr",
+                "composer": "",
+                "album": "Spirituality and Distortion",
+                "albumArtist": "Igorrr",
+                "year": 2020,
+                "trackNumber": 11,
+                "genre": "Metal",
+                "durationMillis": "227000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/lj6GsLK6kbzI2LzsBVLLHK_X0jfIm07TJ6ehSnmNJGb4N-ix6KlsvX00V_LJ17mqwDUySt0GdA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/RvvjYwz65QcJEVYtD6Fk8W-bPDOjHHY2dYtBHuFPoYMhDKALCTVqhQx8qtL-v_cr_UQXyTPI",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/nM8tfywJViNEdEqNkK4-ftKFY3yS-SnjIucl5-0tUjM-BRhGFYt4SX3JbhKbLfEgfHfn0jQI",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "rating": "5",
+                "estimatedSize": "9113637",
+                "trackType": "7",
+                "storeId": "T72rlaidshuekrgsr3npxvk3tbm",
+                "albumId": "Bwz2itbjalon6zbusxdhjaf2yly",
+                "artistId": [
+                    "Af3aacwmonuvqnglj454wxwg36y"
+                ],
+                "nid": "72rlaidshuekrgsr3npxvk3tbm",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2",
+                "lastRatingChangeTimestamp": "1586274516398000"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "89636562-5a85-3306-8c42-ea2d400d1f5a",
+            "clientId": "5af5e43a-72c7-4dfd-8248-e4e0348ca169",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02300078401690659703",
+            "trackId": "Tzstc3rhy63jd36r25vy6zpnuka",
+            "creationTimestamp": "1586274543024961",
+            "lastModifiedTimestamp": "1586274543024961",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Barocco Satani",
+                "artist": "Igorrr",
+                "composer": "",
+                "album": "Spirituality and Distortion",
+                "albumArtist": "Igorrr",
+                "year": 2020,
+                "trackNumber": 12,
+                "genre": "Metal",
+                "durationMillis": "216000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/lj6GsLK6kbzI2LzsBVLLHK_X0jfIm07TJ6ehSnmNJGb4N-ix6KlsvX00V_LJ17mqwDUySt0GdA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/RvvjYwz65QcJEVYtD6Fk8W-bPDOjHHY2dYtBHuFPoYMhDKALCTVqhQx8qtL-v_cr_UQXyTPI",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/nM8tfywJViNEdEqNkK4-ftKFY3yS-SnjIucl5-0tUjM-BRhGFYt4SX3JbhKbLfEgfHfn0jQI",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "estimatedSize": "8654926",
+                "trackType": "7",
+                "storeId": "Tzstc3rhy63jd36r25vy6zpnuka",
+                "albumId": "Bwz2itbjalon6zbusxdhjaf2yly",
+                "artistId": [
+                    "Af3aacwmonuvqnglj454wxwg36y"
+                ],
+                "nid": "zstc3rhy63jd36r25vy6zpnuka",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "615586e0-8fb4-397a-a31b-a6ada0c88d1f",
+            "clientId": "7eb2d8ad-c34d-46aa-ace1-9d43ea324dc3",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02301999937531671114",
+            "trackId": "T5zsjytkgoap5bx5qhj67vec43q",
+            "creationTimestamp": "1586274543024961",
+            "lastModifiedTimestamp": "1586274543024961",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Polyphonic Rust",
+                "artist": "Igorrr",
+                "composer": "",
+                "album": "Spirituality and Distortion",
+                "albumArtist": "Igorrr",
+                "year": 2020,
+                "trackNumber": 13,
+                "genre": "Metal",
+                "durationMillis": "256000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/lj6GsLK6kbzI2LzsBVLLHK_X0jfIm07TJ6ehSnmNJGb4N-ix6KlsvX00V_LJ17mqwDUySt0GdA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/RvvjYwz65QcJEVYtD6Fk8W-bPDOjHHY2dYtBHuFPoYMhDKALCTVqhQx8qtL-v_cr_UQXyTPI",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/nM8tfywJViNEdEqNkK4-ftKFY3yS-SnjIucl5-0tUjM-BRhGFYt4SX3JbhKbLfEgfHfn0jQI",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 4,
+                "discNumber": 1,
+                "estimatedSize": "10275563",
+                "trackType": "7",
+                "storeId": "T5zsjytkgoap5bx5qhj67vec43q",
+                "albumId": "Bwz2itbjalon6zbusxdhjaf2yly",
+                "artistId": [
+                    "Af3aacwmonuvqnglj454wxwg36y"
+                ],
+                "nid": "5zsjytkgoap5bx5qhj67vec43q",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "6993eead-9e08-33c0-ab78-766b1c9e8b48",
+            "clientId": "3ad2a3a7-5aeb-44b9-90a3-f5d8e90526ec",
+            "playlistId": "530cbb31-91b8-4cb9-84d6-7e9f1367af4e",
+            "absolutePosition": "02303921473372682525",
+            "trackId": "Txbxdk5jlviipn4ueingoq262la",
+            "creationTimestamp": "1586274543024961",
+            "lastModifiedTimestamp": "1586274543024961",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Kung-Fu Che\u0300vre",
+                "artist": "Igorrr",
+                "composer": "",
+                "album": "Spirituality and Distortion",
+                "albumArtist": "Igorrr",
+                "year": 2020,
+                "trackNumber": 14,
+                "genre": "Metal",
+                "durationMillis": "253000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/lj6GsLK6kbzI2LzsBVLLHK_X0jfIm07TJ6ehSnmNJGb4N-ix6KlsvX00V_LJ17mqwDUySt0GdA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/RvvjYwz65QcJEVYtD6Fk8W-bPDOjHHY2dYtBHuFPoYMhDKALCTVqhQx8qtL-v_cr_UQXyTPI",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/nM8tfywJViNEdEqNkK4-ftKFY3yS-SnjIucl5-0tUjM-BRhGFYt4SX3JbhKbLfEgfHfn0jQI",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 4,
+                "discNumber": 1,
+                "estimatedSize": "10143906",
+                "trackType": "7",
+                "storeId": "Txbxdk5jlviipn4ueingoq262la",
+                "albumId": "Bwz2itbjalon6zbusxdhjaf2yly",
+                "artistId": [
+                    "Af3aacwmonuvqnglj454wxwg36y"
+                ],
+                "nid": "xbxdk5jlviipn4ueingoq262la",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1919 @@
+{
+    "kind": "sj#playlist",
+    "id": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+    "creationTimestamp": "1453221781963047",
+    "lastModifiedTimestamp": "1588004487526334",
+    "recentTimestamp": "1529708237116000",
+    "deleted": false,
+    "name": "Chill",
+    "type": "USER_GENERATED",
+    "shareToken": "AMaBXymz5-HyhpteMxz-l1ryLdKioL9GbP-R5wu1vn7CuLhCgkTsbGgTKUpVcppDFXwkbo6K4rmVk8tf8LL--duJGgZJq-UDbQ==",
+    "ownerName": "JD Clark",
+    "description": "",
+    "accessControlled": false,
+    "tracks": [
+        {
+            "kind": "sj#playlistEntry",
+            "id": "6a42e3d4-1c5e-3cbe-a8bb-03f313c1a77f",
+            "clientId": "6ea4a552-d0c9-4c7b-8c72-94b80f5624d0",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02017612633061982205",
+            "trackId": "8474f72a-48b9-3113-8560-4209380b5c5d",
+            "creationTimestamp": "1453241697976847",
+            "lastModifiedTimestamp": "1453241697976847",
+            "deleted": false,
+            "source": "1"
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "962cdd1e-c404-35d1-98ae-04367bb1f11c",
+            "clientId": "ed178378-6f2d-4f5b-b1e4-38d499462e6d",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02161727821137838077",
+            "trackId": "Txurbdpyyter6c54vpcfrghokd4",
+            "creationTimestamp": "1455731592561430",
+            "lastModifiedTimestamp": "1455731592561430",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "No Regrets",
+                "artist": "Mike Love",
+                "composer": "",
+                "album": "Love Will Find a Way",
+                "albumArtist": "Mike Love",
+                "year": 2015,
+                "trackNumber": 7,
+                "genre": "Reggae",
+                "durationMillis": "302000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/Bn2k7nIOBeljybNRwHLWydwEQ5na9qE1nkFDDAYLcLPrJisMYhY-Q58-DrDO9bMQ1zYxL0RMEA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/Ene5pGObXl5ZBpODfx1ol-whpKosM9-OhoBuJ9XXbe-4NG5Z4k-6LcjuskO_HiVZ1tlKlg7Mfw",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.ggpht.com/m49fRUUv9jvxZEkI8N_SIp2bHjDB387mVpXvFYNSUGoQMm9mz_c7cc7v7qDk9Mtgimj6ltXz",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 4,
+                "discNumber": 1,
+                "estimatedSize": "12085316",
+                "trackType": "7",
+                "storeId": "Txurbdpyyter6c54vpcfrghokd4",
+                "albumId": "Ba2gq5rt546g2twlrm2exb5qogu",
+                "artistId": [
+                    "Az5ffo6cjtc67dln3oayc24t6qi"
+                ],
+                "nid": "xurbdpyyter6c54vpcfrghokd4",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "78c27199-8632-3f2f-ad5c-b88aa6a62686",
+            "clientId": "e9ec401f-210b-4738-9f18-cc298ec6dd98",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02233785415175766013",
+            "trackId": "Tpyenbiq2ylaqqugtt4fp7pz7xy",
+            "creationTimestamp": "1455732100563231",
+            "lastModifiedTimestamp": "1455732100563231",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Butterflies and Beefstew",
+                "artist": "Mike Love",
+                "composer": "",
+                "album": "The Change I'm Seeking",
+                "albumArtist": "Mike Love",
+                "year": 2012,
+                "trackNumber": 5,
+                "genre": "Reggae",
+                "durationMillis": "281000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.ggpht.com/m49fRUUv9jvxZEkI8N_SIp2bHjDB387mVpXvFYNSUGoQMm9mz_c7cc7v7qDk9Mtgimj6ltXz",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/Ene5pGObXl5ZBpODfx1ol-whpKosM9-OhoBuJ9XXbe-4NG5Z4k-6LcjuskO_HiVZ1tlKlg7Mfw",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.ggpht.com/m49fRUUv9jvxZEkI8N_SIp2bHjDB387mVpXvFYNSUGoQMm9mz_c7cc7v7qDk9Mtgimj6ltXz",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 3,
+                "discNumber": 1,
+                "estimatedSize": "11269256",
+                "trackType": "7",
+                "storeId": "Tpyenbiq2ylaqqugtt4fp7pz7xy",
+                "albumId": "Bm2vdyjltztx76mfjkk65ovhm4q",
+                "artistId": [
+                    "Az5ffo6cjtc67dln3oayc24t6qi"
+                ],
+                "nid": "pyenbiq2ylaqqugtt4fp7pz7xy",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "b1e62e06-1ed8-304c-820b-5deadbeb480c",
+            "clientId": "1d24ea35-6b7c-4bb8-9d5f-ae23b1e2277b",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02269814212194729981",
+            "trackId": "Tpc3762qv7luxuiyumaym6krkmy",
+            "creationTimestamp": "1455734009951713",
+            "lastModifiedTimestamp": "1455734009951713",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "I Love You",
+                "artist": "Mike Love",
+                "composer": "",
+                "album": "Love Will Find a Way",
+                "albumArtist": "Mike Love",
+                "year": 2015,
+                "trackNumber": 5,
+                "genre": "Reggae",
+                "durationMillis": "295000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/Bn2k7nIOBeljybNRwHLWydwEQ5na9qE1nkFDDAYLcLPrJisMYhY-Q58-DrDO9bMQ1zYxL0RMEA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/Ene5pGObXl5ZBpODfx1ol-whpKosM9-OhoBuJ9XXbe-4NG5Z4k-6LcjuskO_HiVZ1tlKlg7Mfw",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.ggpht.com/m49fRUUv9jvxZEkI8N_SIp2bHjDB387mVpXvFYNSUGoQMm9mz_c7cc7v7qDk9Mtgimj6ltXz",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 5,
+                "discNumber": 1,
+                "estimatedSize": "11811553",
+                "trackType": "7",
+                "storeId": "Tpc3762qv7luxuiyumaym6krkmy",
+                "albumId": "Ba2gq5rt546g2twlrm2exb5qogu",
+                "artistId": [
+                    "Az5ffo6cjtc67dln3oayc24t6qi"
+                ],
+                "nid": "pc3762qv7luxuiyumaym6krkmy",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "1124ffcd-8a96-3589-8261-c697f2f8939f",
+            "clientId": "98ef1e60-1e5b-48eb-ad42-c405d184efd1",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02287828610704211965",
+            "trackId": "594348a1-5e9b-3e4c-b4d0-3b940875f2a9",
+            "creationTimestamp": "1457201206446607",
+            "lastModifiedTimestamp": "1457201206446607",
+            "deleted": false,
+            "source": "1"
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "46f94c9b-e1c8-37b9-9c44-d5bae1666fa2",
+            "clientId": "a9752fe1-2839-4367-a0f2-b4f1e1c03c59",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02296835809958952957",
+            "trackId": "Tpdet2ujnzt5bpfklu4ubszfctm",
+            "creationTimestamp": "1457377654753038",
+            "lastModifiedTimestamp": "1457377654753038",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Rosita",
+                "artist": "Kraft, Norbert",
+                "composer": "Francisco Tarrega",
+                "album": "19th Century Guitar Favourites",
+                "albumArtist": "Norbert Kraft",
+                "year": 1994,
+                "trackNumber": 19,
+                "genre": "Classical",
+                "durationMillis": "90000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh4.ggpht.com/7xHjDO_-0iYv0FVuQ-BXPEm3OlSFJOV-70npJyHyk4JeE2E9YeofOyFQ5PRAo6SSNWZYpyEq9Q",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/7raGGXXVbHkD4jC7oLacdZMqzoRoUiTAF6rIK7SrjiRdO7ShsLFwggc2a-Q6aCJU73favw5YxQg",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh4.ggpht.com/7xHjDO_-0iYv0FVuQ-BXPEm3OlSFJOV-70npJyHyk4JeE2E9YeofOyFQ5PRAo6SSNWZYpyEq9Q",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 7,
+                "discNumber": 1,
+                "estimatedSize": "3641501",
+                "trackType": "7",
+                "storeId": "Tpdet2ujnzt5bpfklu4ubszfctm",
+                "albumId": "Bxvcfwyh7soqdyxq5huqn76ytua",
+                "artistId": [
+                    "Areusfu72bt2mcapltvuooyzuu4",
+                    "Algvj3odshm4kf2nlfss7pmh734"
+                ],
+                "nid": "pdet2ujnzt5bpfklu4ubszfctm",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "6f85337f-6fab-36ef-9834-742063270bb9",
+            "clientId": "e3f8872a-509a-4401-ad9c-29ccc1b7b352",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02301339409586323453",
+            "trackId": "Tuj2mtyaew4zczykbjibfcjn27a",
+            "creationTimestamp": "1457456761813244",
+            "lastModifiedTimestamp": "1457456761813244",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Julio Sagreras: Cantil\u00e8ne",
+                "artist": "Guy Lukowski, Philippe Lemaigre",
+                "composer": "Julio Sagreras",
+                "album": "Divertimento pour 2 guitares",
+                "albumArtist": "Guy Lukowski, Philippe Lemaigre",
+                "year": 2009,
+                "trackNumber": 16,
+                "genre": "Classical",
+                "durationMillis": "141000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh5.ggpht.com/0FQU4eoi0mHY2CHDTk7CNkFczzRrhdkLWsf0ZuFpC8ZNXG5tNsdPYS6VxEMI3g77ECArMVR7",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/UK7LECrWj_CKF6SAHyH8l07R9wvq3W6qR0fzbRqdgoprKd5UsrL8vUzNssry_J82wVzLh7T58Q",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh5.ggpht.com/z_PV8_HQYIjk9Kd9kHMawixlSjzzK3Ou-Is9cVvxG226xbeqG-NOky2-tZkGePHKcxwJjMAXUA",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 9,
+                "discNumber": 1,
+                "estimatedSize": "5653970",
+                "trackType": "7",
+                "storeId": "Tuj2mtyaew4zczykbjibfcjn27a",
+                "albumId": "Bz4swuwt327pgympnuwpbjqjw5m",
+                "artistId": [
+                    "Aovfwmb47nnq5pa5zlqixidc7yy",
+                    "Akh5uu45ez5773lbilwvyhijeua",
+                    "Abynjeurrpvmn25bndv37yadm2m",
+                    "A5zdsfmu25jp6rhhbbwns6bxypi",
+                    "Abhcegxiczwwj5cx3bn6rplcnau"
+                ],
+                "nid": "uj2mtyaew4zczykbjibfcjn27a",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "2ffa7ace-84af-3686-a40f-d62fc9412a0e",
+            "clientId": "3d937357-dc54-41d7-88ce-9d005314e9b4",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02303591209400008701",
+            "trackId": "Tjwnranedl6wnliy6j26wpbdypu",
+            "creationTimestamp": "1457457354904200",
+            "lastModifiedTimestamp": "1457457354904200",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "La Maja de Goya",
+                "artist": "David Jaggs",
+                "composer": "Enrique Granados",
+                "album": "Spanish Guitar Encores",
+                "albumArtist": "David Jaggs",
+                "year": 2011,
+                "trackNumber": 21,
+                "genre": "Classical",
+                "durationMillis": "239000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh4.ggpht.com/EjxuT5ipi_xGsh_AVClNGWmckJu3RSWKXlenZivSdUihMWI9Tyz2tS0topNgL6JmAWdyX2cTUA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/HGuPe5PBGG6zuReJUDLhxIWvMyns8--DnCUBlLQx49sKS93-gB6j_QKkc-UoB2OUdy2WLRmOKVY",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh4.ggpht.com/EjxuT5ipi_xGsh_AVClNGWmckJu3RSWKXlenZivSdUihMWI9Tyz2tS0topNgL6JmAWdyX2cTUA",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "estimatedSize": "9583831",
+                "trackType": "7",
+                "storeId": "Tjwnranedl6wnliy6j26wpbdypu",
+                "albumId": "Bcdnipce2ixmxdvpxclxlw2hxbq",
+                "artistId": [
+                    "Ajixzhegr4h5wcjlwxeyrppsbhy",
+                    "Audlceh46onvnltop4wciinfnxq"
+                ],
+                "nid": "jwnranedl6wnliy6j26wpbdypu",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "f28a23a0-b889-3ec8-bdf0-78293c50379c",
+            "clientId": "57fde7e9-e640-40c0-b1d8-d2ba5e7a79e2",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02304717109306851325",
+            "trackId": "T3xxz3bolwxvynewqfh62yhv6sm",
+            "creationTimestamp": "1457457570826908",
+            "lastModifiedTimestamp": "1457457570826908",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "El Fuego (Flamenco)",
+                "artist": "Spanish Guitar Frasquito El Perete",
+                "composer": "",
+                "album": "Spanish Flamenco Guitar",
+                "albumArtist": "Spanish Guitar Frasquito El Perete",
+                "year": 2010,
+                "trackNumber": 4,
+                "genre": "Latin",
+                "durationMillis": "214000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.ggpht.com/_wQe8qTZJVuSTVKquMbxWxVNSSyOkhQCgYi-iubqtWW_lmZl6Rt1Bf6AxevO8kQIU79niBGQFoo",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/jlKdlvmRgnUuJ9sFskKFYyVFv_30vGPey8giwPp8awOugTb2tBqAOZE3xz1Oa3ALKvd96ZXr0A",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.ggpht.com/_wQe8qTZJVuSTVKquMbxWxVNSSyOkhQCgYi-iubqtWW_lmZl6Rt1Bf6AxevO8kQIU79niBGQFoo",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 8,
+                "discNumber": 1,
+                "estimatedSize": "8561926",
+                "trackType": "7",
+                "storeId": "T3xxz3bolwxvynewqfh62yhv6sm",
+                "albumId": "B3rxsynfoai4gc5aabzumzuga6y",
+                "artistId": [
+                    "Aund5qmwtcql334cem4t35nlvyu"
+                ],
+                "nid": "3xxz3bolwxvynewqfh62yhv6sm",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "521894a7-7399-30df-b964-bd4706f16507",
+            "clientId": "e70e813f-09ef-4969-b5b7-c6e733f1f13b",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305280059260272637",
+            "trackId": "Tceo6y6jw42uf3vlhqb74ip3hnu",
+            "creationTimestamp": "1457460142017583",
+            "lastModifiedTimestamp": "1457460142017583",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Recuerdos de la Alhambra",
+                "artist": "Los Romeros",
+                "composer": "Francisco T\u00e1rrega",
+                "album": "Celebration",
+                "albumArtist": "Los Romeros",
+                "year": 2009,
+                "trackNumber": 2,
+                "genre": "Classical",
+                "durationMillis": "316000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/ggVZJDFhUW1HQrbkw4vyOZgNhfb_AIehAlm29nU9q3w6FklTv6awHl8nGkoIBD0ks5AIJ1kpNIg",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/YT8Ho1NBwMI9kP_xeg6o4Pect09b8i35uGbaIIrPGlwUfLx-srvKXpG_mqy8A60_UGBbfyMjJw",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/wvtPl2ZpQs-N88rzMEvUgwzYNLLpWbNb8OKicIsw5SLLnPZPXZb_QX3QMgDQSu9aPB60vhOWFg",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 17,
+                "discNumber": 1,
+                "estimatedSize": "12649561",
+                "trackType": "7",
+                "storeId": "Tceo6y6jw42uf3vlhqb74ip3hnu",
+                "albumId": "Bd72t4i37pkif2ouhcpx54pqb7y",
+                "artistId": [
+                    "Ahlgi33knbd6rxarmylaxq5ltpi",
+                    "Algvj3odshm4kf2nlfss7pmh734",
+                    "Ab2u2k4w7kvzkrpx7fuiyxl7wg4",
+                    "Aj5swvtyupnfmt6m2ntprwynyqi",
+                    "A2rsvmpwg3kacp2ah4b4zwdv3li"
+                ],
+                "nid": "ceo6y6jw42uf3vlhqb74ip3hnu",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "4226b9cc-0649-3563-9891-5f555ddf2833",
+            "clientId": "4d98966b-cd10-49e6-8435-5853f4bf3ab4",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305561534236983293",
+            "trackId": "826e8716-ca75-398f-8cd6-7f127ece5f61",
+            "creationTimestamp": "1473902607075175",
+            "lastModifiedTimestamp": "1473902607075175",
+            "deleted": false,
+            "source": "1"
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "cb37de49-8ce4-3dfb-8446-29a78d40879e",
+            "clientId": "96bfe6c2-869f-4d41-af45-fbad0812afc7",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305772640469516285",
+            "trackId": "bfa39ce5-d520-3b2e-b65f-39af9572f430",
+            "creationTimestamp": "1483114020091399",
+            "lastModifiedTimestamp": "1483114020091399",
+            "deleted": false,
+            "source": "1"
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "ddfc9458-d207-3c79-8896-3a3d88da4575",
+            "clientId": "ec09c672-bd4c-4825-b813-19d946fecd0b",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305837145151679143",
+            "trackId": "T2crvcveavr2ywouwbvikn45cte",
+            "creationTimestamp": "1507000091465126",
+            "lastModifiedTimestamp": "1507000091465126",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Granada",
+                "artist": "Jason Vieaux",
+                "composer": "Isaac Albeniz",
+                "album": "Sevilla",
+                "albumArtist": "Jason Vieaux",
+                "year": 2003,
+                "trackNumber": 5,
+                "genre": "Classical",
+                "durationMillis": "309000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.ggpht.com/L1zApq-BZloHJcErxY1THQLO4b5rfYQGcwSaZQd__BWse8wWJ9779e_-llkFET3bnN_9Nxzzsw",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/zG-SZnnjgUgPRr-Hp9H72O_iDn516TUeYKFAyuj8467x107irlBJLuRu4DJVPeYnjjEhmg5_WA",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh5.ggpht.com/bZw_MiIAdNdTJ-Ks9WsULQ7ZhI_1b0xj1vNkC78gpiYxaMGPmAzsrRJLKCv3v9EWB8dl-VHjMMo",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "discNumber": 1,
+                "estimatedSize": "12481336",
+                "trackType": "7",
+                "storeId": "T2crvcveavr2ywouwbvikn45cte",
+                "albumId": "Bhukaxclgokmo22zakk3r2npbba",
+                "artistId": [
+                    "Abwna6jktfjkunkz45ceqifpvnm",
+                    "Azq2rpw4qpz3u3kgylwrup7gmoi"
+                ],
+                "nid": "2crvcveavr2ywouwbvikn45cte",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "9c3e8b8e-4667-3d05-9ff6-e6e700b95d8a",
+            "clientId": "71108b89-2615-48aa-b8de-2776b24366e3",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305840077182686546",
+            "trackId": "Tmj66ml7sps7h2ztkahgyfg6dku",
+            "creationTimestamp": "1509111171435505",
+            "lastModifiedTimestamp": "1509111171435505",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Ciranda das Sete Notas for Bassoon and String Orchestra (feat. Tomasz Golka)",
+                "artist": "Ezequiel Fainguersch",
+                "composer": "Heitor Villa Lobos",
+                "album": "Bassoon",
+                "albumArtist": "Ezequiel Fainguersch",
+                "year": 2003,
+                "trackNumber": 1,
+                "genre": "Classical",
+                "durationMillis": "710000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh4.ggpht.com/CX2wS7PeMaEftsGE-fVOW8K6zXMa72R7n6hE4NvD62jxJMU1BwjJiFC9rl_kPnLBBjw_rQUZ",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/43MysQRaWmrVuVEDFTq4Q3pEqbZdHbyKP5Bx8z7Varr6e0Bis5Y4KpLN0fWKE1H4MsUDAoXW",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh4.ggpht.com/CX2wS7PeMaEftsGE-fVOW8K6zXMa72R7n6hE4NvD62jxJMU1BwjJiFC9rl_kPnLBBjw_rQUZ",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 2,
+                "discNumber": 1,
+                "estimatedSize": "28436925",
+                "trackType": "7",
+                "storeId": "Tmj66ml7sps7h2ztkahgyfg6dku",
+                "albumId": "Byy5lr7uo3am7s66xrh23rieg4a",
+                "artistId": [
+                    "Atteo7lncpfo42kewlhxitzowzq",
+                    "Azraae2wzzuegwptelxbn5qgjh4",
+                    "Aes2hica4auzv5z24j23onzn6ue",
+                    "Asdegy5sgfdf2zjc57fbogwh5lm"
+                ],
+                "nid": "mj66ml7sps7h2ztkahgyfg6dku",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "6287ef51-511f-3861-9a1d-eb03517f6cc3",
+            "clientId": "a31327fe-82e0-4521-a2ff-1be896e74180",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305842276205942098",
+            "trackId": "75814ade-0efa-32ef-b0e3-b70c77b20044",
+            "creationTimestamp": "1516806663025608",
+            "lastModifiedTimestamp": "1516806663025608",
+            "deleted": false,
+            "source": "1"
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "1154ebb6-002d-3385-b46b-2bdae5a6c6e1",
+            "clientId": "dad70264-a894-4b42-ade3-7b0fa6fc7df8",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305842642709818023",
+            "trackId": "Tz2kews5jk7akvfgmvtklizlhxq",
+            "creationTimestamp": "1527684937774558",
+            "lastModifiedTimestamp": "1527684937774558",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Angel Eyes",
+                "artist": "Frank Vignola",
+                "composer": "",
+                "album": "Blues For A Gypsy",
+                "albumArtist": "Frank Vignola",
+                "year": 2001,
+                "trackNumber": 9,
+                "genre": "Folk",
+                "durationMillis": "195000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/cWFoARuNYqiWD2SDNBn8UBW-4N3ghw_JC7tr5duOL73DAcInDhDoDhELC3U43oRtJcpNiE7k-e4",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/qyLxvwHLJeoIWpArLLp1r6x5oHZvCBDsveaN074MrTT9jR8COiWWV1np9Sa0xR4kQe8Nka_gYQ",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh4.ggpht.com/M--H_hUGubgxz9ev5CXS-yOPZUVUTg2Pe1s-OUOpwPcvBct_uc9LFRgZ6JjUkSuLEpnZnhKWdw",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 1,
+                "discNumber": 1,
+                "estimatedSize": "7834682",
+                "trackType": "7",
+                "storeId": "Tz2kews5jk7akvfgmvtklizlhxq",
+                "albumId": "Bgcgcyvy6l6qypzk766i3eyznum",
+                "artistId": [
+                    "Ag3ikuwouulrql5crxbsif6wmcm"
+                ],
+                "nid": "z2kews5jk7akvfgmvtklizlhxq",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "ab44183e-5fc1-3f3d-a0c6-a0f86d19dd9b",
+            "clientId": "b0669726-dc50-441e-9986-5d42978d4469",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305842825961755986",
+            "trackId": "T73vm7s5up5526qiusu2uqn2nee",
+            "creationTimestamp": "1529965004789203",
+            "lastModifiedTimestamp": "1529965004789203",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Bonfires",
+                "artist": "Slime Girls",
+                "composer": "",
+                "album": "No Summer No Cry",
+                "albumArtist": "Slime Girls",
+                "year": 2015,
+                "trackNumber": 7,
+                "genre": "Dance/Electronic",
+                "durationMillis": "158000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/jEmlL6jrxetY0wTvrJ8zy6bskAlq8_45LZp7Wq-sK97SOO-NKfnXbB4z3Jn6Ud0vcjjRp15zh8o",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/A_83-Tjm12Kkw7RA9uIGwixZU6Yr3DJyz5nfgke6xMS3Z0AryJSVulOhN---sv34WG5hEcFQlw",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/UXeSq2QdoXSqi1OOxlpVfvBE7TROBCWpkdDkOu5hNsCOmYojpaTKDyYZiqkVKckTW_zNsvliw_k",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 10,
+                "discNumber": 1,
+                "estimatedSize": "6330019",
+                "trackType": "7",
+                "storeId": "T73vm7s5up5526qiusu2uqn2nee",
+                "albumId": "Bfgi7lpt2pf5xs4sug4w5jffxt4",
+                "artistId": [
+                    "Atvilktxugll5p26j55o6wozpa4"
+                ],
+                "nid": "73vm7s5up5526qiusu2uqn2nee",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "b6c80bb5-7f31-3aa1-a03e-468b33b1e857",
+            "clientId": "a4d33a19-542a-4ca6-97a7-5edf9bdebb64",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305842917587724967",
+            "trackId": "7b71ee65-53e5-3da5-a917-0eda212a7230",
+            "creationTimestamp": "1536071485292774",
+            "lastModifiedTimestamp": "1536071485292774",
+            "deleted": false,
+            "source": "1"
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "44acedc9-faf8-3d87-a5aa-42e04a78abec",
+            "clientId": "e22ea4c8-df68-4de1-97b7-bd29810ba827",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305842963400709458",
+            "trackId": "Tnqeuzb2yd4smbowp5brnftwqyq",
+            "creationTimestamp": "1539097687706052",
+            "lastModifiedTimestamp": "1539097687706052",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Sicilienne, Op. 78 (arr. D. Sosin): Sicilienne, Op. 78 (arr. for flute and harp)",
+                "artist": "Nora Shulman",
+                "composer": "Donald Sosin; Gabriel Faure",
+                "album": "Bride'S Guide To Wedding Music (A)",
+                "albumArtist": "Various Artists",
+                "year": 1988,
+                "trackNumber": 17,
+                "genre": "Classical",
+                "durationMillis": "216000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/RCgorakpyMd3NludnzIEFusCTebJ4MUapT7NCCURVeJon8JJ5SVyUvt1bf4ETb-iee-dolGaRQ",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/ekpklJf9PgqJegcYm3nVuQyjYRGFSHMFIwqweabWjCgO02dUrSecCYY9lZZm7A-LFx1cF5gjaA",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh4.ggpht.com/5zUQClA47nyDvyO1CqdFmAdKREPdfsRJcIpZDfmYE3SwEFd54Ov8EYTrgjj6rYZDQAzJ-taYcA",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 2,
+                "discNumber": 3,
+                "estimatedSize": "8679994",
+                "trackType": "7",
+                "storeId": "Tnqeuzb2yd4smbowp5brnftwqyq",
+                "albumId": "Bm263boo3o2kgwoqga75etm2v7m",
+                "artistId": [
+                    "Apk4ce5gtztmo74nu5bcisuwh7i",
+                    "Awwmpurzzs6zjpqbkn2kcirsv4u",
+                    "Auzlmsy4iiqps2ossfalcwbn6tq",
+                    "Adtnw22dts7fc323zpadvifgjvu",
+                    "Areusfu72bt2mcapltvuooyzuu4"
+                ],
+                "nid": "nqeuzb2yd4smbowp5brnftwqyq",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "6c40e391-9954-38d0-ae1b-e8f9bf59fa80",
+            "clientId": "e8672de6-5b76-42a5-9237-a4c39fbbffa5",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305842986307201703",
+            "trackId": "Tgmzwbsdplbr3yvcpllkgjmysgq",
+            "creationTimestamp": "1539790716562099",
+            "lastModifiedTimestamp": "1539790716562099",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Cosmik Debris",
+                "artist": "Frank Zappa",
+                "composer": "",
+                "album": "Apostrophe(')",
+                "albumArtist": "Frank Zappa",
+                "year": 1974,
+                "trackNumber": 5,
+                "genre": "Progressive/Art Rock",
+                "durationMillis": "255000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/gJxBfpwDWRty3mBmbwjvw9jTWZqlrUxKqv2TbKHrFQFKAHgj-CsW_5YkuwPJh80I9wAGf_d0tA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/OJn92f7WgDRF4VvvPRJlsMd7NPt1nACTKRZKYiu_mqkIrl0D73rQeVjFdNKaj5r4aTmFGyeB2w",
+                        "aspectRatio": "2",
+                        "autogen": false
+                    }
+                ],
+                "playCount": 9,
+                "discNumber": 1,
+                "estimatedSize": "10237947",
+                "trackType": "7",
+                "storeId": "Tgmzwbsdplbr3yvcpllkgjmysgq",
+                "albumId": "Bi74m5sukxqg677u44binifr6s4",
+                "artistId": [
+                    "Auuocrp3ktjhsvlx6ltw6lkqqh4"
+                ],
+                "nid": "gmzwbsdplbr3yvcpllkgjmysgq",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "6a2f2caf-7586-3a38-bbf8-aa0ad600bf90",
+            "clientId": "9c1cf38c-2263-4bc4-8961-58d43bf1d0f5",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305842997760447826",
+            "trackId": "a0a97045-4b37-311c-85a9-5bee6955296d",
+            "creationTimestamp": "1548168504455997",
+            "lastModifiedTimestamp": "1548168504455997",
+            "deleted": false,
+            "source": "1"
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "adbff4ba-beb7-3015-9173-c379096ed00f",
+            "clientId": "c8208fc8-b4b5-4ccb-ba82-5c0fbf290c4a",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843003487070887",
+            "trackId": "Tjt3ism67cls4llx36hctdkbxyq",
+            "creationTimestamp": "1551452332297636",
+            "lastModifiedTimestamp": "1551452332297636",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "The Man Who Took My Sunglasses",
+                "artist": "Khruangbin",
+                "composer": "",
+                "album": "The Universe Smiles Upon You",
+                "albumArtist": "Khruangbin",
+                "year": 2015,
+                "trackNumber": 7,
+                "genre": "Alternative/Indie",
+                "durationMillis": "133000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/dxTRNHd3lqr7xA9t4qfztTktaLzcI8YWKVPhNRsYjXfMLND6BP57dnIqCGpbQ5whob-87lA0b1I",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/PkWPrjg_UgyhlY7bBSibGUSlJ4KX5A9EH09sDItS4G4J587zww5AHu19BtMo3rQGSbMZvNRA__c",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/WR6AbPR0xjQiCoHvND2vizccSs7KD9X63H4-o_4uZkR04hwEWm-udfw2iY76u1d_Hc_R3nxJCA",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 7,
+                "discNumber": 1,
+                "estimatedSize": "5325882",
+                "trackType": "7",
+                "storeId": "Tjt3ism67cls4llx36hctdkbxyq",
+                "albumId": "Bvpsqie45upliku3gsrptaulx5y",
+                "artistId": [
+                    "Afrvp726iobf5f4fibshf4np7wm"
+                ],
+                "nid": "jt3ism67cls4llx36hctdkbxyq",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "b4fbf804-8b9b-3649-ab2a-a4c9e9997d92",
+            "clientId": "51112d26-396c-40ec-85a5-cc1cdea70039",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843006350382418",
+            "trackId": "Tjyrvb5ubsyuuue2tzeijbgtrqy",
+            "creationTimestamp": "1551971271742624",
+            "lastModifiedTimestamp": "1551971271742624",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Boogie Man",
+                "artist": "Aerosmith",
+                "composer": "",
+                "album": "Get A Grip",
+                "albumArtist": "Aerosmith",
+                "year": 1993,
+                "trackNumber": 14,
+                "genre": "'90s Rock",
+                "durationMillis": "136000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/JcKETSGQyyZ-2VS0JHhzN2yW6_Q8CuVvhklS9V6rX-uM7u6uhEQbBRHJ5LX-OdWBg2YwVOMl",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/uImQtaWlXqJ3oIsLsNRhkdr2zCcQBgSFZXS_FMcnJEw06CaeuuzDJzVSPup-HwAykVqpf6eTBw",
+                        "aspectRatio": "2",
+                        "autogen": false
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/csZn-trtzsFEcAc1eqHs7XIIok_G-wMbSTaiyt7OXjdNJNNjSdw5RNoUaAdb-TS5Z4umPTH1nQ",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "playCount": 1,
+                "discNumber": 1,
+                "estimatedSize": "5453359",
+                "trackType": "7",
+                "storeId": "Tjyrvb5ubsyuuue2tzeijbgtrqy",
+                "albumId": "Buljgm6ejddeu55jbpacdo2whlq",
+                "artistId": [
+                    "Ayincuk7lnj6bj63gb5k7xqbxla"
+                ],
+                "nid": "jyrvb5ubsyuuue2tzeijbgtrqy",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "4e40403f-8172-3325-86e8-eb4bd46bf977",
+            "clientId": "7ec351e7-cf5c-40dd-b522-b74408e591d0",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843007782038183",
+            "trackId": "T2mlfjoaxenqvaww6xtlxfhijva",
+            "creationTimestamp": "1555714069470689",
+            "lastModifiedTimestamp": "1555714069470689",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "3 Movie Scenes",
+                "artist": "Project Trio",
+                "composer": "",
+                "album": "PROJECT Trio",
+                "albumArtist": "PROJECT Trio",
+                "year": 2010,
+                "trackNumber": 5,
+                "genre": "Classical",
+                "durationMillis": "163000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh5.ggpht.com/370MnIx08YavmOH7UKw6bwh2WaQF773bWYKDIWRHW8LRB13PRcP2a1K_yc_kkm8THunEtmVwGA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/BfbbVvq55s_DROG-S3LVvpSosKORrsXtJ4ajo29nqHVEIMlxwwRP_vqsoS7fo14nC9fHpPfN_A",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/YIJ-jdJ0E1cS0HEQpEzdLGOj0Qwrq8IoHLYmmJaA14K9_1GFyMtJ1LCo3Wk5zyG5wufKy0bKxY4",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 12,
+                "discNumber": 1,
+                "estimatedSize": "6548402",
+                "trackType": "7",
+                "storeId": "T2mlfjoaxenqvaww6xtlxfhijva",
+                "albumId": "Bhzinryyz4ks4wuj3qs5apytfgi",
+                "artistId": [
+                    "Ak45vt3kspajnmf3gv6ydtw72vm"
+                ],
+                "nid": "2mlfjoaxenqvaww6xtlxfhijva",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "8cb844ed-3b7f-3023-9211-92cfe4fc7f5e",
+            "clientId": "ec0dcc23-3c2c-4877-a6ce-f40e4351efdf",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843008497866066",
+            "trackId": "Tbvawauzvwpsg3pbwi7d2fcvb7u",
+            "creationTimestamp": "1556105463235608",
+            "lastModifiedTimestamp": "1556105463235608",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Visual Machine",
+                "artist": "Project Trio",
+                "composer": "",
+                "album": "PROJECT Trio",
+                "albumArtist": "PROJECT Trio",
+                "year": 2010,
+                "trackNumber": 7,
+                "genre": "Classical",
+                "durationMillis": "417000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh5.ggpht.com/370MnIx08YavmOH7UKw6bwh2WaQF773bWYKDIWRHW8LRB13PRcP2a1K_yc_kkm8THunEtmVwGA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/BfbbVvq55s_DROG-S3LVvpSosKORrsXtJ4ajo29nqHVEIMlxwwRP_vqsoS7fo14nC9fHpPfN_A",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/YIJ-jdJ0E1cS0HEQpEzdLGOj0Qwrq8IoHLYmmJaA14K9_1GFyMtJ1LCo3Wk5zyG5wufKy0bKxY4",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 12,
+                "discNumber": 1,
+                "estimatedSize": "16703765",
+                "trackType": "7",
+                "storeId": "Tbvawauzvwpsg3pbwi7d2fcvb7u",
+                "albumId": "Bhzinryyz4ks4wuj3qs5apytfgi",
+                "artistId": [
+                    "Ak45vt3kspajnmf3gv6ydtw72vm"
+                ],
+                "nid": "bvawauzvwpsg3pbwi7d2fcvb7u",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "5b918a27-bdca-3f96-ba35-ac6a075b95e5",
+            "clientId": "e1cca01a-4924-4dd4-8496-613f6e5786f3",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843008855780007",
+            "trackId": "Tnqzalxepcd37biwzcb7cn43tse",
+            "creationTimestamp": "1556107627452109",
+            "lastModifiedTimestamp": "1556107627539591",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Arco/Pizz",
+                "artist": "Project Trio",
+                "composer": "",
+                "album": "PROJECT Trio",
+                "albumArtist": "PROJECT Trio",
+                "year": 2010,
+                "trackNumber": 9,
+                "genre": "Classical",
+                "durationMillis": "485000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh5.ggpht.com/370MnIx08YavmOH7UKw6bwh2WaQF773bWYKDIWRHW8LRB13PRcP2a1K_yc_kkm8THunEtmVwGA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/BfbbVvq55s_DROG-S3LVvpSosKORrsXtJ4ajo29nqHVEIMlxwwRP_vqsoS7fo14nC9fHpPfN_A",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/YIJ-jdJ0E1cS0HEQpEzdLGOj0Qwrq8IoHLYmmJaA14K9_1GFyMtJ1LCo3Wk5zyG5wufKy0bKxY4",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 9,
+                "discNumber": 1,
+                "estimatedSize": "19438263",
+                "trackType": "7",
+                "storeId": "Tnqzalxepcd37biwzcb7cn43tse",
+                "albumId": "Bhzinryyz4ks4wuj3qs5apytfgi",
+                "artistId": [
+                    "Ak45vt3kspajnmf3gv6ydtw72vm"
+                ],
+                "nid": "nqzalxepcd37biwzcb7cn43tse",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "9d57a67a-be88-323d-8dda-a283a806bc44",
+            "clientId": "a15748e4-46e7-4afb-ab0a-28f4e1547d02",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843009034736978",
+            "trackId": "Tgjkkcqmhzy3vierrj42ehw3vo4",
+            "creationTimestamp": "1558911063110944",
+            "lastModifiedTimestamp": "1558911063110944",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Inside Voice",
+                "artist": "Joey Dosik",
+                "composer": "",
+                "album": "Inside Voice",
+                "albumArtist": "Joey Dosik",
+                "year": 2018,
+                "trackNumber": 1,
+                "genre": "R&B/Soul",
+                "durationMillis": "213000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/DzQzG5oezxjMVlj6T3azMFx969ybTSXbBkKarMmQf7ZI3yrHDJ9juIqL9abN4UITfQ-THQimpA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/dIPcugi7WiEDtQoBHxjSwEvuq9cU_kfR7ZiNTgoEuMT9MV_y9pNGt1AWtYiCHs_YdXoamrPAvQ",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/m5wRQMYJ4O_ZTlH3dReL1OMmm70WkPF-oCbmbY09lQ-V5q9v3sWdme_FiqF4pvucJpvETS2mxw",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 1,
+                "discNumber": 1,
+                "estimatedSize": "8543122",
+                "trackType": "7",
+                "storeId": "Tgjkkcqmhzy3vierrj42ehw3vo4",
+                "albumId": "B3liyp2asyxyyhypz4s44fzrxqu",
+                "artistId": [
+                    "Amc4v6brdp3f3by442myqgcjqh4"
+                ],
+                "nid": "gjkkcqmhzy3vierrj42ehw3vo4",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "f94f7fe0-76e2-3305-9c03-e12e33e77c66",
+            "clientId": "d7885b04-5494-449a-ad6f-e32b16850602",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843009124215463",
+            "trackId": "Tllkkimjmruobqqtzhjjfyhkvtq",
+            "creationTimestamp": "1559769153753567",
+            "lastModifiedTimestamp": "1559769153753567",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Hearts A Mess",
+                "artist": "Gotye",
+                "composer": "",
+                "album": "Like Drawing Blood",
+                "albumArtist": "Gotye",
+                "year": 2006,
+                "trackNumber": 3,
+                "genre": "Pop",
+                "durationMillis": "365000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/I_JNfWF1nHLDQu5bV8jQYByC57mzKVuVLAW8Cg70CnIh-FcxRpCTPFDLhwRzJT1I73wZM83mSw",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/UpmZmhoWivN4uLdwaGY2CFVwaoLlLm4PsqkoNIQMHABLbsn8cHxgDu9WoYLV60d5XUjyNwirnA",
+                        "aspectRatio": "2",
+                        "autogen": false
+                    }
+                ],
+                "playCount": 7,
+                "discNumber": 1,
+                "estimatedSize": "14620249",
+                "trackType": "7",
+                "storeId": "Tllkkimjmruobqqtzhjjfyhkvtq",
+                "albumId": "B2wab23cqielnb3xlb2kfmmysoa",
+                "artistId": [
+                    "A3lgz26b6b5sgtpi6mdzz2whoky",
+                    "Az7c6zns6wfxhypupgpvtcapjya",
+                    "Awka4z44xzwjzco2lyfeeid5sr4",
+                    "Aen2ds5soijelcgsxhmur6l747i",
+                    "Aqvyriwrv2rju4p2ktewaibwn2y",
+                    "Aannf2atxsrmfiwf2dkosfjibta",
+                    "A7ss3bsok6hv46ugrbsmady7yga"
+                ],
+                "nid": "llkkimjmruobqqtzhjjfyhkvtq",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2",
+                "primaryVideo": {
+                    "kind": "sj#video",
+                    "id": "MpN1j8R5lZ8",
+                    "thumbnails": [
+                        {
+                            "url": "https://i.ytimg.com/vi/MpN1j8R5lZ8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "7d0300c6-cec7-3658-880f-58ccc3000037",
+            "clientId": "cc10f2ed-02d3-4cd0-9222-8ed16a60fbe5",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843009168954706",
+            "trackId": "To45cezy3tnez26fvjggfexh6oi",
+            "creationTimestamp": "1561039518635144",
+            "lastModifiedTimestamp": "1561039518635144",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "The Stacks",
+                "artist": "Project Trio",
+                "composer": "",
+                "album": "When Will Then Be Now",
+                "albumArtist": "Project Trio",
+                "year": 2012,
+                "trackNumber": 6,
+                "durationMillis": "174000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh5.ggpht.com/7YuC2h7d-Cfuzkk4sBd11AQkfufcHphhT6RaT-Wr8wNDuPqkF66Rpf6Yq5Spxdy42Rx_LyQi",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/BfbbVvq55s_DROG-S3LVvpSosKORrsXtJ4ajo29nqHVEIMlxwwRP_vqsoS7fo14nC9fHpPfN_A",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/YIJ-jdJ0E1cS0HEQpEzdLGOj0Qwrq8IoHLYmmJaA14K9_1GFyMtJ1LCo3Wk5zyG5wufKy0bKxY4",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 11,
+                "discNumber": 1,
+                "estimatedSize": "6968457",
+                "trackType": "7",
+                "storeId": "To45cezy3tnez26fvjggfexh6oi",
+                "albumId": "Bscynvcfej5zzz5hwgpk6wgcer4",
+                "artistId": [
+                    "Ak45vt3kspajnmf3gv6ydtw72vm"
+                ],
+                "nid": "o45cezy3tnez26fvjggfexh6oi",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "cdc69098-0e16-3b03-af73-aed1d6b9dade",
+            "clientId": "da63726f-cadb-4749-86fa-78dafb8d72c7",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843009191324327",
+            "trackId": "Tkdikip7o2jpuad2txwydq34nra",
+            "creationTimestamp": "1561120561243980",
+            "lastModifiedTimestamp": "1561120561243980",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "6th Row Middle",
+                "artist": "Project Trio",
+                "composer": "",
+                "album": "When Will Then Be Now",
+                "albumArtist": "Project Trio",
+                "year": 2012,
+                "trackNumber": 10,
+                "durationMillis": "321000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh5.ggpht.com/7YuC2h7d-Cfuzkk4sBd11AQkfufcHphhT6RaT-Wr8wNDuPqkF66Rpf6Yq5Spxdy42Rx_LyQi",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/BfbbVvq55s_DROG-S3LVvpSosKORrsXtJ4ajo29nqHVEIMlxwwRP_vqsoS7fo14nC9fHpPfN_A",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/YIJ-jdJ0E1cS0HEQpEzdLGOj0Qwrq8IoHLYmmJaA14K9_1GFyMtJ1LCo3Wk5zyG5wufKy0bKxY4",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 11,
+                "discNumber": 1,
+                "estimatedSize": "12875265",
+                "trackType": "7",
+                "storeId": "Tkdikip7o2jpuad2txwydq34nra",
+                "albumId": "Bscynvcfej5zzz5hwgpk6wgcer4",
+                "artistId": [
+                    "Ak45vt3kspajnmf3gv6ydtw72vm"
+                ],
+                "nid": "kdikip7o2jpuad2txwydq34nra",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "da8936bd-e947-36bf-841b-b4b36a34c538",
+            "clientId": "1dc9e25f-dba0-46fb-9d3b-382aed19a0ec",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843009202509138",
+            "trackId": "Trdp7whsbiymwv4ggvkrb4x3cvy",
+            "creationTimestamp": "1561120829148640",
+            "lastModifiedTimestamp": "1561120829148640",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Sloeberry Jam",
+                "artist": "Project Trio",
+                "composer": "",
+                "album": "Instrumental",
+                "albumArtist": "Project Trio",
+                "year": 2014,
+                "trackNumber": 5,
+                "genre": "Classical",
+                "durationMillis": "220000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.ggpht.com/iAYaVNz04RLvZgZn0XPh8kVDHfkEwQraYbQs_rUQNQkVpWXc32a-cczI7IhqUmjd8Px71IQK",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/BfbbVvq55s_DROG-S3LVvpSosKORrsXtJ4ajo29nqHVEIMlxwwRP_vqsoS7fo14nC9fHpPfN_A",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/YIJ-jdJ0E1cS0HEQpEzdLGOj0Qwrq8IoHLYmmJaA14K9_1GFyMtJ1LCo3Wk5zyG5wufKy0bKxY4",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 6,
+                "discNumber": 1,
+                "estimatedSize": "8804337",
+                "trackType": "7",
+                "storeId": "Trdp7whsbiymwv4ggvkrb4x3cvy",
+                "albumId": "Brmxy7ybgieyzl5bebuh3cqbtee",
+                "artistId": [
+                    "Ak45vt3kspajnmf3gv6ydtw72vm"
+                ],
+                "nid": "rdp7whsbiymwv4ggvkrb4x3cvy",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "17cc67d8-bd3c-3c17-b514-652cf7218af8",
+            "clientId": "74caa49e-b6bf-4169-a041-e1e6c243691f",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843009208101543",
+            "trackId": "f5466d18-7142-3667-a272-d7dca6c8fcfc",
+            "creationTimestamp": "1561229392743017",
+            "lastModifiedTimestamp": "1561229392743017",
+            "deleted": false,
+            "source": "1"
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "fc865f22-9369-379d-9539-5a881b99f598",
+            "clientId": "7244d007-eb59-4e39-b7b2-e91b80287694",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843009210897746",
+            "trackId": "60352e76-9e07-3062-a827-5d6c3e1bcdf5",
+            "creationTimestamp": "1563459424063653",
+            "lastModifiedTimestamp": "1563459424063653",
+            "deleted": false,
+            "source": "1"
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "dc7f5007-43c3-3421-8b21-2c2805eeeaa0",
+            "clientId": "58db1250-21c8-4f77-bb5f-7a4892a8c8be",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843009212295847",
+            "trackId": "b18840be-f0d9-3d4b-a0ad-d4a5b1188c13",
+            "creationTimestamp": "1563459462758105",
+            "lastModifiedTimestamp": "1563459462758105",
+            "deleted": false,
+            "source": "1"
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "cf8bd581-75bf-3ae2-ad4a-24202849485a",
+            "clientId": "b2a420de-0c07-491b-a2fb-1211de86da69",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843009212994898",
+            "trackId": "65a6b326-4837-352c-bdda-f558b2d5a725",
+            "creationTimestamp": "1563459570495468",
+            "lastModifiedTimestamp": "1563459570495468",
+            "deleted": false,
+            "source": "1"
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "e0f8acc1-b8c3-3c3f-94bd-c24c064163d4",
+            "clientId": "60ea93c6-85dd-491f-b5c9-e441a95bf791",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843009213344423",
+            "trackId": "Tld4gdrsu7ykgh5ru4kznoanqoy",
+            "creationTimestamp": "1581644971558310",
+            "lastModifiedTimestamp": "1581644971558310",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Watersong",
+                "artist": "TAK\u00c9NOBU",
+                "composer": "",
+                "album": "Introduction",
+                "albumArtist": "TAK\u00c9NOBU",
+                "year": 2007,
+                "trackNumber": 12,
+                "genre": "Folk",
+                "durationMillis": "397000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/Ww_F_ge7LO_I0OXy4OJucKmiTe7kknlRYvUwSCNxqy8LOnxaaZ8bpV6w_u-iQCaDE4sFooWbzQ",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/9SPSA8xNs4kmIpRh7hpxImEVWb2VFGhTqLvYIraPxYX10AT7AsGEqqXqKO0OkSjWfXr2Syc1NA",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/P5T9uiIHByANhxs1d66L-XAB97gLTaBWVr5d-o98DbMkPYkDbNuzOSFjb5rACxpwIRiauAoTD6g",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 9,
+                "discNumber": 1,
+                "estimatedSize": "15912778",
+                "trackType": "7",
+                "storeId": "Tld4gdrsu7ykgh5ru4kznoanqoy",
+                "albumId": "Boly2ceaeypieupggygslhteu7u",
+                "artistId": [
+                    "Aeerdj6pnwx73xsnxrcknelv2jq"
+                ],
+                "nid": "ld4gdrsu7ykgh5ru4kznoanqoy",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "db41a5ce-5b34-3aa5-bb73-36bb74a4e32f",
+            "clientId": "e90a330e-5967-4cae-8204-c6ad57c52c49",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843009213519186",
+            "trackId": "Thr2zw72rrjgecyon5pjipzvj6a",
+            "creationTimestamp": "1581995882639748",
+            "lastModifiedTimestamp": "1581995882639748",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Clarinet Concerto in A Major, K. 622: II. Adagio",
+                "artist": "Richard Stoltzman",
+                "composer": "Wolfgang Amadeus Mozart",
+                "album": "Mozart: Clarinet Concerto K.622; Clarinet Quintet K.581: Classic Library Series",
+                "albumArtist": "Richard Stoltzman",
+                "year": 1996,
+                "trackNumber": 2,
+                "genre": "Classical",
+                "durationMillis": "567000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/M6mvO_vSbSMD0CsWr9ujF2xTlW2XkXwD4bcqGBjy7MmJYTIuOq2_B8AoEYo3DHUywMzz2URYoA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/1ZdJZa5exsaxKy4BhEYBdr1A_33OkcLALvjIsDqn5fqJDXDVXBNoYK8uWzJyGY7VCcUpQECv",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh4.ggpht.com/4TJLkpcSh09fW3ePH7AB5Y6CT2YbWbMAzXf_O6EDfbIR1Svf-HM0DYwrQh8t63iw5GzIKwv8Pg",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 3,
+                "discNumber": 1,
+                "estimatedSize": "22720288",
+                "trackType": "7",
+                "storeId": "Thr2zw72rrjgecyon5pjipzvj6a",
+                "albumId": "Bgffd5k77dwe26u4oepog7eeyfm",
+                "artistId": [
+                    "Agg6cvlty4rxkkfb6aw2fuykbny",
+                    "Abnx4ojvfhtxjtgghz47dpnqo2u",
+                    "A6iqnodlwdgqn52tzfzd7gcsd7q",
+                    "Azqnhoujmyex6qz3tv7krhqj574",
+                    "Assfw6iif6ulu5odkabi3kjpf2e",
+                    "An74eoyzrggrobsbvujqo3tcsy4"
+                ],
+                "nid": "hr2zw72rrjgecyon5pjipzvj6a",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "494c2040-703e-3d58-8083-e1d337239c19",
+            "clientId": "1d319cc6-1852-4814-a00f-40afac4f2b2b",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843009213606567",
+            "trackId": "Tizgy7y6nguceswfi3lffba2nzu",
+            "creationTimestamp": "1582646955127006",
+            "lastModifiedTimestamp": "1582646955127006",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Fay",
+                "artist": "Koloto",
+                "composer": "",
+                "album": "Fay",
+                "albumArtist": "Koloto",
+                "year": 2018,
+                "trackNumber": 1,
+                "genre": "Dance/Electronic",
+                "durationMillis": "157000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/oG-oRSK-d52QYGs6yMz5yHycuG4mWwtWQonayYVj8esE8Xmp4i8JXS4Yx1ACPM3-VDuYNE5wEMA",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/B7V_2X3_zIsXoLo3Om3oeME_kWTH8uqJ6XS-KEDmseZPf7kpz0btvsJXdZruHJWRmIyH3Zcvgw",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/HNGERIePy9x0vkRgJafVFNYPpqL1SkkPyHr_cKc120lrSuY0qYbbYaXrScjySuw-tRMFlndaWg",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 2,
+                "discNumber": 1,
+                "estimatedSize": "6311220",
+                "trackType": "7",
+                "storeId": "Tizgy7y6nguceswfi3lffba2nzu",
+                "albumId": "B4bhoq34udeq25w6ta5zqjq4j74",
+                "artistId": [
+                    "A35v76a6il4r65t5qbgjjmi56qy"
+                ],
+                "nid": "izgy7y6nguceswfi3lffba2nzu",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "b157deec-d19d-3405-b395-d154b48d460f",
+            "clientId": "c17b1f3d-d844-4b59-a5d0-ab7ab4f2445f",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843009213650258",
+            "trackId": "e15c5cf1-c4c4-3c7a-a51f-6b9097b1b3a8",
+            "creationTimestamp": "1582729433797558",
+            "lastModifiedTimestamp": "1582729433797558",
+            "deleted": false,
+            "source": "1"
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "6be3472d-e5ec-32fd-9173-a0fc67b412b0",
+            "clientId": "02830c2b-b29e-4aad-9b2b-4accd8a3db3c",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843009213672103",
+            "trackId": "Thjfdi7b65wfbr22u2emqg5eyry",
+            "creationTimestamp": "1583189249552029",
+            "lastModifiedTimestamp": "1583189249552029",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Fishin'",
+                "artist": "TAK\u00c9NOBU",
+                "composer": "",
+                "album": "Introduction",
+                "albumArtist": "TAK\u00c9NOBU",
+                "year": 2007,
+                "trackNumber": 8,
+                "genre": "Folk",
+                "durationMillis": "129000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh6.ggpht.com/Ww_F_ge7LO_I0OXy4OJucKmiTe7kknlRYvUwSCNxqy8LOnxaaZ8bpV6w_u-iQCaDE4sFooWbzQ",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/9SPSA8xNs4kmIpRh7hpxImEVWb2VFGhTqLvYIraPxYX10AT7AsGEqqXqKO0OkSjWfXr2Syc1NA",
+                        "aspectRatio": "2",
+                        "autogen": true
+                    },
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/P5T9uiIHByANhxs1d66L-XAB97gLTaBWVr5d-o98DbMkPYkDbNuzOSFjb5rACxpwIRiauAoTD6g",
+                        "aspectRatio": "1",
+                        "autogen": true
+                    }
+                ],
+                "playCount": 25,
+                "discNumber": 1,
+                "estimatedSize": "5187945",
+                "trackType": "7",
+                "storeId": "Thjfdi7b65wfbr22u2emqg5eyry",
+                "albumId": "Boly2ceaeypieupggygslhteu7u",
+                "artistId": [
+                    "Aeerdj6pnwx73xsnxrcknelv2jq"
+                ],
+                "nid": "hjfdi7b65wfbr22u2emqg5eyry",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "2"
+            }
+        },
+        {
+            "kind": "sj#playlistEntry",
+            "id": "3f996e1b-8e05-322f-bc7c-c8d2f4f5351e",
+            "clientId": "f0c5d620-d816-4bfc-84f4-f578cf0997dd",
+            "playlistId": "567ae92d-099e-496c-95b7-1e1a05ec1f60",
+            "absolutePosition": "02305843009213683026",
+            "trackId": "Trubcjg3umonkpx5aoud6zwlvzq",
+            "creationTimestamp": "1588004487227399",
+            "lastModifiedTimestamp": "1588004487227399",
+            "deleted": false,
+            "source": "2",
+            "track": {
+                "kind": "sj#track",
+                "title": "Rawnald Gregory Erickson the Second",
+                "artist": "STRFKR",
+                "composer": "",
+                "album": "STRFKR",
+                "albumArtist": "STRFKR",
+                "year": 2008,
+                "trackNumber": 5,
+                "genre": "Electropop",
+                "durationMillis": "173000",
+                "albumArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/oCNMNe0akLOuNBhdRL64RVUeafUNYn802fv1Nyx9Zdde3Pr5sVhsgi3Drg8GAArvt3Cw2QUX",
+                        "aspectRatio": "1",
+                        "autogen": false
+                    }
+                ],
+                "artistArtRef": [
+                    {
+                        "kind": "sj#imageRef",
+                        "url": "http://lh3.googleusercontent.com/p1achz25p5eTSTpm3YFgyvFbjmQkBTzmTcJyPAc-K5P2VzSJIO1Z3DANZaPxRlxjC6OWNiuA1A",
+                        "aspectRatio": "2",
+                        "autogen": false
+                    }
+                ],
+                "playCount": 3,
+                "discNumber": 1,
+                "estimatedSize": "6950688",
+                "trackType": "7",
+                "storeId": "Trubcjg3umonkpx5aoud6zwlvzq",
+                "albumId": "B63b6wff4rwmyod3acbnrklgytq",
+                "artistId": [
+                    "A4lab6wpryfnjbow27fv7iv7epm"
+                ],
+                "nid": "rubcjg3umonkpx5aoud6zwlvzq",
+                "trackAvailableForSubscription": true,
+                "trackAvailableForPurchase": true,
+                "albumAvailableForPurchase": false,
+                "explicitType": "1"
+            }
+        }
+    ]
+}
