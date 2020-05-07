@@ -7,8 +7,12 @@ class Libdata:
                  registered_devices,
                  all_songs,
                  playlist_metadata,
-                 playlists):
+                 playlists,
+                 uploaded_songs,
+                 purchased_songs):
         self.registered_devices = registered_devices
         self.all_songs = all_songs
         self.playlist_metadata = playlist_metadata
         self.playlists = playlists
+        self.uploaded_songs = uploaded_songs
+        self.purchased_songs = purchased_songs

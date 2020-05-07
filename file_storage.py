@@ -23,6 +23,8 @@ class FileStorage:
         self.playlist_metadata_filename = os.path.join(self.libdata_dir, "playlist_metadata.json")
         self.playlist_content_dir = os.path.join(self.libdata_dir, "playlists")
         self.track_dir = os.path.join(self.storage_path, "tracks")
+        self.uploaded_songs_filename = os.path.join(self.libdata_dir, "uploaded_songs")
+        self.purchased_songs_filename = os.path.join(self.libdata_dir, "purchased_songs")
 
     @staticmethod
     def write_json(data, filename):
@@ -48,12 +50,16 @@ class FileStorage:
         all_songs = self.read_json(self.all_songs_filename)
         playlist_metadata = self.read_json(self.playlist_metadata_filename)
         playlists = [self.read_json(x) for x in os.listdir(self.playlist_content_dir)]
+        uploaded_songs = self.read_json(self.uploaded_songs_filename)
+        purchased_songs = self.read_json(self.purchased_songs_filename)
         # for filename in os.listdir(self.playlist_content_dir):
         return Libdata(
             registered_devices=registered_devices,
             all_songs=all_songs,
             playlist_metadata=playlist_metadata,
-            playlists=playlists
+            playlists=playlists,
+            uploaded_songs=uploaded_songs,
+            purchased_songs=purchased_songs
         )
 
     def write_libdata(self, libdata):
@@ -68,6 +74,8 @@ class FileStorage:
         for playlist in libdata.playlists:
             playlist_filename = os.path.join(self.playlist_content_dir, self.safe_basename(playlist["name"]))
             self.write_json(playlist, playlist_filename)
+        self.write_json(libdata.uploaded_songs, self.uploaded_songs_filename)
+        self.write_json(libdata.purchased_songs, self.purchased_songs_filename)
 
     def write_track(self, data, name):
         filename = os.path.join(self.track_dir, self.safe_basename(name))
