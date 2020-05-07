@@ -75,6 +75,5 @@ fabric.properties
 .idea*
 gmusic.iml
 *.mp3
-.creds
+*.oauth
 .DS_Store
-.manager_creds

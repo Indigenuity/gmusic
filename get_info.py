@@ -1,47 +1,16 @@
 import os
 
+
 from datetime import datetime
 from file_storage import FileStorage
 from gmusicapi import Mobileclient, Musicmanager
 from libdata import Libdata
+from thegoogs import TheGoogs
 
 STORAGE_PATH = "/Users/jd/ws/gmusic/data"
-CREDS_PATH = os.path.join(STORAGE_PATH, ".creds")
-MANAGER_CREDS_PATH = "/Users/jd/ws/gmusic/.manager_creds"
-TRACK_CONTENT_PATH = os.path.join(STORAGE_PATH, "raw_tracks")
 
-# Tablet
-DEVICE_ID = "342e914abacc484d"
-MAC_ADDRESS = "A2:C2:E2:CC:C7:37"
-
-print("Logging in")
-mobile = Mobileclient()
-mobile.oauth_login(device_id=DEVICE_ID, oauth_credentials=CREDS_PATH)
-manager = Musicmanager()
-manager.login(uploader_id=MAC_ADDRESS, oauth_credentials=MANAGER_CREDS_PATH)
-
-print("Getting registered devices")
-registered_devices = mobile.get_registered_devices()
-print("Getting all songs in library")
-library = mobile.get_all_songs()
-print("Getting all playlists")
-playlists = mobile.get_all_playlists()
-print("Getting playlist contents")
-playlist_contents = mobile.get_all_user_playlist_contents()
-print("Getting uploaded tracks")
-uploaded_tracks = manager.get_uploaded_songs()
-purchased_tracks = manager.get_purchased_songs()
-
-print("quota? {}".format(manager.get_quota()))
-
-libdata = Libdata(
-    registered_devices=registered_devices,
-    all_songs=library,
-    playlist_metadata=playlists,
-    playlists=playlist_contents,
-    uploaded_songs=uploaded_tracks,
-    purchased_songs=purchased_tracks
-)
+thegoogs = TheGoogs()
+libdata = thegoogs.get_libdata()
 
 # storage_basename = datetime.utcfromtimestamp(datetime.utcnow()).strftime('%Y-%m-%d_%H_%M_%S')
 storage = FileStorage(STORAGE_PATH)
