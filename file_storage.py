@@ -23,8 +23,8 @@ class FileStorage:
         self.playlist_metadata_filename = os.path.join(self.libdata_dir, "playlist_metadata.json")
         self.playlist_content_dir = os.path.join(self.libdata_dir, "playlists")
         self.track_dir = os.path.join(self.storage_path, "tracks")
-        self.uploaded_songs_filename = os.path.join(self.libdata_dir, "uploaded_songs")
-        self.purchased_songs_filename = os.path.join(self.libdata_dir, "purchased_songs")
+        self.uploaded_songs_filename = os.path.join(self.libdata_dir, "uploaded_songs.json")
+        self.purchased_songs_filename = os.path.join(self.libdata_dir, "purchased_songs.json")
 
     @staticmethod
     def write_json(data, filename):
