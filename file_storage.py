@@ -44,6 +44,10 @@ class FileStorage:
 
     def write_libdata(self, libdata):
         logger.info("Writing libdata to file_storage at {}".format(self.storage_path))
+        if not os.path.exists(self.storage_path):
+            os.makedirs(self.storage_path)
+        if not os.path.exists(self.playlist_content_dir):
+            os.makedirs(self.playlist_content_dir)
         self.write_json(libdata.registered_devices, self.registered_devices_filename)
         self.write_json(libdata.all_songs, self.all_songs_filename)
         self.write_json(libdata.playlist_metadata, self.playlist_metadata_filename)
