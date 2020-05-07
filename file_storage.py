@@ -1,4 +1,5 @@
 import json
+from libdata import Libdata
 import logging
 import os
 
@@ -11,6 +12,7 @@ class FileStorage:
 
     def __init__(self, storage_path=None, json_indent=4):
         self.storage_path = storage_path if storage_path else self.DEFAULT_STORAGE_PATH
+        logger.debug("Initializing FileStorage at {}".format(self.storage_path))
         self.__init_filenames()
         self.json_indent = json_indent
 
@@ -20,7 +22,28 @@ class FileStorage:
         with open(filename, "w") as f:
             json.dump(data, f, indent=4)
 
+    @staticmethod
+    def read_json(filename):
+        logger.debug("Reading {}".format(filename))
+        with open(filename, "r") as f:
+            return json.load(f)
+
+    def read_libdata(self):
+        logger.info("Loading libdata from file_storage at {}".format(self.storage_path))
+        registered_devices = self.read_json(self.registered_devices_filename)
+        all_songs = self.read_json(self.all_songs_filename)
+        playlist_metadata = self.read_json(self.playlist_metadata_filename)
+        playlists = [self.read_json(x) for x in os.listdir(self.playlist_content_dir)]
+        # for filename in os.listdir(self.playlist_content_dir):
+        return Libdata(
+            registered_devices=registered_devices,
+            all_songs=all_songs,
+            playlist_metadata=playlist_metadata,
+            playlists=playlists
+        )
+
     def write_libdata(self, libdata):
+        logger.info("Writing libdata to file_storage at {}".format(self.storage_path))
         self.write_json(libdata.registered_devices, self.registered_devices_filename)
         self.write_json(libdata.all_songs, self.all_songs_filename)
         self.write_json(libdata.playlist_metadata, self.playlist_metadata_filename)
