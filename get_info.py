@@ -1,11 +1,11 @@
+import logging
 import os
 
-
-from datetime import datetime
 from file_storage import FileStorage
-from gmusicapi import Mobileclient, Musicmanager
-from libdata import Libdata
 from thegoogs import TheGoogs
+
+logging.getLogger("gmusic").setLevel(logging.INFO)
+logging.getLogger("gmusic").addHandler(logging.StreamHandler())
 
 STORAGE_PATH = "/Users/jd/ws/gmusic/data"
 

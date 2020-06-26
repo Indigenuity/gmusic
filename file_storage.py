@@ -1,9 +1,11 @@
+import eyed3
 import json
-from libdata import Libdata
 import logging
 import os
 
-logger = logging.getLogger(__name__)
+from libdata import Libdata
+
+logger = logging.getLogger("gmusic")
 
 
 class FileStorage:
@@ -44,12 +46,15 @@ class FileStorage:
         logger.debug("Converting unsafe filename : {}".format(unsafe_name))
         return "".join([x if x.isalnum() else "_" for x in unsafe_name])
 
+    def song_filename(self, song):
+        return os.path.join(self.track_dir, song["id"])
+
     def read_libdata(self):
         logger.info("Loading libdata from file_storage at {}".format(self.storage_path))
         registered_devices = self.read_json(self.registered_devices_filename)
         all_songs = self.read_json(self.all_songs_filename)
         playlist_metadata = self.read_json(self.playlist_metadata_filename)
-        playlists = [self.read_json(x) for x in os.listdir(self.playlist_content_dir)]
+        playlists = [self.read_json(os.path.join(self.playlist_content_dir, x)) for x in os.listdir(self.playlist_content_dir)]
         uploaded_songs = self.read_json(self.uploaded_songs_filename)
         purchased_songs = self.read_json(self.purchased_songs_filename)
         # for filename in os.listdir(self.playlist_content_dir):
@@ -77,8 +82,31 @@ class FileStorage:
         self.write_json(libdata.uploaded_songs, self.uploaded_songs_filename)
         self.write_json(libdata.purchased_songs, self.purchased_songs_filename)
 
-    def write_track(self, data, name):
-        filename = os.path.join(self.track_dir, self.safe_basename(name))
-        logger.info("Writing track '{}' to {}".format(name, filename))
+    def write_song(self, data, metadata):
+        if not os.path.exists(self.track_dir):
+            os.makedirs(self.track_dir)
+        filename = self.song_filename(metadata)
+        logger.info("Writing song '{}' to {}".format(metadata["title"], filename))
         with open(filename, "wb") as f:
             f.write(data)
+
+        mp3 = eyed3.load(filename)
+        if mp3.tag:
+            # Remove the "owned by thegoogs" metadata
+            mp3.tag.privates.remove(b'Google/OriginalClientId')
+        else:
+            mp3.initTag()
+            mp3.tag.title = metadata["title"]
+            mp3.tag.artist = metadata["artist"]
+            mp3.tag.album = metadata["album"]
+            mp3.tag.album_artist = metadata["albumArtist"]
+            mp3.tag.track_num = metadata["trackNumber"]
+            if metadata.get("composer"):
+                mp3.tag.composer = metadata["composer"]
+            if metadata.get("year"):
+                mp3.tag.recording_date = metadata["year"]
+        mp3.tag.save()
+
+    def song_exists(self, song):
+        filename = self.song_filename(song)
+        return os.path.exists(filename)

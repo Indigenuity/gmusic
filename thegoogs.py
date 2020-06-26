@@ -1,10 +1,12 @@
+import eyed3
 import logging
 import os
+import urllib
 
 from gmusicapi import Mobileclient, Musicmanager
 from libdata import Libdata
 
-logger = logging.getLogger(__name__)
+logger = logging.getLogger("gmusic")
 
 
 class TheGoogs:
@@ -27,7 +29,7 @@ class TheGoogs:
         self.manager.login(uploader_id=self.DEFAULT_MANAGER_MAC_ADDRESS, oauth_credentials=self.manager_creds)
 
     def get_libdata(self):
-        logger.info("Fetching libdata...")
+        logger.info("Fetching libdata ...")
 
         logger.info("... fetching registered devices")
         registered_devices = self.mobile.get_registered_devices()
@@ -55,3 +57,14 @@ class TheGoogs:
             uploaded_songs=uploaded_songs,
             purchased_songs=purchased_songs
         )
+
+    def get_streamed_song(self, id):
+        logger.info("Downloading streamed song id {}".format(id))
+        stream_url = self.mobile.get_stream_url(id)
+        response = urllib.request.urlopen(stream_url)
+        return response.read()
+
+    def get_uploaded_song(self, id):
+        logger.info("Downloading uploaded song id {}".format(id))
+        suggested_filename, data = self.manager.download_song(id)
+        return data

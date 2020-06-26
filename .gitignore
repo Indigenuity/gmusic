@@ -77,3 +77,4 @@ gmusic.iml
 *.mp3
 *.oauth
 .DS_Store
+data/*
