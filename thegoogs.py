@@ -1,4 +1,4 @@
-import eyed3
+import datetime
 import logging
 import os
 import urllib
@@ -50,6 +50,7 @@ class TheGoogs:
         purchased_songs = self.manager.get_purchased_songs()
 
         return Libdata(
+            timestamp=datetime.utcnow(),
             registered_devices=registered_devices,
             all_songs=library,
             playlist_metadata=playlists,

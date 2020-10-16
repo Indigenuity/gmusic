@@ -18953,17 +18953,6 @@
         "total_disc_count": 1
     },
     {
-        "id": "cb305bda-8e19-3ef7-87f7-d8d6490922ae",
-        "title": "Track 12",
-        "album": "California Guitar",
-        "album_artist": "",
-        "artist": "California Guitar",
-        "track_number": 12,
-        "track_size": 7104470,
-        "disc_number": 0,
-        "total_disc_count": 0
-    },
-    {
         "id": "44c61b11-db9d-3daa-af0d-17e54a7fbb7a",
         "title": "Track 01",
         "album": "California Guitar",
@@ -19081,6 +19070,17 @@
         "artist": "California Guitar",
         "track_number": 11,
         "track_size": 6459141,
+        "disc_number": 0,
+        "total_disc_count": 0
+    },
+    {
+        "id": "cb305bda-8e19-3ef7-87f7-d8d6490922ae",
+        "title": "Track 12",
+        "album": "California Guitar",
+        "album_artist": "",
+        "artist": "California Guitar",
+        "track_number": 12,
+        "track_size": 7104470,
         "disc_number": 0,
         "total_disc_count": 0
     }

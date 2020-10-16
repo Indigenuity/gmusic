@@ -1,20 +1,20 @@
+import file_storage
 import logging
 import os
 
-from file_storage import FileStorage
 from thegoogs import TheGoogs
 
-logging.getLogger("gmusic").setLevel(logging.INFO)
+logging.getLogger("gmusic").setLevel(logging.DEBUG)
 logging.getLogger("gmusic").addHandler(logging.StreamHandler())
 
 STORAGE_PATH = "/Users/jd/ws/gmusic/data"
 
-thegoogs = TheGoogs()
-libdata = thegoogs.get_libdata()
+# thegoogs = TheGoogs()
+# libdata = thegoogs.get_libdata()
 
 # storage_basename = datetime.utcfromtimestamp(datetime.utcnow()).strftime('%Y-%m-%d_%H_%M_%S')
-storage = FileStorage(STORAGE_PATH)
-storage.write_libdata(libdata)
+storage = file_storage.most_recent_storage(STORAGE_PATH)
+# storage.write_libdata(libdata)
 
 
 # if not os.path.exists(TRACK_CONTENT_PATH):
